@@ -1,0 +1,18 @@
+{
+  "baseline_sha256": "4724f87aae7d9a05a4187d9951021382a815fae36e655ecc0726ee5d7052b6a1",
+  "previous_execution": "invitation-metadata-v5-02cc3746-9ed5-4ddd-94d7-6b57dd900d82",
+  "revision": "v6",
+  "owner_requirements": [
+    "All descriptions around 3000 characters, target 2800-3200 including subscription text and final URLs",
+    "Name and subtitle <=30 characters; relevant keywords 95-100 characters",
+    "Distinct localized subscription wording; final lines must be Privacy Policy and Terms of Use with owner-confirmed links",
+    "No original app or screenshot changes",
+    "Short opening, distinct descriptive section headings, concise benefit explanations and bullet lists; no repetitive padding. Examples are structure references only, not product facts."
+  ],
+  "legal_links": {
+    "privacy": "https://xhycapps.com/pp/6824400361/",
+    "terms": "https://xhycapps.com/tou/6824400361/",
+    "confirmed_by": "owner in current chat 2026-10-23"
+  },
+  "previous_review_verdict": "needs_revision"
+}

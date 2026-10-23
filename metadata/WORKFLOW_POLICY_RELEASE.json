@@ -1,0 +1,25 @@
+{
+  "status": "verified",
+  "template_id": "app-store-listing",
+  "template_version": "0.1.32",
+  "template_sha256": "42453ffe74ce008ffd8c73fd6bd4b76c6706d5d64a0d2d33b396616fc0c8ef7b",
+  "marketplace_version_id": "3a4d8ff9-d8c1-46d0-aea3-1eb8313dbd82",
+  "nodes": [
+    "api-1",
+    "app-1",
+    "app-2"
+  ],
+  "service_restarted": false,
+  "existing_executions_replayed": false,
+  "business_workflows_upgraded": [],
+  "source_commit": "7158c5542d",
+  "pull_request": "https://github.com/flashapps2025/braidrun/pull/14",
+  "scope": "Template library publication, not a full application workflow acceptance run",
+  "local_tests": {
+    "focused": 47,
+    "regressions_and_reuse": 29,
+    "skipped": 1,
+    "audit_errors": 0,
+    "audit_existing_warnings": 1
+  }
+}

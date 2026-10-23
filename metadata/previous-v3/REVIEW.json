@@ -1,0 +1,749 @@
+{
+  "verdict": "needs_revision",
+  "metadata_sha256": "9c678174d31433d0136175995595278e69c4ffe149fd0748c0c237dcd06ac71d",
+  "review_date": "2026-10-23",
+  "counting_method": "Unicode code points of decoded JSON strings, including spaces, punctuation, commas and actual newline characters; separate UTF-8 byte and UTF-16 unit counts.",
+  "input_sha256": {
+    "BASELINE.json": "4724f87aae7d9a05a4187d9951021382a815fae36e655ecc0726ee5d7052b6a1",
+    "INPUT_RECEIPT.json": "2d2b29cb72e1a2982a2300d9d16ae7a2cfa7e3fd05f87089f3516c4940a8f583",
+    "LEGAL_LINKS.json": "faa794b0a1c8d1e541a132ca53bae1fcaf4015456fa6861fbb750ef8aa4a3fbc",
+    "APPLE_RULES.md": "49aef78fe117b43975a1e642b531e19f28e6ca2ddd5b12e68449605534f7b0e8",
+    "VALIDATION.json": "09980b21ffc5a363c04f36830dd1d896f9503d31a4ebe8e6f1592d1d9d00b89c",
+    "ASO_RATIONALE.md": "1ea0c6624b7a8e1c40d8ae06feb87986c1d09720d64fb72a554ba5d8de865bad",
+    "COMPETITIVE_ANALYSIS.md": "4bdf3f0f7c038da46d3e0590bfcb03aec05d5672fbe1a35e2c19b57a4042bd43",
+    "PRODUCT_DIRECTION.md": "2546c5d648996463bf10c6e47572c8db87db9b14785ff79112d3cff26770fb54",
+    "/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-localized-v9/app/BRIEF.md": "7240697f7201fae24c51276a5544a06e798f01be05b7412e347070ef6cdc705b",
+    "/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-distinctive-v8/store-assets/campaign/en-US/SOURCE_AUDIT.json": "9923d6e299c9c51ad6f33d81d0bb48669e6a5f21cfbb5cf1569514b00ab2b3e5"
+  },
+  "baseline_receipt_hash_matches": true,
+  "validation_metadata_hash_matches": true,
+  "diff_summary": "Only each of the ten descriptions and top-level rationale changed; schema, locale set, names, subtitles, promotional text, keywords, whats_new, screenshot captions and category are unchanged.",
+  "observed": {
+    "en-US": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 28,
+          "utf8_bytes": 28,
+          "utf16_units": 28
+        },
+        "promotional_text": {
+          "unicode_characters": 153,
+          "utf8_bytes": 153,
+          "utf16_units": 153
+        },
+        "description": {
+          "unicode_characters": 3067,
+          "utf8_bytes": 3067,
+          "utf16_units": 3067
+        },
+        "keywords": {
+          "unicode_characters": 99,
+          "utf8_bytes": 99,
+          "utf16_units": 99
+        },
+        "whats_new": {
+          "unicode_characters": 138,
+          "utf8_bytes": 138,
+          "utf16_units": 138
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "Subscription information\nIf you choose an auto-renewing subscription, your Apple Account is charged when you confirm the purchase. Renewal is automatic unless you cancel at least 24 hours before the current period ends. Your account is charged for renewal within the final 24 hours of that period at the displayed renewal price that applies. You can manage or cancel subscriptions in your Apple Account subscription settings."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Natural, coherent US English with concrete editing and sharing actions. Review advice is proportionate to the workflow.",
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "zh-Hans": {
+      "counts": {
+        "name": {
+          "unicode_characters": 5,
+          "utf8_bytes": 15,
+          "utf16_units": 5
+        },
+        "subtitle": {
+          "unicode_characters": 16,
+          "utf8_bytes": 48,
+          "utf16_units": 16
+        },
+        "promotional_text": {
+          "unicode_characters": 69,
+          "utf8_bytes": 207,
+          "utf16_units": 69
+        },
+        "description": {
+          "unicode_characters": 3008,
+          "utf8_bytes": 8670,
+          "utf16_units": 3008
+        },
+        "keywords": {
+          "unicode_characters": 98,
+          "utf8_bytes": 240,
+          "utf16_units": 98
+        },
+        "whats_new": {
+          "unicode_characters": 43,
+          "utf8_bytes": 129,
+          "utf16_units": 43
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true,
+        "chinese_only_name": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "订阅说明\n如果你选择自动续订订阅，确认购买时将向你的 Apple 账户收取费用。除非在当前订阅期结束至少二十四小时前取消，否则订阅会自动续订；续订费用将在本期结束前二十四小时内，按届时显示的适用续订价格扣取。你可以前往 Apple 账户的订阅设置管理订阅或取消续订。"
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Fluent Simplified Chinese, but repeated occasion, address and proofreading advice makes the expansion padded; see R1.",
+      "description_quality": "needs_revision",
+      "issue_ids": [
+        "R1"
+      ]
+    },
+    "zh-Hant": {
+      "counts": {
+        "name": {
+          "unicode_characters": 5,
+          "utf8_bytes": 15,
+          "utf16_units": 5
+        },
+        "subtitle": {
+          "unicode_characters": 16,
+          "utf8_bytes": 48,
+          "utf16_units": 16
+        },
+        "promotional_text": {
+          "unicode_characters": 69,
+          "utf8_bytes": 207,
+          "utf16_units": 69
+        },
+        "description": {
+          "unicode_characters": 3017,
+          "utf8_bytes": 8691,
+          "utf16_units": 3017
+        },
+        "keywords": {
+          "unicode_characters": 98,
+          "utf8_bytes": 240,
+          "utf16_units": 98
+        },
+        "whats_new": {
+          "unicode_characters": 44,
+          "utf8_bytes": 132,
+          "utf16_units": 44
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true,
+        "chinese_only_name": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "訂閱資訊\n若你選擇自動續訂的訂閱，確認購買時會向你的 Apple 帳號收費。訂閱會自動延續，除非你在當期結束至少二十四小時前取消。續訂款項將於當期結束前二十四小時內，依當時顯示的適用續訂價格收取。你可在 Apple 帳號的訂閱設定中管理或取消訂閱。"
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Uses Traditional Chinese vocabulary such as 範本, 資訊, 匯出 and 本機, and explicitly discloses no Traditional Chinese UI. Distinct wording, but repeated advice requires revision; see R1.",
+      "description_quality": "needs_revision",
+      "issue_ids": [
+        "R1"
+      ]
+    },
+    "ja": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 15,
+          "utf8_bytes": 45,
+          "utf16_units": 15
+        },
+        "promotional_text": {
+          "unicode_characters": 78,
+          "utf8_bytes": 234,
+          "utf16_units": 78
+        },
+        "description": {
+          "unicode_characters": 2980,
+          "utf8_bytes": 8508,
+          "utf16_units": 2980
+        },
+        "keywords": {
+          "unicode_characters": 97,
+          "utf8_bytes": 251,
+          "utf16_units": 97
+        },
+        "whats_new": {
+          "unicode_characters": 64,
+          "utf8_bytes": 192,
+          "utf16_units": 64
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "サブスクリプションについて\n自動更新のサブスクリプションを選んだ場合、購入確定時にApple Accountへ料金が請求されます。現在の期間が終わる少なくとも24時間前までに解約しない限り、自動的に更新されます。更新料金は、期間終了前の24時間以内に、その時点で表示される適用更新価格で請求されます。管理や解約はApple Accountのサブスクリプション設定で行えます。"
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Readable polite Japanese with native phrasing and explicit UI limitation. Repeated closing guidance requires revision; see R1.",
+      "description_quality": "needs_revision",
+      "issue_ids": [
+        "R1"
+      ]
+    },
+    "ko": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 18,
+          "utf8_bytes": 46,
+          "utf16_units": 18
+        },
+        "promotional_text": {
+          "unicode_characters": 88,
+          "utf8_bytes": 216,
+          "utf16_units": 88
+        },
+        "description": {
+          "unicode_characters": 3023,
+          "utf8_bytes": 7181,
+          "utf16_units": 3023
+        },
+        "keywords": {
+          "unicode_characters": 100,
+          "utf8_bytes": 252,
+          "utf16_units": 100
+        },
+        "whats_new": {
+          "unicode_characters": 69,
+          "utf8_bytes": 163,
+          "utf16_units": 69
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "구독 안내\n자동 갱신 구독을 선택하는 경우 구매를 확정할 때 Apple 계정으로 요금이 청구됩니다. 현재 이용 기간이 끝나기 최소 24시간 전에 취소하지 않으면 자동으로 갱신됩니다. 갱신 요금은 해당 기간 종료 전 24시간 이내에 그때 표시되는 적용 갱신 가격으로 청구됩니다. 구독 관리 및 취소는 Apple 계정의 구독 설정에서 할 수 있습니다."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Coherent polite Korean instructional register; includes long-name and salutation examples and distinguishes invitation language from UI. Some verbosity, but no comparable redundant closing block.",
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "fr-FR": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 29,
+          "utf8_bytes": 29,
+          "utf16_units": 29
+        },
+        "promotional_text": {
+          "unicode_characters": 160,
+          "utf8_bytes": 162,
+          "utf16_units": 160
+        },
+        "description": {
+          "unicode_characters": 2994,
+          "utf8_bytes": 3110,
+          "utf16_units": 2994
+        },
+        "keywords": {
+          "unicode_characters": 99,
+          "utf8_bytes": 105,
+          "utf16_units": 99
+        },
+        "whats_new": {
+          "unicode_characters": 149,
+          "utf8_bytes": 154,
+          "utf16_units": 149
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "Informations sur les abonnements\nSi vous choisissez un abonnement à renouvellement automatique, votre compte Apple sera débité à la confirmation de l’achat. Il se renouvellera sauf résiliation au moins 24 heures avant la fin de la période en cours. Le renouvellement sera facturé dans les 24 heures précédant cette échéance, au tarif de renouvellement applicable affiché. Vous pourrez gérer ou résilier l’abonnement dans les réglages des abonnements de votre compte Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Coherent French with consistent vous and localized subscription wording. fête prénatale is understandable though somewhat formal; no blocking localization defect identified.",
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "de-DE": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 27,
+          "utf8_bytes": 28,
+          "utf16_units": 27
+        },
+        "promotional_text": {
+          "unicode_characters": 152,
+          "utf8_bytes": 153,
+          "utf16_units": 152
+        },
+        "description": {
+          "unicode_characters": 3052,
+          "utf8_bytes": 3100,
+          "utf16_units": 3052
+        },
+        "keywords": {
+          "unicode_characters": 98,
+          "utf8_bytes": 98,
+          "utf16_units": 98
+        },
+        "whats_new": {
+          "unicode_characters": 149,
+          "utf8_bytes": 149,
+          "utf16_units": 149
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "Hinweise zu Abonnements\nFalls du ein automatisch verlängerndes Abonnement wählst, wird dein Apple Account bei Kaufbestätigung belastet. Es verlängert sich, sofern du nicht mindestens 24 Stunden vor Ablauf des laufenden Zeitraums kündigst. Die Verlängerung wird innerhalb der letzten 24 Stunden dieses Zeitraums zum angezeigten geltenden Verlängerungspreis berechnet. Verwalten oder kündigen kannst du es in den Abonnementeinstellungen deines Apple Accounts."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Natural informal du register, concrete editing steps and explicit English UI disclosure.",
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "es-ES": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 26,
+          "utf8_bytes": 27,
+          "utf16_units": 26
+        },
+        "promotional_text": {
+          "unicode_characters": 138,
+          "utf8_bytes": 141,
+          "utf16_units": 138
+        },
+        "description": {
+          "unicode_characters": 3032,
+          "utf8_bytes": 3091,
+          "utf16_units": 3032
+        },
+        "keywords": {
+          "unicode_characters": 99,
+          "utf8_bytes": 101,
+          "utf16_units": 99
+        },
+        "whats_new": {
+          "unicode_characters": 145,
+          "utf8_bytes": 148,
+          "utf16_units": 145
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "Información sobre suscripciones\nSi eliges una suscripción de renovación automática, el cargo se realizará en tu Cuenta de Apple al confirmar la compra. Se renovará salvo que la canceles al menos 24 horas antes de que termine el periodo vigente. El cobro de la renovación se efectuará dentro de las 24 horas anteriores a ese vencimiento, al precio de renovación aplicable que se muestre. Puedes gestionarla o cancelarla en los ajustes de suscripciones de tu Cuenta de Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Spain-oriented language including celebráis; coherent localized instructions and subscription disclosure.",
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "pt-BR": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 26,
+          "utf8_bytes": 27,
+          "utf16_units": 26
+        },
+        "promotional_text": {
+          "unicode_characters": 146,
+          "utf8_bytes": 148,
+          "utf16_units": 146
+        },
+        "description": {
+          "unicode_characters": 3004,
+          "utf8_bytes": 3094,
+          "utf16_units": 3004
+        },
+        "keywords": {
+          "unicode_characters": 100,
+          "utf8_bytes": 103,
+          "utf16_units": 100
+        },
+        "whats_new": {
+          "unicode_characters": 140,
+          "utf8_bytes": 142,
+          "utf16_units": 140
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "Informações sobre assinaturas\nSe você optar por uma assinatura com renovação automática, a cobrança será feita na sua Conta Apple ao confirmar a compra. Ela será renovada, a menos que você cancele pelo menos 24 horas antes do fim do período vigente. A renovação será cobrada nas 24 horas anteriores ao encerramento desse período, pelo preço de renovação aplicável exibido. Você pode gerenciar ou cancelar a assinatura nos ajustes de assinaturas da sua Conta Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Brazilian vocabulary and consistent você register, including modelo, rascunhos and assinatura.",
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "ru": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 28,
+          "utf8_bytes": 53,
+          "utf16_units": 28
+        },
+        "promotional_text": {
+          "unicode_characters": 150,
+          "utf8_bytes": 274,
+          "utf16_units": 150
+        },
+        "description": {
+          "unicode_characters": 3068,
+          "utf8_bytes": 5541,
+          "utf16_units": 3068
+        },
+        "keywords": {
+          "unicode_characters": 96,
+          "utf8_bytes": 182,
+          "utf16_units": 96
+        },
+        "whats_new": {
+          "unicode_characters": 134,
+          "utf8_bytes": 246,
+          "utf16_units": 134
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "keyword_separators_valid": true,
+        "no_exact_casefold_keyword_duplicates": true
+      },
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_duration_or_entitlement": false,
+        "verbatim_disclosure": "Информация о подписках\nЕсли вы выберете подписку с автопродлением, оплата будет списана с вашего Аккаунта Apple при подтверждении покупки. Продление произойдёт автоматически, если не отменить подписку минимум за 24 часа до конца текущего периода. Плата за продление взимается в течение последних 24 часов этого периода по указанной применимой цене продления. Управлять подпиской и отменять её можно в настройках подписок Аккаунта Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion and editing terms; no competitor brand, unsupported service or exact keyword/name/subtitle repetition identified. Related synonyms are not identical duplicate entries. Own product name is retained.",
+      "feature_claims": "Consistent with supplied BRIEF and active-target SOURCE_AUDIT; source-backed, not runtime verified.",
+      "localization_assessment": "Coherent Russian with polite plural imperatives and locally natural occasion phrasing; interface and manually authored second-language text remain distinct.",
+      "description_quality": "pass",
+      "issue_ids": []
+    }
+  },
+  "issues": [
+    {
+      "id": "R1",
+      "severity": "medium",
+      "locales": [
+        "zh-Hans",
+        "zh-Hant",
+        "ja"
+      ],
+      "field": "description",
+      "requirement": "Useful localized prose at 2800–3200 characters without padded repetition.",
+      "finding": "Three descriptions append another round of occasion/information-order, address and proofreading guidance after already explaining those tasks and reaching the share/save conclusion. The wording is fluent, but the cumulative semantic repetition reads as length padding. This is a qualitative finding, not a claim of literal duplicate paragraphs or proof of how the copy was generated.",
+      "evidence": [
+        {
+          "locale": "zh-Hans",
+          "earlier_paragraph": 4,
+          "later_paragraph": 20,
+          "earlier_excerpt": "把宾客最需要的信息写完整",
+          "later_excerpt": "让不同场合有不同的重点"
+        },
+        {
+          "locale": "zh-Hans",
+          "earlier_paragraph": 5,
+          "later_paragraph": 21,
+          "earlier_excerpt": "如果活动在傍晚开始",
+          "later_excerpt": "为复杂地址整理表达"
+        },
+        {
+          "locale": "zh-Hans",
+          "earlier_paragraph": 18,
+          "later_paragraph": 22,
+          "earlier_excerpt": "最后从宾客的角度预览",
+          "later_excerpt": "把修改分成两个阶段"
+        },
+        {
+          "locale": "zh-Hant",
+          "earlier_paragraph": 4,
+          "later_paragraph": 22,
+          "earlier_excerpt": "先交代安排，再寫下心意",
+          "later_excerpt": "依場合安排閱讀順序"
+        },
+        {
+          "locale": "zh-Hant",
+          "earlier_paragraph": 5,
+          "later_paragraph": 23,
+          "earlier_excerpt": "日期可以依賓客熟悉的方式表達",
+          "later_excerpt": "把地址寫成實用的指引"
+        },
+        {
+          "locale": "zh-Hant",
+          "earlier_paragraph": 19,
+          "later_paragraph": 24,
+          "earlier_excerpt": "先完成主要內容，之後再細看字體與顏色",
+          "later_excerpt": "用兩次閱讀完成收尾"
+        },
+        {
+          "locale": "ja",
+          "earlier_paragraph": 4,
+          "later_paragraph": 18,
+          "earlier_excerpt": "大切な情報から順番に",
+          "later_excerpt": "場面ごとに情報の順序を考える"
+        },
+        {
+          "locale": "ja",
+          "earlier_paragraph": 4,
+          "later_paragraph": 19,
+          "earlier_excerpt": "招待状を受け取る人が最初に知りたい",
+          "later_excerpt": "住所は具体的な言葉で"
+        },
+        {
+          "locale": "ja",
+          "earlier_paragraph": 16,
+          "later_paragraph": 20,
+          "earlier_excerpt": "最後は受け取る人の目線で",
+          "later_excerpt": "内容と見た目を分けて確認"
+        }
+      ],
+      "requested_revision": "Consolidate repeated guidance into its first relevant section and rebuild the remaining space around distinct, source-supported user tasks or examples. Retain the requested 2800–3200 total, full conditional subscription text and exact legal footer; do not add unimplemented features to reach the count."
+    }
+  ],
+  "limitations": [
+    "Independent textual review and independent read-only counts; supplied validator was not rerun because it writes validation and other outputs.",
+    "Language assessment is not native-speaker certification; shared structure alone is not proof of blind translation.",
+    "Implementation comparison relies on the requested frozen BRIEF and source audit, not a fresh app build, device run or purchase test. Empty product ID is established by the supplied BRIEF, not a new configuration inspection.",
+    "Eight keyword strings exceed 100 UTF-8 bytes. APPLE_RULES.md records conflicting character/byte guidance; this review follows the requested character range and does not resolve App Store Connect acceptance.",
+    "Apple guidance and historical competitor findings were assessed as supplied source material, not independently refreshed live policy or market research. Legal URLs were checked for exact text, not availability or legal adequacy.",
+    "No upload, Apple acceptance claim, or owner final approval."
+  ]
+}

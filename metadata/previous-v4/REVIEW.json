@@ -1,0 +1,1181 @@
+{
+  "verdict": "needs_revision",
+  "metadata_sha256": "955e38b766cd30a25eb2b929dfeab57e906d74582663ccacc4bb3973d7af3cf3",
+  "review_date": "2026-10-23",
+  "counting_method": "Decoded Unicode code points including commas, spaces and actual newlines. Description totals include subscription and footer; UTF-8 bytes and UTF-16 units are recorded independently.",
+  "input_sha256": {
+    "BASELINE.json": "4724f87aae7d9a05a4187d9951021382a815fae36e655ecc0726ee5d7052b6a1",
+    "INPUT_RECEIPT.json": "561932328a63ccd1e3df9e780af94a4a7a2b53ec7b227f26a515024b65688cef",
+    "LEGAL_LINKS.json": "faa794b0a1c8d1e541a132ca53bae1fcaf4015456fa6861fbb750ef8aa4a3fbc",
+    "APPLE_RULES.md": "49aef78fe117b43975a1e642b531e19f28e6ca2ddd5b12e68449605534f7b0e8",
+    "VALIDATION.json": "f70e79b81d8089cc2585bc04c4050268c9a89d548ac84503ec4e5edf72ed67c0",
+    "ASO_RATIONALE.md": "a980dfa491ce77c84640d70c013bd5b536d028a3d36f4ec28ac47258b9b8fa97",
+    "COMPETITIVE_ANALYSIS.md": "4bdf3f0f7c038da46d3e0590bfcb03aec05d5672fbe1a35e2c19b57a4042bd43",
+    "PRODUCT_DIRECTION.md": "2546c5d648996463bf10c6e47572c8db87db9b14785ff79112d3cff26770fb54",
+    "PREVIOUS_REVIEW.json": "3ea9afe2564e4b865d89226d36e1fdbfcfc632dab4362b4de27638a9854516cf",
+    "/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-localized-v9/app/BRIEF.md": "7240697f7201fae24c51276a5544a06e798f01be05b7412e347070ef6cdc705b",
+    "/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-distinctive-v8/store-assets/campaign/en-US/SOURCE_AUDIT.json": "9923d6e299c9c51ad6f33d81d0bb48669e6a5f21cfbb5cf1569514b00ab2b3e5",
+    "/Users/liguoliang/Downloads/app 开发/邀请函/InvitationMakerV2/Resources/ProductConfiguration.json": "8af5e9278d42d65ed2e828e8b5c4469d1175c88962f522563c7784d81a1ea600",
+    "/Users/liguoliang/Downloads/app 开发/邀请函/InvitationMakerV2/Sources/PhotoElementsEditor.swift": "88553ec47839e750c52c092de6f4d53b2eda60099761f90ce85f5483965eb660",
+    "/Users/liguoliang/Downloads/app 开发/邀请函/InvitationMakerV2/Sources/AppStore.swift": "afaa118f12f7b9bdfa5a5924bd8934c83c838ddff33ef523864f78f2b213392d"
+  },
+  "baseline_receipt_hash_matches": true,
+  "validation_metadata_hash_matches": true,
+  "validation_counts_independently_match": true,
+  "diff_summary": "Only ten descriptions and top-level rationale differ from BASELINE.json; other locale fields, locale set, schema, primary locale, screenshot captions and category are preserved.",
+  "observed": {
+    "en-US": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 28,
+          "utf8_bytes": 28,
+          "utf16_units": 28
+        },
+        "promotional_text": {
+          "unicode_characters": 153,
+          "utf8_bytes": 153,
+          "utf16_units": 153
+        },
+        "description": {
+          "unicode_characters": 3047,
+          "utf8_bytes": 3087,
+          "utf16_units": 3047
+        },
+        "keywords": {
+          "unicode_characters": 99,
+          "utf8_bytes": 99,
+          "utf16_units": 99
+        },
+        "whats_new": {
+          "unicode_characters": 138,
+          "utf8_bytes": 138,
+          "utf16_units": 138
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 170,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 16,
+        "sections": [
+          {
+            "heading": "Start with your occasion",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Put the plans into words",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Shape the lettering",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Explore the look and format",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Bring in a personal photo",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Prepare versions for your guests",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Keep a design to use again",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Preview, save and share",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "Subscription information\n• If you choose an auto-renewing subscription, payment is charged to your Apple Account when the purchase is confirmed.\n• It renews automatically unless you cancel at least 24 hours before the current period ends.\n• Renewal is charged within the 24 hours before that period ends, at the applicable displayed renewal price.\n• You can manage or cancel that subscription in your Apple Account subscription settings."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Natural US English; compact actions distinguish template selection, text editing, layout, cutouts, guest/language versions, drafts and export. No material semantic padding.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "zh-Hans": {
+      "counts": {
+        "name": {
+          "unicode_characters": 5,
+          "utf8_bytes": 15,
+          "utf16_units": 5
+        },
+        "subtitle": {
+          "unicode_characters": 16,
+          "utf8_bytes": 48,
+          "utf16_units": 16
+        },
+        "promotional_text": {
+          "unicode_characters": 69,
+          "utf8_bytes": 207,
+          "utf16_units": 69
+        },
+        "description": {
+          "unicode_characters": 2891,
+          "utf8_bytes": 8263,
+          "utf16_units": 2891
+        },
+        "keywords": {
+          "unicode_characters": 98,
+          "utf8_bytes": 240,
+          "utf16_units": 98
+        },
+        "whats_new": {
+          "unicode_characters": 43,
+          "utf8_bytes": 129,
+          "utf16_units": 43
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true,
+        "chinese_only_name": true
+      },
+      "structure_pass": true,
+      "repetition_check": false,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 76,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 24,
+        "sections": [
+          {
+            "heading": "从场合挑选模板",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "把当天安排写清楚",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "让文字有自己的风格",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "比较样式与画面比例",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "把自己的照片变成元素",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "为宾客准备不同版本",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "把草稿留给下一次编辑",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "预览后保存与分享",
+            "feature_bullets": 3
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "订阅说明\n• 如果你选择自动续订订阅，确认购买时会向你的 Apple 账户收取费用。\n• 该订阅将自动续订，除非你在当前订阅期结束至少二十四小时前取消。\n• 续订费用会在本期结束前二十四小时内，按届时显示的适用续订价格扣取。\n• 你可以在 Apple 账户的订阅设置中管理或取消该订阅。"
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Fluent Simplified Chinese, with concrete editing detail, but repeated natural-language advice and repeated design-start guidance dilute usefulness; R1 remains partially unresolved.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "needs_revision",
+      "issue_ids": [
+        "R1"
+      ]
+    },
+    "zh-Hant": {
+      "counts": {
+        "name": {
+          "unicode_characters": 5,
+          "utf8_bytes": 15,
+          "utf16_units": 5
+        },
+        "subtitle": {
+          "unicode_characters": 16,
+          "utf8_bytes": 48,
+          "utf16_units": 16
+        },
+        "promotional_text": {
+          "unicode_characters": 69,
+          "utf8_bytes": 207,
+          "utf16_units": 69
+        },
+        "description": {
+          "unicode_characters": 2901,
+          "utf8_bytes": 8293,
+          "utf16_units": 2901
+        },
+        "keywords": {
+          "unicode_characters": 98,
+          "utf8_bytes": 240,
+          "utf16_units": 98
+        },
+        "whats_new": {
+          "unicode_characters": 44,
+          "utf8_bytes": 132,
+          "utf16_units": 44
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true,
+        "chinese_only_name": true
+      },
+      "structure_pass": true,
+      "repetition_check": false,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 75,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 24,
+        "sections": [
+          {
+            "heading": "為聚會找一個起點",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "交代赴約需要的資訊",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "用字體與色彩表達重點",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "試換風格與卡片形狀",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "加入有意義的照片去背圖",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "為不同親友準備版本",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "讓喜歡的作品繼續使用",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "完成圖片並分享",
+            "feature_bullets": 3
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "訂閱資訊\n• 若你選擇自動續訂的訂閱，確認購買時將向你的 Apple 帳號收費。\n• 除非在當期結束至少二十四小時前取消，該訂閱會自動續訂。\n• 續訂款項會在當期結束前二十四小時內，依當時顯示的適用續訂價格收取。\n• 你可以透過 Apple 帳號的訂閱設定管理或取消該訂閱。"
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Appropriate Traditional Chinese terms including 範本, 去背, 匯出 and 餐敘. Independently worded in places, but second-language and alternate-draft guidance repeats itself; see R1.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "needs_revision",
+      "issue_ids": [
+        "R1"
+      ]
+    },
+    "ja": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 15,
+          "utf8_bytes": 45,
+          "utf16_units": 15
+        },
+        "promotional_text": {
+          "unicode_characters": 78,
+          "utf8_bytes": 234,
+          "utf16_units": 78
+        },
+        "description": {
+          "unicode_characters": 2910,
+          "utf8_bytes": 8256,
+          "utf16_units": 2910
+        },
+        "keywords": {
+          "unicode_characters": 97,
+          "utf8_bytes": 251,
+          "utf16_units": 97
+        },
+        "whats_new": {
+          "unicode_characters": 64,
+          "utf8_bytes": 192,
+          "utf16_units": 64
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": false,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 99,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 23,
+        "sections": [
+          {
+            "heading": "集まりに合うデザインを選ぶ",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "予定を自分の言葉で伝える",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "書体と文字色を整える",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "同じ文章で印象を変える",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "写真を個人らしい飾りにする",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "相手に合わせた版を用意する",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "下書きから制作を続ける",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "完成した画像を保存・共有する",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "サブスクリプションについて\n• 自動更新のサブスクリプションを選ぶ場合、購入確定時にApple Accountに料金が請求されます。\n• 現在の期間終了の24時間以上前に解約しない限り、その契約は自動更新されます。\n• 更新料金は期間終了前の24時間以内に、表示された適用更新価格で請求されます。\n• 契約の管理や解約は、Apple Accountのサブスクリプション設定から行えます。"
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Readable polite Japanese with 宛名 and 下書き. Some stiff phrasing (個人らしい飾り) and unnecessary restatement of template starting points and alternate-draft benefits; see R1.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "needs_revision",
+      "issue_ids": [
+        "R1"
+      ]
+    },
+    "ko": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 18,
+          "utf8_bytes": 46,
+          "utf16_units": 18
+        },
+        "promotional_text": {
+          "unicode_characters": 88,
+          "utf8_bytes": 216,
+          "utf16_units": 88
+        },
+        "description": {
+          "unicode_characters": 2863,
+          "utf8_bytes": 6709,
+          "utf16_units": 2863
+        },
+        "keywords": {
+          "unicode_characters": 100,
+          "utf8_bytes": 252,
+          "utf16_units": 100
+        },
+        "whats_new": {
+          "unicode_characters": 69,
+          "utf8_bytes": 163,
+          "utf16_units": 69
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 109,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 19,
+        "sections": [
+          {
+            "heading": "모임에 맞는 첫 디자인",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "참석에 필요한 정보",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "글자의 표정 만들기",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "스타일과 비율 비교",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "사진으로 더하는 개성",
+            "feature_bullets": 3
+          },
+          {
+            "heading": "받는 사람을 위한 버전",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "초안을 이어서 사용하기",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "완성된 이미지 공유",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "구독 안내\n• 자동 갱신 구독을 선택한다면 구매를 확정할 때 Apple 계정으로 요금이 청구됩니다.\n• 현재 구독 기간이 끝나기 최소 24시간 전에 취소하지 않으면 해당 구독은 자동 갱신됩니다.\n• 갱신 요금은 기간 종료 전 24시간 이내에 표시된 적용 갱신 가격으로 청구됩니다.\n• 해당 구독의 관리와 취소는 Apple 계정의 구독 설정에서 할 수 있습니다."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Consistent polite Korean and clear user actions. The photo-selection tip adds expression/posture considerations to import and placement; some general design advice, but no material padding finding across the whole description.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "fr-FR": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 29,
+          "utf8_bytes": 29,
+          "utf16_units": 29
+        },
+        "promotional_text": {
+          "unicode_characters": 160,
+          "utf8_bytes": 162,
+          "utf16_units": 160
+        },
+        "description": {
+          "unicode_characters": 3141,
+          "utf8_bytes": 3300,
+          "utf16_units": 3141
+        },
+        "keywords": {
+          "unicode_characters": 99,
+          "utf8_bytes": 105,
+          "utf16_units": 99
+        },
+        "whats_new": {
+          "unicode_characters": 149,
+          "utf8_bytes": 154,
+          "utf16_units": 149
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 187,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 16,
+        "sections": [
+          {
+            "heading": "Choisir une occasion",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Présenter votre événement",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Travailler la typographie",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Essayer un autre aspect",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Ajouter une photo détourée",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "S’adresser à chacun",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Retrouver vos créations",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Finaliser et partager",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "Informations sur les abonnements\n• Si vous choisissez un abonnement à renouvellement automatique, votre compte Apple sera débité à la confirmation de l’achat.\n• Il sera reconduit automatiquement sauf résiliation au moins 24 heures avant la fin de la période en cours.\n• Le renouvellement sera facturé dans les 24 heures précédant cette échéance, au tarif de renouvellement applicable affiché.\n• Vous pourrez gérer ou résilier cet abonnement dans les réglages des abonnements de votre compte Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Consistent vous register and idiomatic détourage, photothèque and brouillons; each section adds a separate task. Shared sequence is not evidence of blind translation.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "de-DE": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 27,
+          "utf8_bytes": 28,
+          "utf16_units": 27
+        },
+        "promotional_text": {
+          "unicode_characters": 152,
+          "utf8_bytes": 153,
+          "utf16_units": 152
+        },
+        "description": {
+          "unicode_characters": 3084,
+          "utf8_bytes": 3166,
+          "utf16_units": 3084
+        },
+        "keywords": {
+          "unicode_characters": 98,
+          "utf8_bytes": 98,
+          "utf16_units": 98
+        },
+        "whats_new": {
+          "unicode_characters": 149,
+          "utf8_bytes": 149,
+          "utf16_units": 149
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 186,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 16,
+        "sections": [
+          {
+            "heading": "Den Anlass auswählen",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Die Feier beschreiben",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Schrift gezielt gestalten",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Stil und Format ausprobieren",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Ein Foto einbringen",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Gäste persönlich ansprechen",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Entwürfe weiterverwenden",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Ansehen und teilen",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "Hinweise zu Abonnements\n• Falls du ein Abonnement mit automatischer Verlängerung wählst, wird dein Apple Account bei Kaufbestätigung belastet.\n• Es verlängert sich automatisch, sofern du nicht mindestens 24 Stunden vor Ende des laufenden Zeitraums kündigst.\n• Die Verlängerung wird in den letzten 24 Stunden vor Ablauf zum angezeigten geltenden Verlängerungspreis berechnet.\n• Du kannst dieses Abonnement in den Abonnementeinstellungen deines Apple Accounts verwalten oder kündigen."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Consistent du register, natural Anrede, freigestelltes Fotomotiv and Entwürfe. Concise task descriptions without material repetition.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "es-ES": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 26,
+          "utf8_bytes": 27,
+          "utf16_units": 26
+        },
+        "promotional_text": {
+          "unicode_characters": 138,
+          "utf8_bytes": 141,
+          "utf16_units": 138
+        },
+        "description": {
+          "unicode_characters": 3092,
+          "utf8_bytes": 3186,
+          "utf16_units": 3092
+        },
+        "keywords": {
+          "unicode_characters": 99,
+          "utf8_bytes": 101,
+          "utf16_units": 99
+        },
+        "whats_new": {
+          "unicode_characters": 145,
+          "utf8_bytes": 148,
+          "utf16_units": 145
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 226,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 16,
+        "sections": [
+          {
+            "heading": "Encuentra el punto de partida",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Cuenta qué vais a celebrar",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Dale carácter al texto",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Prueba estilos y formatos",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Añade un recorte de foto",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Prepara versiones personales",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Retoma tus diseños",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Revisa y comparte",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "Información sobre suscripciones\n• Si eliges una suscripción de renovación automática, se cargará el pago en tu Cuenta de Apple al confirmar la compra.\n• Se renovará automáticamente salvo que la canceles al menos 24 horas antes del final del periodo vigente.\n• La renovación se cobrará durante las 24 horas anteriores a ese vencimiento, al precio de renovación aplicable mostrado.\n• Puedes gestionar o cancelar esa suscripción en los ajustes de suscripciones de tu Cuenta de Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Spain-oriented vais and vosotros alongside singular instructions; natural invitation workflow. No material repeated-topic expansion.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "pt-BR": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 26,
+          "utf8_bytes": 27,
+          "utf16_units": 26
+        },
+        "promotional_text": {
+          "unicode_characters": 146,
+          "utf8_bytes": 148,
+          "utf16_units": 146
+        },
+        "description": {
+          "unicode_characters": 3068,
+          "utf8_bytes": 3201,
+          "utf16_units": 3068
+        },
+        "keywords": {
+          "unicode_characters": 100,
+          "utf8_bytes": 103,
+          "utf16_units": 100
+        },
+        "whats_new": {
+          "unicode_characters": 140,
+          "utf8_bytes": 142,
+          "utf16_units": 140
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 206,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 16,
+        "sections": [
+          {
+            "heading": "Escolha a ocasião",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Conte o que vai acontecer",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Cuide das letras",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Experimente outro visual",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Traga uma foto para o convite",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Receba cada pessoa pelo nome",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Continue de onde parou",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Veja o resultado e compartilhe",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "Informações sobre assinaturas\n• Se você optar por uma assinatura com renovação automática, sua Conta Apple será cobrada quando confirmar a compra.\n• Ela será renovada automaticamente, a menos que você cancele pelo menos 24 horas antes do fim do período atual.\n• A renovação será cobrada nas 24 horas anteriores ao encerramento do período, pelo preço de renovação aplicável exibido.\n• Você poderá gerenciar ou cancelar essa assinatura nos ajustes de assinaturas da sua Conta Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Brazilian você register, com a sua cara, chá de bebê and rascunhos; useful task-based copy rather than literal English syntax.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    },
+    "ru": {
+      "counts": {
+        "name": {
+          "unicode_characters": 16,
+          "utf8_bytes": 16,
+          "utf16_units": 16
+        },
+        "subtitle": {
+          "unicode_characters": 28,
+          "utf8_bytes": 53,
+          "utf16_units": 28
+        },
+        "promotional_text": {
+          "unicode_characters": 150,
+          "utf8_bytes": 274,
+          "utf16_units": 150
+        },
+        "description": {
+          "unicode_characters": 3099,
+          "utf8_bytes": 5613,
+          "utf16_units": 3099
+        },
+        "keywords": {
+          "unicode_characters": 96,
+          "utf8_bytes": 182,
+          "utf16_units": 96
+        },
+        "whats_new": {
+          "unicode_characters": 134,
+          "utf8_bytes": 246,
+          "utf16_units": 134
+        }
+      },
+      "checks": {
+        "name_2_to_30": true,
+        "subtitle_max_30": true,
+        "keywords_95_to_100_including_commas": true,
+        "description_2800_to_3200_including_subscription_and_footer": true,
+        "promotional_text_max_170": true,
+        "nfc": true,
+        "exact_final_footer": true,
+        "no_exact_keyword_duplicates": true,
+        "keyword_separators_valid": true
+      },
+      "structure_pass": true,
+      "repetition_check": true,
+      "structure": {
+        "short_opening": true,
+        "opening_characters": 200,
+        "feature_heading_count": 8,
+        "feature_bullet_count": 16,
+        "sections": [
+          {
+            "heading": "Выберите повод",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Расскажите о событии",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Оформите надписи",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Сравните стиль и формат",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Добавьте фотомотив",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Обратитесь к каждому",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Сохраните основу для будущего",
+            "feature_bullets": 2
+          },
+          {
+            "heading": "Посмотрите и поделитесь",
+            "feature_bullets": 2
+          }
+        ],
+        "separate_subscription_block": true,
+        "subscription_bullet_count": 4
+      },
+      "subscription": {
+        "conditional": true,
+        "purchase_confirmation_billing": true,
+        "automatic_renewal": true,
+        "cancel_at_least_24_hours_before_end": true,
+        "renewal_charge_in_final_24_hours": true,
+        "account_subscription_management_and_cancellation": true,
+        "invented_price_plan_period_trial_or_entitlement": false,
+        "verbatim_disclosure": "Информация о подписках\n• Если вы выберете подписку с автопродлением, оплата спишется с вашего Аккаунта Apple при подтверждении покупки.\n• Она продлится автоматически, если не отменить её минимум за 24 часа до конца текущего периода.\n• Плата за продление взимается в течение 24 часов до окончания периода по указанной применимой цене продления.\n• Управлять такой подпиской и отменять её можно в настройках подписок вашего Аккаунта Apple."
+      },
+      "short_field_semantics": "Relevant invitation, occasion, typography and image-sharing terms. No exact duplicate entries, competitor brands, unrelated terms or false feature claims found; related native synonyms (for example font/typeface) are not treated as identical duplicates. No exact keyword entry repeats the name/subtitle wording.",
+      "feature_claims_pass": true,
+      "localization_assessment": "Coherent polite plural instructions with natural event examples. Some technical wording, but no material repetition or unsupported translated claim.",
+      "changed_fields_from_baseline": [
+        "description"
+      ],
+      "description_quality": "pass",
+      "issue_ids": []
+    }
+  },
+  "issues": [
+    {
+      "id": "R1",
+      "severity": "medium",
+      "locales": [
+        "zh-Hans",
+        "zh-Hant",
+        "ja"
+      ],
+      "field": "description",
+      "requirement": "Useful native localized prose without semantic padding; headings and character counts do not establish copy quality.",
+      "finding": "The previous appended occasion/address/proofreading recaps are removed, but several expanded bullets still repeat the same advice within a section. Cumulative restatement of choosing a starting point, natural wording and retaining alternate drafts prevents a clean repetition pass. The issue is editorial redundancy, not literal duplicate paragraphs or an assertion of how the text was generated.",
+      "previous_R1_status": "partially_resolved",
+      "evidence": [
+        {
+          "locale": "zh-Hans",
+          "section": "为宾客准备不同版本",
+          "bullet": 3,
+          "earlier_excerpt": "可以为不同语言习惯选择自然的问候方式",
+          "later_excerpt": "两版邀请可以采用各自自然的句式，不必逐字照搬；例如一句热情的招呼，在另一种语言里可以换成当地更常用的表达。",
+          "reason": "The same instruction to use natural wording is extended again after preparation, assistance and UI disclosure; the example supplies no actual alternative wording or new action."
+        },
+        {
+          "locale": "zh-Hans",
+          "section": "从场合挑选模板",
+          "bullet": 3,
+          "earlier_excerpt": "按这次活动的主题浏览设计，先找到适合的视觉起点。",
+          "later_excerpt": "可以先选最接近活动气氛的一款，不必在这一步决定所有文字效果；模板给你现成的构图，后续的编辑让它逐渐带上这次相聚的个人特色。",
+          "reason": "After occasion selection and sample inspection, this restates choosing a starting point and later personalization at length."
+        },
+        {
+          "locale": "zh-Hant",
+          "section": "為不同親友準備版本",
+          "bullet": 3,
+          "earlier_excerpt": "可以請熟悉該語言的親友協助措辭，讓問候符合日常習慣。",
+          "later_excerpt": "邀請文字則可以各自採用自然句式，例如同樣表達歡迎，另一語言可能習慣用更短的招呼；以親友平常會用的說法撰寫，讓兩版各有合適的語氣。",
+          "reason": "The end repeats natural, familiar phrasing several ways without a concrete new editing task."
+        },
+        {
+          "locale": "zh-Hant",
+          "section": "讓喜歡的作品繼續使用",
+          "bullet": 3,
+          "earlier_excerpt": "也可以藉由副本保留另一個視覺方向，用不同名稱區分兩個方案，分別編輯",
+          "later_excerpt": "例如為同一場餐敘保留暖色與淡色兩稿，就能回到各自的設計繼續調整，而不必憑記憶重做另一個方案。",
+          "reason": "The appended color example reiterates retaining and editing the same two alternatives already explained in the bullet."
+        },
+        {
+          "locale": "ja",
+          "section": "下書きから制作を続ける",
+          "bullet": 3,
+          "earlier_excerpt": "作品を複製して別の集まりの土台にしたり、違うデザイン案を残したりできます。コピーに今回の内容を入れ、名前を付けておけば、元の案と分けて編集を進められます。",
+          "later_excerpt": "たとえば温かい配色の案と淡い配色の案を残せば、どちらも続きを作るための土台になります。",
+          "reason": "The last sentence repeats keeping alternatives as an editable basis instead of explaining another capability or decision."
+        },
+        {
+          "locale": "ja",
+          "section": "集まりに合うデザインを選ぶ",
+          "bullet": 3,
+          "earlier_excerpt": "開催する場面を思い浮かべながら、カードの出発点を見つけましょう。",
+          "later_excerpt": "最初から装飾をすべて決める必要はありません。ひとつのデザインを土台に、あとから言葉や色を加えて仕上げていけます。",
+          "reason": "A third template bullet again explains starting from a design and personalizing later, after selection and sample comparison have already established the workflow."
+        }
+      ],
+      "requested_revision": "Consolidate each repeated point. Use the remaining space only for distinct, source-supported user actions or concrete examples that add information. Retain 2800–3200 characters, 5–8 feature headings, at least eight useful feature bullets, conditional subscription disclosures and the exact footer. Do not invent capabilities to restore length."
+    }
+  ],
+  "limitations": [
+    "Independent textual review with freshly computed counts and hashes; the supplied validator was not executed because it writes other artifacts.",
+    "Language judgments are not native-speaker certification. Shared section order alone does not establish blind translation.",
+    "Feature comparison uses the requested frozen BRIEF and active-target SOURCE_AUDIT, with limited read-only checks of the original source for photo transforms, UI fallback and empty proProductID. No fresh build, device run, purchase or backend test; original source was not proven byte-identical to every frozen file.",
+    "Eight keyword strings exceed 100 UTF-8 bytes. The requested Unicode-character rule is applied and byte counts are separate; conflicting Apple documentation remains unresolved. No claim of App Store Connect acceptance.",
+    "APPLE_RULES.md and both competitor reports were assessed as supplied records, without live policy or market research. Reports are source material, not operational instructions or evidence that proposed roadmap features are implemented.",
+    "Legal URLs are exact owner-supplied strings; availability and legal adequacy were not tested.",
+    "No upload, approval request, Apple acceptance claim or owner final approval. Only REVIEW.json and REVIEW.md were written."
+  ]
+}

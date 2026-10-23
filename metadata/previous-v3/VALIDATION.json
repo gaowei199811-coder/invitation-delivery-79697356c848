@@ -1,0 +1,98 @@
+{
+  "status": "pass",
+  "metadata_sha256": "9c678174d31433d0136175995595278e69c4ffe149fd0748c0c237dcd06ac71d",
+  "rows": [
+    {
+      "locale": "en-US",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 28,
+      "description_characters": 3067,
+      "keywords_characters": 99,
+      "keywords_utf8_bytes": 99
+    },
+    {
+      "locale": "zh-Hans",
+      "name": "邀请函制作",
+      "name_characters": 5,
+      "subtitle_characters": 16,
+      "description_characters": 3008,
+      "keywords_characters": 98,
+      "keywords_utf8_bytes": 240
+    },
+    {
+      "locale": "zh-Hant",
+      "name": "邀請函製作",
+      "name_characters": 5,
+      "subtitle_characters": 16,
+      "description_characters": 3017,
+      "keywords_characters": 98,
+      "keywords_utf8_bytes": 240
+    },
+    {
+      "locale": "ja",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 15,
+      "description_characters": 2980,
+      "keywords_characters": 97,
+      "keywords_utf8_bytes": 251
+    },
+    {
+      "locale": "ko",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 18,
+      "description_characters": 3023,
+      "keywords_characters": 100,
+      "keywords_utf8_bytes": 252
+    },
+    {
+      "locale": "fr-FR",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 29,
+      "description_characters": 2994,
+      "keywords_characters": 99,
+      "keywords_utf8_bytes": 105
+    },
+    {
+      "locale": "de-DE",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 27,
+      "description_characters": 3052,
+      "keywords_characters": 98,
+      "keywords_utf8_bytes": 98
+    },
+    {
+      "locale": "es-ES",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 26,
+      "description_characters": 3032,
+      "keywords_characters": 99,
+      "keywords_utf8_bytes": 101
+    },
+    {
+      "locale": "pt-BR",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 26,
+      "description_characters": 3004,
+      "keywords_characters": 100,
+      "keywords_utf8_bytes": 103
+    },
+    {
+      "locale": "ru",
+      "name": "Invitation Maker",
+      "name_characters": 16,
+      "subtitle_characters": 28,
+      "description_characters": 3068,
+      "keywords_characters": 96,
+      "keywords_utf8_bytes": 182
+    }
+  ],
+  "warnings": [],
+  "keywords_policy": "100 Unicode characters; UTF-8 byte count recorded due conflicting Apple reference wording; no ASC submission performed"
+}

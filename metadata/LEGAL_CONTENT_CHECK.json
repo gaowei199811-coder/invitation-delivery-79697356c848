@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-23T11:07:14.360510+08:00",
+  "status": "retain_urls_owner_will_correct_content",
+  "finding": "Both supplied legal pages return HTTP 200 but identify Conduit Bend & Fill Calculator in document/body rather than Invitation Maker; URLs retained pending owner decision.",
+  "pages": {
+    "privacy": {
+      "url": "https://xhycapps.com/pp/6824400361/",
+      "http_status": 200,
+      "sha256": "4bec3c65a8c12ec8cfe4bc786e741d7f9fc0fcb52ef032598b80144973d92825"
+    },
+    "terms": {
+      "url": "https://xhycapps.com/tou/6824400361/",
+      "http_status": 200,
+      "sha256": "410c0dcfda83f40d38709370fb77a83f12d491b6ab9d1edfb352dfe4a5968bf9"
+    }
+  },
+  "owner_decision": "保留，后续我自己修正",
+  "delivery_may_continue": true
+}

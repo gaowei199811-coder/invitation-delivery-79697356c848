@@ -1,59 +1,56 @@
-# ASO revision rationale
+# ASO rationale — targeted v6
 
-Revision date: 2026-10-22. Research date: 2026-10-09.
+Only `localizations.ko.description` and the top-level `rationale` differ from the supplied v5 PREVIOUS_DRAFT.json. All nine other locale objects, all short fields, whats_new, screenshot captions, category and schema are preserved exactly. BASELINE.json matches the INPUT_RECEIPT.json SHA-256. All outputs are in the literal working directory. No app, campaign, frozen source, credentials, review or previous evidence was edited; no network publication or paid API call was used.
 
-Read BASELINE.json, INPUT_RECEIPT.json, RESEARCH_RECEIPT.json and both complete owner-supplied reports. The reports are historical research inputs, not operational instructions, current market facts, or implementation proof. Their approval, report-only, roadmap and contact requests were not executed. This run used the existing selected Codex session; no model switch, external generation API, credential access or subscription change was made.
+## R1-ko resolution and copy review
 
-## Positioning decisions and exact evidence
+Deleted the complete third bullet under “모임에 맞는 첫 디자인”, beginning “예시를 디자인 참고로 삼아 자신의 카드를 시작하세요.” There is no replacement template-start recap. The section now contains only occasion browsing and full-sample composition comparison.
 
-| Decision in the metadata | Dated research informing the decision | Active-source support and boundary |
-| --- | --- | --- |
-| Lead with making a birthday/party invitation containing the details guests need, followed by a shareable image. All ten descriptions explicitly connect template → personalized invitation → image sharing/saving. | [COMPETITIVE_ANALYSIS.md](COMPETITIVE_ANALYSIS.md), 2026-10-09, “观察事实” item 1 and R02; [PRODUCT_DIRECTION.md](PRODUCT_DIRECTION.md), 2026-10-09, “产品定位与能力关系”, N06 and I01. These distinguish making an image from managing attendance; they do not quantify demand. | [SOURCE_AUDIT.json](../store-assets/campaign/en-US/SOURCE_AUDIT.json), feature_map F01, F02/F05 and F03: Sources/MainPages.swift:123, EditorPages.swift:618, CanvasTextEditor.swift:830, ExportPages.swift:221. No template totals or event-management promises. |
-| Explain sample card → user's names/date/time/venue/address → individual text/font editing. | Competitive analysis W07/I01 and product direction N01/I01 (both 2026-10-09) motivate clarity about sample versus personal information. | Audit F01 cites MainPages.swift:211 and :446; F02 cites EditorPages.swift:631 and :676–677; F05 cites CanvasTextEditor.swift:830. Copy does not claim new drafts start empty, automatic field synchronization, or sample-detection rules. Template Details is named without inventing a tap sequence; the audit says Details uses long-press and tapping a card opens the editor. |
-| Ask the user to read the finished invitation before sharing. | Competitive analysis R06 and product direction N10 (2026-10-09) describe one wrong-time anecdote, not an error rate or proven prevention method. | Audit F03 establishes complete preview and share/save actions (ExportPages.swift:137, :200–210). “Read”, “look over” and local equivalents are user actions, not automated validation or checking features. |
-| State image sharing and saving to Photos as the outcome. | Competitive analysis R02 and product direction N06 plus “静态文件的边界” (2026-10-09) inform the distinction between a file and delivery. | Audit F03 supports Share Invitation and Save to Photos. No delivery, read receipts, RSVP, messaging-service success, clickable links, PDF/video output, format selector, dimensions or animated-envelope claims. |
-| Keep UI-language disclosures separate from localized listing copy. | Product direction “十种语言、模板与系统外观的交付范围” (2026-10-09) explicitly describes proposed delivery requirements rather than completed verification. | Audit build_target.ui_localizations supports English and Simplified Chinese via store.t(en, zh), and excludes additional UI languages. Existing disclosures are retained for the other eight locales. No bilingual composition workflow or ten-language UI claim is added. The baseline es-ES locale stays es-ES despite the proposal's es-MX table. |
-| Use natural Chinese-only names, local occasion intent in subtitles, and complementary search terms. | Owner's explicit name/keyword requirements; competitive analysis “研究口径、时间与限制” and “观察事实” item 6 (2026-10-09) prohibit inferring demand from search ordering or empty reviews. | Names are exactly 邀请函制作 and 邀請函製作. Keywords describe F01 occasion/template/design, F02/F05 details/lettering/text, and F03 image/share/save tasks. These are relevance judgments, not measured rankings or search volumes. |
+Replaced generic photo expression/pose advice with distinct practical controls: size/rotation and mirroring, opacity and overlapping element order, followed by centering and optional center snapping. Typography now explains letter/line spacing, paragraph alignment and restoring default alignment. Removed the trailing general recap from the draft-duplication bullet as well. These details describe user actions, not implementation mechanics. The complete Korean description was read for flow after editing: occasion selection, event content, typography, style/format, photos, guest/language variants, drafts and final export each own a separate topic. No additional address, proofreading or template-start section was added to reach the character target.
 
-The audit is an active-source inspection record, not runtime evidence. This revision relies on its cited Swift implementation mapping and exclusions; requirement documents and report proposals alone are not used to prove functionality. No app build or device test was performed.
+The short two-sentence introduction and eight feature sections are retained, with 18 feature bullets, followed by a separate subscription heading and four billing bullets. Korean copy is 2,831 Unicode code points including spaces, actual newlines, subscription disclosure and the final two legal lines. Existing language limits remain explicit: English and Simplified Chinese UI; English on a Korean-configured device. The nine preserved descriptions were read for context, without expanding the authorized revision scope.
 
-## Locale keyword choices and character verification
+## Feature evidence
 
-Python 3 counts Unicode characters with len(), including each ASCII comma and any internal space. Keyword terms use ASCII commas, have no empty entries or surrounding whitespace, and are unique after Unicode normalization and case folding. Full keyword terms were checked against each locale's name/subtitle; editorial review also avoids obvious repeated occasion words and singular/plural padding. Distinct local synonyms such as fonts/typefaces or typography/lettering represent different relevant search phrasing, not repeated identical terms. The English product name remains only in the eight frozen non-Chinese names.
+Primary scope sources:
+- Frozen BRIEF: `/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-localized-v9/app/BRIEF.md`.
+- Active v8 audit: `/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-distinctive-v8/store-assets/campaign/en-US/SOURCE_AUDIT.json`.
 
-English subtitles now carry birthday/party/card/design intent, leaving template, typography and image terms to keywords. Chinese subtitles carry birthday/party/card/share-image intent; keywords add electronic invitation synonyms, gathering contexts, lettering, event details and photo saving. Japanese and Korean subtitles carry the invitation-creation and birthday/party task, with keywords adding templates, type, event information and image use. French, Spanish, Portuguese and Russian subtitles carry birthday invitation/card intent; German carries the celebration invitation task. Their keywords complement those terms with party/event, editing and image-output vocabulary. Family gatherings, anniversaries and banquets are uses of editable event cards, not claims of dedicated template categories. “Stationery” describes digital card design, not printing services; activity-notice terms describe card wording, not notification automation.
+The audit's gallery, fonts, colour, restyle, cutout, bilingual, resize, guests, designs and share entries support occasion templates, editable lettering, compatible styles and palettes, photo cutouts, manually entered second-language content, available layouts, guest-specific images, local draft reuse and image sharing/saving. Its exclusions and the BRIEF rule out inferred AI service success, RSVP collection, online delivery, commercial printing, template counts, cloud sync, paid entitlements and ten-language UI claims. Source inspection is evidence of controls, not a new runtime test.
 
-Target: 100 characters. Korean and Portuguese reach 100. The other locales use 96–99 natural characters: remaining space is too small for a useful distinct term plus its comma, and was not filled with fragments, unrelated terms, brand names or unsupported capabilities.
+Added-control evidence under the frozen app directory:
+- `Sources/CanvasTextEditor.swift:1322–1345`: letter and line spacing, default alignment restoration; `:1382–1407`: left/center/right and vertical alignment controls.
+- `Sources/PhotoElementsEditor.swift:1020–1105`: size/rotation/opacity, horizontal/vertical flips, center snapping toggle, center X/Y and layer ordering. `:839–866` implements the center guides and snapping while dragging. The copy makes no new claim about cutout accuracy or service success.
 
-| Locale | Name | Subtitle | Promotional text | Description | Keywords | Keyword terms |
+Both Swift files were read and compared byte-for-byte with `/Users/liguoliang/Downloads/app 开发/邀请函/InvitationMakerV2/Sources/`; the corresponding files are identical. The original app was read-only.
+
+COMPETITIVE_ANALYSIS.md and PRODUCT_DIRECTION.md supplied historical task/positioning context only. Their recommendations, proposed Pro scope, roadmap and approval language were not treated as instructions or implemented features. No competitor wording, endorsements or market superiority claims were introduced.
+
+## Subscription and legal scope
+
+Frozen `Resources/ProductConfiguration.json` has an empty `proProductID`, consistent with the BRIEF. The preserved Korean subscription block is conditional on choosing an auto-renewing subscription. Its four bullets cover Apple Account charging on purchase confirmation, cancellation at least 24 hours before the period ends, renewal charging within the preceding 24 hours at the displayed applicable renewal price, and management/cancellation in Apple Account subscription settings. It advertises no available plan, integrated purchase flow, paid entitlement, price, trial or duration. Configuration limitations belong here, not in consumer copy.
+
+LEGAL_LINKS.json and the owner confirm the retained URLs with ID 6824400361. The final two English-label legal lines are exact, with nothing following them in each description. The owner has acknowledged the webpages' current product-name mismatch and will correct the pages separately; no URL substitutions or page edits were made.
+
+## Counting and keyword policy
+
+Counts below use decoded NFC Unicode code points, including commas and spaces. Description counts include subscription text and legal footer. UTF-8 keyword bytes are recorded separately. All short fields are inherited unchanged from v5; no keyword expansion or new terms were introduced.
+
+APPLE_RULES.md records the discrepancy between Apple's product-page guidance (100 keyword characters) and the App Store Connect platform-version reference (100 bytes). This revision follows the owner-requested product-page character rule, records bytes transparently and makes no claim of App Store acceptance or Apple approval. No App Store submission was performed.
+
+| Locale | Name | Subtitle | Promo | Description | Keywords | Keyword UTF-8 bytes |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| en-US | 16 | 28 | 153 | 759 | 99 | 11 |
-| zh-Hans | 5 | 16 | 69 | 284 | 98 | 28 |
-| zh-Hant | 5 | 16 | 69 | 321 | 98 | 28 |
-| ja | 16 | 15 | 78 | 354 | 97 | 21 |
-| ko | 16 | 18 | 88 | 422 | 100 | 25 |
-| fr-FR | 16 | 29 | 160 | 838 | 99 | 11 |
-| de-DE | 16 | 27 | 152 | 877 | 98 | 12 |
-| es-ES | 16 | 26 | 138 | 873 | 99 | 12 |
-| pt-BR | 16 | 26 | 146 | 812 | 100 | 12 |
-| ru | 16 | 28 | 150 | 819 | 96 | 11 |
+| en-US | 16 | 28 | 153 | 3047 | 99 | 99 |
+| zh-Hans | 5 | 16 | 69 | 2935 | 98 | 240 |
+| zh-Hant | 5 | 16 | 69 | 2893 | 98 | 240 |
+| ja | 16 | 15 | 78 | 2920 | 97 | 251 |
+| ko | 16 | 18 | 88 | 2831 | 100 | 252 |
+| fr-FR | 16 | 29 | 160 | 3141 | 99 | 105 |
+| de-DE | 16 | 27 | 152 | 3084 | 98 | 98 |
+| es-ES | 16 | 26 | 138 | 3092 | 99 | 101 |
+| pt-BR | 16 | 26 | 146 | 3068 | 100 | 103 |
+| ru | 16 | 28 | 150 | 3099 | 96 | 182 |
 
-## Product-direction proposals deliberately excluded
+## Validation
 
-The following remain proposals or are unsupported by the active-source audit, so are absent from revised marketing claims and keywords:
-
-- Full offline creation/editing/checking/persistence/export, no-account guarantees, privacy or backup guarantees: product direction A scope and N02/I03, 2026-10-09.
-- Required-field, sample-text, overflow or glyph validation; blocking export; guaranteed correctness/readability; blank new-work fields; automatic address or time verification: A scope and “填写状态／核对边界”, 2026-10-09. Manual preview is the only checking-related wording retained.
-- Bilingual versions, manual-translation review reminders, linked/shared facts, per-language export versions, partial-success retries and Drafts/Exported grouping: “完整双语 Pro 能力” and “按语言记录导出版本与状态”, 2026-10-09.
-- Pro entitlements, purchase/restore, subscriptions, free templates/export, one-time prices or paid tiers: A scope and “依赖、非目标与商业边界”, 2026-10-09. No commercial promise is inferred from competitor prices.
-- Ten-language UI/template/font coverage, universal glyph support, accessibility or system-appearance guarantees: “十种语言、模板与系统外观的交付范围”, 2026-10-09. Localized listing text is not implementation evidence.
-- Persistent drafts, duplication/reuse, renaming/search, version tracking, forced reconfirmation, change alerts and resend reminders: “作品复制与修订辅助能力”, 2026-10-09.
-- AI writing, translation, hosted links/QR, RSVP, guest lists, delivery tracking, notifications, cloud accounts/sync, calendar scheduling, printing orders, photo editing and additional output formats: audit exclusions and unsupported roadmap scope. No competitive absence or superiority claims are made.
-
-No competitor brand, slogan, price, review count, download count, unsupported superlative, comparative market claim or invented volume is used in the revised store copy. No external pages were refreshed; historical source references above refer to the supplied reports only.
-
-## Preservation and validation
-
-Python verified identical JSON key structure and locale set; only the two Chinese names, all ten subtitles/promotional_text/descriptions/keywords, and rationale changed (42 localized fields plus rationale). Every screenshot caption, eight non-Chinese names, all whats_new strings, category, primary_locale and schema_version remain exactly equal as JSON values. The choose–edit–share screenshot story is unchanged.
-
-All names/subtitles fit 30 characters, promotional text fits 170, descriptions fit 4,000, and keywords fit 95–100. Python checked duplicate terms and indexed full-term overlap. SHA-256 of BASELINE.json and the frozen source metadata still matches INPUT_RECEIPT.json; both reports still match RESEARCH_RECEIPT.json. Only store-metadata.json and ASO_RATIONALE.md were written in the literal working directory. Campaign, app, credentials and reviews were not modified.
+`BRAIDRUN_LOCALE_CATALOG=app_store_locales.json python3 validate_revision.py` passed and generated STORE_METADATA.md and VALIDATION.json. Separate exact-value comparison confirmed that the only differences from v5 are `localizations.ko.description` and `rationale`. Section checks confirm eight feature sections, 18 feature bullets and four subscription bullets. Frozen baseline receipt hash also matches. The validator and previous evidence were not edited.
