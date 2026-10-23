@@ -1,0 +1,44 @@
+{
+  "executionId": "invitation-distinctive-v8-7d1eb031-b49c-4233-b7fb-67b924d18ec2",
+  "manifest_sha256": "5a305fc7b0b4bff4a3390c1602518fb7e70d22793aa6cb5b091fefcb67df47b8",
+  "source_manifest": "/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-distinctive-v8/store-assets/campaign/en-US/output/manifest.json",
+  "review_status": "pass",
+  "owner_visual_acceptance": "pending",
+  "note": "Exact workflow-rendered PNG copies; not a new render or approved master.",
+  "verified_count": 10,
+  "locale": "en-US",
+  "device_widths": [
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ],
+    [
+      350
+    ]
+  ],
+  "source_kind": "source_backed_illustrative_ui",
+  "native_generated_assets": 0
+}

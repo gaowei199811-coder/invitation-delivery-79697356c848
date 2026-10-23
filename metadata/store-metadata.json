@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "primary_locale": "zh-Hans",
+  "localizations": {
+    "en-US": {
+      "name": "Invitation Maker",
+      "subtitle": "Birthday & party card design",
+      "promotional_text": "Turn a template into an invitation with your names, time and venue. Style the text, preview the finished card, then share the image or save it to Photos.",
+      "description": "Make a birthday or party invitation with the details your guests need. Start with an illustrated template, add your own words and turn the card into an invitation image to share.\n\nChoose a design\nBrowse occasion templates and view a full sample card in Template Details. Use the artwork and lettering as a starting point for your event.\n\nMake the invitation yours\nAdd the event title, name, date, time, venue and address. Edit individual text blocks and choose fonts for the title and message. See your words on the card as you personalize it.\n\nPreview, share and save\nLook over the complete invitation and read your event details before sharing. Open Share Invitation to share the invitation image, or use Save to Photos to keep a copy in your photo library.",
+      "keywords": "event,templates,fonts,typography,digital,celebration,lettering,personalize,image,sharing,stationery",
+      "whats_new": "This version includes invitation templates, event details, text and font editing, and options to share invitations or save them to Photos."
+    },
+    "zh-Hans": {
+      "name": "邀请函制作",
+      "subtitle": "生日派对卡片，填写信息并分享图片",
+      "promotional_text": "为生日、派对或相聚准备一张专属邀请函。挑选插画模板，填入姓名、日期、时间和地点，调整文案与字体，再预览整张卡片，分享邀请图片或保存到相册。",
+      "description": "把这次相聚的安排，写进一张专属邀请函。从插画模板出发，填好活动信息、调整文字与字体，做成可以分享或保存的邀请图片。\n\n挑选适合活动的模板\n浏览模板，在模板详情中查看完整示例卡片，选择喜欢的插画与排版，作为生日或聚会邀请的起点。示例内容供参考，制作时填入自己的活动信息。\n\n让宾客看见具体安排\n加入活动标题、姓名、日期、时间、地点和地址，再写下想对宾客说的话。选中单独的文字区域，修改文案并挑选字体，让标题与正文呈现不同层次。\n\n预览后分享或保存\n查看完整邀请函，自己读一遍姓名、时间和地址。通过“分享邀请函”打开分享选项，或用“保存到相册”留存邀请图片，方便之后使用。",
+      "keywords": "电子请柬,聚会,模板,字体,排版,文案,设计,相册保存,活动通知,庆祝,姓名,日期,时间,地址,场地,插画,个性化,标题,文字编辑,宴会,请帖,亲友相聚,邀请语,字形,样式,预览,家庭聚餐,纪念日",
+      "whats_new": "当前版本支持选择邀请函模板、填写活动信息、编辑文字与字体，以及分享邀请函或保存到相册。"
+    },
+    "zh-Hant": {
+      "name": "邀請函製作",
+      "subtitle": "生日派對卡片，填寫資訊並分享圖片",
+      "promotional_text": "為生日、派對或相聚準備一張專屬邀請函。挑選插畫範本，填入姓名、日期、時間與地點，調整文案和字體，再預覽整張卡片，分享邀請圖片或儲存到照片。",
+      "description": "把這次相聚的安排，寫進一張專屬邀請函。從插畫範本出發，填好活動資訊、調整文字與字體，做成可以分享或儲存的邀請圖片。\n\n挑選適合活動的範本\n瀏覽範本，在範本詳情中查看完整範例卡片，選擇喜歡的插畫與排版，作為生日或聚會邀請的起點。範例內容供參考，製作時填入自己的活動資訊。\n\n讓賓客看見具體安排\n加入活動標題、姓名、日期、時間、場地與地址，再寫下想對賓客說的話。選取個別文字區塊，修改文案並挑選字體，讓標題與內文呈現不同層次。\n\n預覽後分享或儲存\n查看完整邀請函，自己讀一遍姓名、時間與地址。開啟分享選項來分享邀請圖片，或將圖片儲存到照片圖庫，方便之後使用。\n\n介面語言為英文與簡體中文，目前不提供繁體中文介面；本頁展示的 App 畫面使用英文。",
+      "keywords": "電子請柬,聚會,範本,字體,排版,文案,設計,照片儲存,活動通知,慶祝,姓名,日期,時間,地址,場地,插畫,個人化,標題,文字編輯,宴會,請帖,親友相聚,邀請語,字型,樣式,預覽,家庭聚餐,紀念日",
+      "whats_new": "目前版本提供邀請函範本、活動資訊編輯、文字與字體調整，以及分享邀請函或儲存到照片的選項。"
+    },
+    "ja": {
+      "name": "Invitation Maker",
+      "subtitle": "誕生日やパーティーの招待状作成",
+      "promotional_text": "テンプレートに名前・日時・会場を入れて、自分らしい招待状に。文字やフォントを整え、カード全体を確認したら、招待状の画像を共有したり写真に保存したりできます。",
+      "description": "誕生日やパーティーの予定を、一枚の招待状に。イラスト入りのテンプレートを選び、自分の言葉とイベント情報を入れて、共有できる招待状の画像を作れます。\n\n見本から自分のカードへ\nテンプレートの詳細でカード全体の見本を確認できます。好きなデザインを選び、イベント名、名前、日付、時間、会場、住所を入力しましょう。\n\n文字にも気持ちを込めて\n個別の文字ブロックを編集し、フォントを選べます。タイトルやメッセージを整えながら、カード上で文字の見え方を確認できます。\n\nできあがった画像を共有・保存\n全体プレビューで名前や日時、会場を自分で見直したら、共有の選択肢を開くか、招待状の画像を写真ライブラリに保存しましょう。\n\nアプリの操作画面は英語または簡体字中国語に対応しています。日本語の操作画面には対応していません。",
+      "keywords": "テンプレート,フォント,案内状,デジタルカード,イベント,レタリング,お祝い,文字編集,画像保存,共有,デザイン,名前,日時,会場,住所,招待文,書体,イラスト,プレビュー,記念日,家族の集まり",
+      "whats_new": "現在のバージョンでは、テンプレートを使った招待状の作成、イベント情報の入力、文字とフォントの編集、共有と写真への保存ができます。"
+    },
+    "ko": {
+      "name": "Invitation Maker",
+      "subtitle": "생일과 파티를 위한 초대장 만들기",
+      "promotional_text": "템플릿에 이름과 날짜, 시간, 장소를 담아 나만의 초대장을 만드세요. 문구와 글꼴을 다듬고 완성한 카드를 살펴본 뒤 이미지로 공유하거나 사진 앱에 저장하세요.",
+      "description": "생일 파티와 모임의 소식을 한 장에 담아 보세요. 그림이 있는 템플릿을 고르고 내 행사 정보를 넣으면 공유할 초대장 이미지를 만들 수 있습니다.\n\n예시에서 내 모임의 카드로\n템플릿 상세 화면에서 전체 예시를 살펴보세요. 원하는 디자인으로 시작해 행사 제목, 이름, 날짜, 시간, 장소와 주소를 채우세요. 예시의 정보는 참고용입니다.\n\n내 문구와 글꼴로 꾸미기\n개별 글자 영역을 선택해 내용을 편집하고 글꼴을 고르세요. 제목과 안내 문구가 카드에 어떻게 보이는지 살펴보며 모임의 분위기를 담을 수 있습니다.\n\n완성한 이미지 공유와 저장\n카드 전체를 보며 이름과 일시, 장소를 직접 살펴보세요. 공유 옵션을 열어 초대장 이미지를 공유하거나 사진 앱에 저장할 수 있습니다.\n\n앱 인터페이스는 영어와 중국어 간체를 지원하며, 한국어 환경에서는 영어로 표시됩니다.",
+      "keywords": "템플릿,모임,초청장,카드,글꼴,행사안내,문구편집,디자인,이미지저장,사진,이름,날짜,시간,장소,주소,축하,글자꾸미기,미리보기,공유,기념일,초대문구,서체,일러스트,가족행사,타이포그래피",
+      "whats_new": "현재 버전에서는 템플릿 선택, 행사 정보 입력, 문구와 글꼴 편집, 초대장 이미지 공유 및 사진 앱 저장 기능을 제공합니다."
+    },
+    "fr-FR": {
+      "name": "Invitation Maker",
+      "subtitle": "Cartes pour vos anniversaires",
+      "promotional_text": "Du modèle à votre invitation : ajoutez noms, date et lieu, personnalisez le texte et les polices, puis partagez la carte en image ou enregistrez-la dans Photos.",
+      "description": "Préparez une invitation pour un anniversaire ou une fête avec les détails utiles à vos proches. Partez d’un modèle illustré, personnalisez la carte et obtenez une image à partager.\n\nUn modèle pour votre événement\nConsultez la carte entière dans les détails du modèle. Choisissez un décor, puis ajoutez le titre, le nom, la date, les horaires, le lieu et l’adresse de votre événement.\n\nVos mots et vos polices\nModifiez les blocs de texte et choisissez leurs polices. Regardez le titre et le message sur la carte pendant que vous les personnalisez.\n\nUne image à partager ou à garder\nRelisez vous-même les noms, les horaires et le lieu dans l’aperçu complet. Ouvrez les options de partage de l’image ou enregistrez votre invitation dans Photos.\n\nL’interface de l’application s’affiche en anglais lorsque votre appareil est réglé en français.",
+      "keywords": "fête,modèle,typographie,événement,texte,polices,personnaliser,image,partage,enregistrer,célébration",
+      "whats_new": "Cette version permet de choisir un modèle, de personnaliser les textes et les polices, puis de partager l’invitation ou de l’enregistrer dans Photos."
+    },
+    "de-DE": {
+      "name": "Invitation Maker",
+      "subtitle": "Einladungen für deine Feier",
+      "promotional_text": "Von der Vorlage zur eigenen Einladung: Namen, Zeit und Ort ergänzen, Text und Schrift gestalten, dann die Karte als Bild teilen oder in Fotos speichern.",
+      "description": "Gestalte eine Einladung für einen Geburtstag oder eine Party mit den Angaben für deine Gäste. Wähle eine illustrierte Vorlage und mache daraus deine persönliche Karte als teilbares Bild.\n\nMit einer Vorlage beginnen\nIn den Vorlagendetails kannst du die ganze Musterkarte ansehen. Wähle dein Motiv und ergänze Titel, Namen, Datum, Uhrzeit, Veranstaltungsort und Adresse.\n\nText und Schrift gestalten\nBearbeite einzelne Textblöcke und wähle ihre Schriftarten. Sieh auf der Karte, wie deine Überschrift und deine Nachricht aussehen.\n\nAnsehen, teilen und speichern\nLies Namen, Uhrzeit und Adresse in der vollständigen Vorschau selbst noch einmal durch. Öffne die Teilen-Funktion für dein Einladungsbild oder speichere es in deiner Fotomediathek.\n\nDie App-Oberfläche ist auf Englisch und vereinfachtem Chinesisch verfügbar. Bei deutscher Gerätesprache wird sie auf Englisch angezeigt.",
+      "keywords": "geburtstag,party,vorlagen,schriftarten,typografie,karten,design,text,bilder,teilen,speichern,event",
+      "whats_new": "Diese Version bietet Einladungsvorlagen, die Eingabe von Veranstaltungsdetails, Text- und Schriftbearbeitung sowie das Teilen und Speichern in Fotos."
+    },
+    "es-ES": {
+      "name": "Invitation Maker",
+      "subtitle": "Invitaciones de cumpleaños",
+      "promotional_text": "De una plantilla a tu invitación: añade nombres, hora y lugar, personaliza el texto y comparte la tarjeta como imagen o guárdala en Fotos.",
+      "description": "Prepara una invitación de cumpleaños o para una fiesta con los datos que necesitan tus invitados. Elige una plantilla ilustrada, personaliza la tarjeta y crea una imagen para compartir.\n\nEmpieza por un diseño\nConsulta la tarjeta de muestra completa en los detalles de la plantilla. Añade el título del evento, el nombre, la fecha, la hora, el lugar y la dirección.\n\nDale tu voz a la tarjeta\nEdita los bloques de texto y elige sus tipografías. Observa cómo quedan el título y el mensaje en la tarjeta mientras los personalizas.\n\nUna imagen para compartir o guardar\nLee tú mismo los nombres, la hora y el lugar en la vista previa completa. Abre las opciones para compartir la imagen de la invitación o guárdala en Fotos para conservar una copia.\n\nLa interfaz de la app está disponible en inglés y chino simplificado. Las imágenes de esta ficha muestran la interfaz en inglés.",
+      "keywords": "tarjetas,plantillas,tipografía,eventos,fiesta,diseño,texto,fuentes,imagen,compartir,guardar,festejo",
+      "whats_new": "Esta versión permite elegir plantillas, añadir los datos del evento, editar textos y tipografías, y compartir invitaciones o guardarlas en Fotos."
+    },
+    "pt-BR": {
+      "name": "Invitation Maker",
+      "subtitle": "Convites para aniversários",
+      "promotional_text": "Do modelo ao seu convite: inclua nomes, horário e local, personalize o texto e as fontes e compartilhe o cartão como imagem ou salve no app Fotos.",
+      "description": "Prepare um convite de aniversário ou de festa com os detalhes que seus convidados precisam. Escolha um modelo ilustrado, personalize o cartão e crie uma imagem para compartilhar.\n\nComece com um modelo\nVeja o cartão de exemplo completo nos detalhes do modelo. Acrescente o título do evento, o nome, a data, o horário, o local e o endereço.\n\nSuas palavras, suas fontes\nEdite os blocos de texto e escolha as fontes. Veja como o título e a mensagem ficam no cartão enquanto você os personaliza.\n\nUma imagem para compartilhar ou guardar\nLeia os nomes, o horário e o endereço na prévia completa. Abra as opções para compartilhar a imagem do convite ou salve no app Fotos para guardar uma cópia.\n\nA interface do app está disponível em inglês e chinês simplificado. As imagens desta página mostram a interface em inglês.",
+      "keywords": "festas,cartões,modelos,tipografia,eventos,design,texto,fontes,imagem,compartilhar,salvar,comemoração",
+      "whats_new": "Esta versão permite escolher modelos, incluir os detalhes do evento, editar textos e fontes, compartilhar convites e salvá-los no app Fotos."
+    },
+    "ru": {
+      "name": "Invitation Maker",
+      "subtitle": "Приглашения на день рождения",
+      "promotional_text": "От шаблона к вашему приглашению: добавьте имена, время и место, оформите текст, затем поделитесь карточкой как изображением или сохраните её в «Фото».",
+      "description": "Подготовьте приглашение на день рождения или вечеринку с нужными гостям деталями. Выберите шаблон с иллюстрациями, добавьте свои слова и создайте карточку, которой можно поделиться как изображением.\n\nОт образца к вашей карточке\nВ описании шаблона можно посмотреть весь образец. Выберите оформление и укажите название события, имя, дату, время, место и адрес.\n\nВаш текст и шрифты\nРедактируйте отдельные текстовые блоки и выбирайте шрифты. Смотрите, как заголовок и сообщение выглядят на карточке во время редактирования.\n\nПосмотрите и поделитесь\nВ полном предпросмотре сами перечитайте имена, время и адрес. Откройте варианты отправки изображения приглашения или сохраните его в приложении «Фото».\n\nИнтерфейс приложения доступен на английском и упрощённом китайском. Для русского языка используется английский интерфейс.",
+      "keywords": "вечеринка,открытки,шаблоны,шрифты,дизайн,праздник,текст,изображение,сохранить,поделиться,событие",
+      "whats_new": "В текущей версии доступны шаблоны приглашений, ввод данных о событии, редактирование текста и шрифтов, отправка и сохранение в «Фото»."
+    }
+  },
+  "screenshot_captions": {
+    "en-US": [
+      {
+        "slot": 1,
+        "headline": "Start with a beautiful template",
+        "subheadline": "Preview the card, then make it yours."
+      },
+      {
+        "slot": 2,
+        "headline": "Make every word your own",
+        "subheadline": "Personalize your details and fonts."
+      },
+      {
+        "slot": 3,
+        "headline": "Share your celebration",
+        "subheadline": "Preview your invitation. Share or save."
+      }
+    ],
+    "zh-Hans": [
+      {
+        "slot": 1,
+        "headline": "从心仪的模板开始",
+        "subheadline": "先预览卡片，再写下你的邀请。"
+      },
+      {
+        "slot": 2,
+        "headline": "每一句，都有你的心意",
+        "subheadline": "填写活动信息，挑选合适字体。"
+      },
+      {
+        "slot": 3,
+        "headline": "把相聚的邀请分享出去",
+        "subheadline": "预览完整卡片，分享或存入相册。"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "slot": 1,
+        "headline": "從喜歡的範本開始",
+        "subheadline": "先預覽卡片，再寫下你的邀請。"
+      },
+      {
+        "slot": 2,
+        "headline": "每一句，都有你的心意",
+        "subheadline": "填寫活動資訊，挑選合適字體。"
+      },
+      {
+        "slot": 3,
+        "headline": "分享相聚的邀請",
+        "subheadline": "預覽完整卡片，分享或儲存到照片。"
+      }
+    ],
+    "ja": [
+      {
+        "slot": 1,
+        "headline": "お気に入りの一枚から",
+        "subheadline": "見本を見て、テンプレートを選ぼう。"
+      },
+      {
+        "slot": 2,
+        "headline": "文字まで、あなたらしく",
+        "subheadline": "名前や日時を入れて、好みの書体に。"
+      },
+      {
+        "slot": 3,
+        "headline": "できあがった招待状を共有",
+        "subheadline": "仕上がりを確認して、共有や写真保存へ。"
+      }
+    ],
+    "ko": [
+      {
+        "slot": 1,
+        "headline": "마음에 드는 초대장의 시작",
+        "subheadline": "템플릿을 미리 보고 골라 보세요"
+      },
+      {
+        "slot": 2,
+        "headline": "문구와 글꼴에 내 취향을",
+        "subheadline": "모임 정보를 담고 글꼴을 다듬으세요"
+      },
+      {
+        "slot": 3,
+        "headline": "완성한 초대장을 함께 나눠요",
+        "subheadline": "사진 앱에 저장하거나 이미지로 공유하세요"
+      }
+    ],
+    "fr-FR": [
+      {
+        "slot": 1,
+        "headline": "Un modèle pour votre fête",
+        "subheadline": "Choisissez une carte illustrée à personnaliser."
+      },
+      {
+        "slot": 2,
+        "headline": "Vos mots, votre style",
+        "subheadline": "Personnalisez le texte et choisissez vos polices."
+      },
+      {
+        "slot": 3,
+        "headline": "Votre invitation à partager",
+        "subheadline": "Partagez votre carte ou gardez-la dans Photos."
+      }
+    ],
+    "de-DE": [
+      {
+        "slot": 1,
+        "headline": "Dein Fest beginnt mit einer Vorlage",
+        "subheadline": "Karte ansehen und als Vorlage wählen."
+      },
+      {
+        "slot": 2,
+        "headline": "Deine Worte. Dein Stil.",
+        "subheadline": "Angaben ergänzen und Schriften anpassen."
+      },
+      {
+        "slot": 3,
+        "headline": "Teile deine Einladung",
+        "subheadline": "Vorschau ansehen, teilen oder speichern."
+      }
+    ],
+    "es-ES": [
+      {
+        "slot": 1,
+        "headline": "Empieza con una bonita plantilla",
+        "subheadline": "Mira la tarjeta y dale tu toque."
+      },
+      {
+        "slot": 2,
+        "headline": "Cada palabra, a tu estilo",
+        "subheadline": "Personaliza los datos y la tipografía."
+      },
+      {
+        "slot": 3,
+        "headline": "Comparte tu celebración",
+        "subheadline": "Revisa tu invitación. Compártela o guárdala."
+      }
+    ],
+    "pt-BR": [
+      {
+        "slot": 1,
+        "headline": "Comece com um belo modelo",
+        "subheadline": "Veja o cartão e dê seu toque pessoal."
+      },
+      {
+        "slot": 2,
+        "headline": "Cada palavra com o seu toque",
+        "subheadline": "Personalize os detalhes e as fontes."
+      },
+      {
+        "slot": 3,
+        "headline": "Compartilhe sua celebração",
+        "subheadline": "Confira seu convite. Compartilhe ou salve."
+      }
+    ],
+    "ru": [
+      {
+        "slot": 1,
+        "headline": "Начните с красивого шаблона",
+        "subheadline": "Выберите основу для вашего праздника."
+      },
+      {
+        "slot": 2,
+        "headline": "Ваши слова, ваш стиль",
+        "subheadline": "Добавьте детали и подберите шрифт."
+      },
+      {
+        "slot": 3,
+        "headline": "Приглашайте на праздник",
+        "subheadline": "Посмотрите, поделитесь или сохраните."
+      }
+    ]
+  },
+  "category": {
+    "primary": "Graphics & Design"
+  },
+  "rationale": "Task-focused revision informed by owner-supplied COMPETITIVE_ANALYSIS.md and PRODUCT_DIRECTION.md (both 2026-10-09), not current market findings or implementation proof. Positions the audited template → personalized event details and lettering → shareable/savable invitation image workflow. Active-source basis: ../store-assets/campaign/en-US/SOURCE_AUDIT.json F01/F02/F05/F03 and its cited Swift files. Excludes unproven offline, automated checking, bilingual workflows, Pro, ten-language UI and roadmap capabilities. Chinese-only names follow the owner requirement; locale keywords complement each name/subtitle. Frozen captions, other names, whats_new and category are preserved. See ASO_RATIONALE.md for exact decisions, exclusions and Python counts."
+}

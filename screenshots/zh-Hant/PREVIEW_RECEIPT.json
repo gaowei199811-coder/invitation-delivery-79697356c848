@@ -1,0 +1,9 @@
+{
+  "execution_id": "invitation-localized-v9-df90db97-dcd3-4e34-aab4-f437ffaf1730",
+  "locale": "zh-Hant",
+  "count": 10,
+  "manifest_sha256": "4a466b740b4b7965526e001436b17364a47c6f7683d1cf9dbb9b9ac03705567f",
+  "review": "pass",
+  "owner_acceptance": "pending",
+  "source_kind": "source_backed_illustrative_ui"
+}

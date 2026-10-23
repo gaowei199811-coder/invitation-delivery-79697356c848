@@ -1,0 +1,9 @@
+{
+  "execution_id": "invitation-localized-v9-df90db97-dcd3-4e34-aab4-f437ffaf1730",
+  "locale": "fr-FR",
+  "count": 10,
+  "manifest_sha256": "84f2e7e40da9a9bfc610ddb59f643c221681723d1b5a0da4b723a5d10b5d25dc",
+  "review": "pass",
+  "owner_acceptance": "pending",
+  "source_kind": "source_backed_illustrative_ui"
+}

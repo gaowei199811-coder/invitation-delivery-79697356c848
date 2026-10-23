@@ -1,0 +1,308 @@
+{
+  "manifest_sha256": "df76a6ddb001a1cad4692f84dc0583aa8abc1dcd426255e07330c635c58900a7",
+  "locale": "pt-BR",
+  "count": 10,
+  "verdict": "pass",
+  "source_verdict": "pass",
+  "observed": [
+    {
+      "id": "gallery",
+      "slot": 1,
+      "image": "output/iphone-6.3/01.png",
+      "image_sha256": "9c8c544805304487c8efeec51fee97c374cfdff19caffef103d91daae7bce088",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Real templates organised by occasion",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The Dinner library and lifted Peach Champagne invitation establish occasion-based template choice. Both first-row cards and the Templates navigation remain readable.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 1 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete tilted invitation card includes its catalog name; it covers secondary grid cells without hiding the source first-row card.",
+      "locale_observation": "O convite perfeito / Modelos reais para cada ocasião is natural Portuguese. The accent in ocasião is intact; English catalog text preserves fallback.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/MainPages.swift TemplatesView categoryStrip / templateGrid / templateCard",
+        "Sources/MainPages.swift:371-376 CatalogTemplateArtwork renders Invitation(template:sample:true)",
+        "Sources/BanquetPortraitCatalog.swift:7,13 entry names; :27-35 English sample",
+        "Sources/Navigation.swift:339-381 tab bar",
+        "Sources/AppStore.swift:34-36 English UI fallback for pt-BR"
+      ]
+    },
+    {
+      "id": "font",
+      "slot": 2,
+      "image": "output/iphone-6.3/02.png",
+      "image_sha256": "fc627264558129b8e30506dd83d3dc3a5e12314bfcf8e1daab8c16f0d781d5ad",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Pick a font for one line of wording",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The enlarged script selection draws the eye to individual text editing, with the Font tab and selected third-row first font tile visible beneath it.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 2 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "Only at the Table is boxed. An Evening remains unselected context; all four circular handles and the trailing width capsule are complete. The script matches the selected Great Vibes preview.",
+      "locale_observation": "Cada palavra do seu jeito and Toque em uma linha e escolha a fonte read naturally and describe single-line editing. No Portuguese app chrome is invented.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/BanquetPortraitCatalog.swift:203-206 one run per title line",
+        "Sources/CanvasTextEditor.swift:660-792 one selection box per objectID, handle geometry",
+        "Sources/CanvasTextEditor.swift:1190-1252 font grid",
+        "Sources/InvitationTypography.swift:96-115 westernCases; :185 Great Vibes GreatVibes-Regular"
+      ]
+    },
+    {
+      "id": "color",
+      "slot": 3,
+      "image": "output/iphone-6.3/03.png",
+      "image_sha256": "35c829786849c14fcda078533616d5eed1175a7d6be845ff86018603b08ded48",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Change the colour of any single line",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The terracotta script run and enlarged color swatches establish the color-change benefit. Style, Color, presets and the opacity slider retain the editing context.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 3 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "Five full swatches are visible with the central terracotta ring selected; the original strip and edited text agree with that selection.",
+      "locale_observation": "Cores com a sua cara is idiomatic Brazilian Portuguese. Mude a cor de qualquer linha fits without collision.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/CanvasTextEditor.swift:1143-1170 presets; :1280-1301 style sections; :1559-1619 colour strip and swatch order"
+      ]
+    },
+    {
+      "id": "restyle",
+      "slot": 4,
+      "image": "output/iphone-6.3/04.png",
+      "image_sha256": "30ba88d275c0eeec4ce8d7a4cb05075bc0735d1d9c1dbaaafd48bbf3c6d7c1e5",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Try another template style or colour scheme without retyping",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The unchanged edited invitation above style thumbnails and the palette section makes restyling the distinct subject. The Style tool remains visible.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 4 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "Color Scheme occupies one line with generous clear space before all five complete palette buttons. No effect is outlined. The old heading/button collision is absent.",
+      "locale_observation": "Novo visual mesmo texto and Teste outro estilo ou paleta de cores are concise and natural. Color Scheme appropriately remains English.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/EditorPages.swift:27-76 tints and palette; :78-196 Template Style / Color Scheme controls and names; :160-161 style change keeps wording; :309-321 'Edit Template' + Done; :541-559 tool row"
+      ]
+    },
+    {
+      "id": "cutout",
+      "slot": 5,
+      "image": "output/iphone-6.3/05.png",
+      "image_sha256": "2cbec86f0fd214354783fdbb7e9deeaeebfc550664c58f812f2d76f0ef7a3db9",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Turn a photo into a cutout sticker",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The dog illustration with Camera and Photos entry controls makes adding a photo sticker the subject. The unchanged invitation and Cutout tab preserve context.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 5 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "The dashed add-card contains the complete bundled illustration, title and both actions. This is an entry state, with no fabricated user cutout or success result.",
+      "locale_observation": "Suas fotos em adesivos / Transforme uma foto em adesivo is idiomatic. The English entry labels reflect the actual fallback.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/PhotoElementsEditor.swift:195, 270-378, 458-466",
+        "Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+      ]
+    },
+    {
+      "id": "bilingual",
+      "slot": 6,
+      "image": "output/iphone-6.3/06.png",
+      "image_sha256": "ea24405a9fc2c00d13bfb6105923bded6d9c15a91450e1f570d0c01c4a7eb08e",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Make a second language version",
+      "primary_focus": "pass",
+      "primary_focus_observation": "French invitation text and a selected French segment establish a second language version. Preview navigation and the source notice remain readable.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 6 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete English/French capsule is enlarged over the sky below the invitation wording. Both options and the French selected state are clear.",
+      "locale_observation": "Um convite dois idiomas promises a second version, not Portuguese authored templates or automatic translation. French accents in dîner, célébrer and Réponse render cleanly.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/CheckAndBilingual.swift:134-139, 379-396, 509-623, 844-861",
+        "Sources/Models.swift:231-246 InviteLanguage authored cases",
+        "Sources/InvitationTools.swift:287-288 no copy for .system languages"
+      ]
+    },
+    {
+      "id": "resize",
+      "slot": 7,
+      "image": "output/iphone-6.3/07.png",
+      "image_sha256": "a81b7d725ae497c7cae22e1e5dc9e83527207f367abecbbbb093316963fa20e2",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Adapt one design to landscape or square",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The landscape invitation and checked Landscape 4:3 row prove format adaptation. The English/French picker and Continue Editing remain visible.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 7 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete Choose a layout panel includes Original, Landscape 4:3 and Square 1:1. Its checkmark agrees with the visibly landscape preview.",
+      "locale_observation": "Horizontal ou quadrado is accurate and compact. The subtitle fits; all actual layout labels remain English.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/InvitationToolPages.swift:49-107",
+        "Sources/InvitationTools.swift:154-262 presets and adapted layout"
+      ]
+    },
+    {
+      "id": "guests",
+      "slot": 8,
+      "image": "output/iphone-6.3/08.png",
+      "image_sha256": "9001ebdd26392a37d1fab01acc348ce9ac53bd636bdc4bbe697bbd8caee89c38",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Personal invitations with each guest's name",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The guest list, Dear Ana greeting and individual preview establish personalization, with Export 3 Invitations visible at the bottom.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 8 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "The enlarged Guest names block includes its heading, count, Ana/Lucas/Beatriz, and full footnote. It does not hide the original greeting or export action.",
+      "locale_observation": "Um convite para cada um is natural. Brazilian names are user input; Dear Ana remains the source English greeting, without fabricated Portuguese template text.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/InvitationToolPages.swift:215-227, 249-292, 334-397",
+        "Sources/InvitationTools.swift:342-383 names split by line; :359 English greeting 'Dear {name},'; :367-376 salutation + original message"
+      ]
+    },
+    {
+      "id": "designs",
+      "slot": 9,
+      "image": "output/iphone-6.3/09.png",
+      "image_sha256": "bce4f6382dd23598d1d931f6ba30b1bbfec1e8c15c253e4917ff721520735d28",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Keep every design and reuse it",
+      "primary_focus": "pass",
+      "primary_focus_observation": "Two saved draft rows and the five-action menu establish reopening and reuse. Both names, thumbnails, completion states and Designs navigation remain visible.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 9 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "The warm menu is fully opaque: Edit, Rename, Duplicate, Export and red Delete each appear once with clean separators. No smaller labels or icons bleed through.",
+      "locale_observation": "Seus designs sempre à mão and Reabra ou duplique qualquer rascunho are natural Brazilian marketing. The grave accent and tilde render clearly.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/MainPages.swift:478-587 DesignsView and Menu actions",
+        "Sources/Models.swift:606 design name = template name"
+      ]
+    },
+    {
+      "id": "share",
+      "slot": 10,
+      "image": "output/iphone-6.3/10.png",
+      "image_sha256": "2eac643fbbb2a70c3142a820d79c158c2f831f0f0fff3ec277df4774aef2f835",
+      "opened_full_size": true,
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "benefit": "Share the finished invitation or save it to Photos",
+      "primary_focus": "pass",
+      "primary_focus_observation": "The finished Peach invitation and enlarged sharing/saving actions create a clear closing benefit. The terracotta script edit agrees with the preceding edited and saved states.",
+      "background_restraint": "pass",
+      "background_observation": "Poster 10 retains quiet ivory paper, a peach edge and a terracotta lower sheet. Fine grain and shared soft shadows support the functional subject without competing with it.",
+      "focus_clarity": "pass",
+      "focus_observation": "Both Share Invitation and Save to Photos buttons are complete with readable icons and internal margins. The panel stays inside the canvas and leaves the finished card exposed.",
+      "locale_observation": "Compartilhe ou salve / Envie a imagem ou salve em Fotos is natural. English button labels remain faithful; no saved or sent success is shown.",
+      "typography_cropping": "Two-line 48px marketing heading and subtitle fit. No missing visible glyphs or accidental marketing overflow; slight lower hardware crop is deliberate.",
+      "device_width_logical_px": 350,
+      "source_evidence": [
+        "Sources/ExportPages.swift:53, 89-101, 137-152, 187-212"
+      ]
+    }
+  ],
+  "opening_pair_review": {
+    "verdict": "pass",
+    "image": "output/opening-2.png",
+    "observation": "Opened actual pair: library discovery progresses into single-line font editing. Equal device scale, compact headings, matching soft light and the rising paper edge join the two frames; the tilted card and horizontal loupe keep each benefit distinct."
+  },
+  "opening_trio_review": {
+    "verdict": "pass",
+    "image": "output/opening-3.png",
+    "observation": "Opened actual trio: discovery, font and color form a coherent editing progression. The paper edge continues across the frames, with shared ink/terracotta typography and distinct detail silhouettes. Each frame remains understandable alone."
+  },
+  "reference_comparison": {
+    "verdict": "pass",
+    "selected_english_manifest_sha256": "09df20d35a145f2ae4d04e683e75502fde29a247886793b2604aa20fdb567322",
+    "opened": [
+      "../owner-feedback/english-ten-selected/iphone-6.3/01.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/02.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/03.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/04.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/05.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/06.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/07.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/08.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/09.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/10.png",
+      "../owner-feedback/english-ten-selected/overview.png"
+    ],
+    "observation": "Independently opened all ten selected English singles and overview. The current set preserves the warm paper/terracotta master, original large silver hardware, shared light and ten ordered benefits. Portuguese headlines and guest input are new visible content. Page 4 fixes the reference heading collision; page 9 removes reference menu ghosting. All ten PNG bytes differ from their English counterparts."
+  },
+  "overview_review": {
+    "verdict": "pass",
+    "image": "output/overview.png",
+    "observation": "All ten frames share scale, materials and headline rhythm. Focus shapes change by feature rather than repeating one generic panel. No unexpected outlier or missing page appears."
+  },
+  "verification": {
+    "single_dimensions": "All ten 1206x2622",
+    "manifest_output_hashes": "All ten singles and three previews independently match their manifest SHA-256 values.",
+    "hardware": "Local device PNG and mask byte-match the authorized library originals. All ten geometry entries record 350px devices on 402x874 masters.",
+    "typography": "All ten geometry entries record 48px headings with 52px line height and two lines. Minimum recorded heading side margin is 30.59375px, above 16px; actual pixels show no marketing clipping.",
+    "glyph_coverage": "Visible Latin, Brazilian Portuguese diacritics and French accents pass. No CJK or Cyrillic text occurs in this pt-BR set; coverage for those scripts is not asserted.",
+    "font": "Source InvitationTypography westernCases positions Great Vibes at the selected grid cell after Original; GreatVibes-Regular is the source face. Actual selected English script and font preview agree visually. Exact transported font-byte verification is inherited from the frozen English audit, not independently rerun against giant embedded files.",
+    "original_artwork_opened": [
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-peach-champagne.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-tuscan-sunset.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+    ],
+    "locale_source_checks": [
+      "AppStore.swift:34-36: English fallback and English invitationLanguage for pt-BR",
+      "Models.swift:231-299: six authored languages, no Portuguese case; runtime language support is separate",
+      "TemplateLibraryCopy.swift: catalog defaults do not overwrite user-edited titles",
+      "BanquetPortraitCatalog.swift:27-35,203-206: English sample content and separate title runs",
+      "InvitationTools.swift:287-305,331,342-376: runtime language copy limitation, French source wording and English personalized greeting",
+      "EditorPages.swift:122-165: complete palette section and template change",
+      "CheckAndBilingual.swift:844-861: actual preview and notice",
+      "InvitationToolPages.swift:49-107: layout controls",
+      "MainPages.swift:550-585: saved design actions",
+      "ExportPages.swift:187-212: Share Invitation and Save to Photos"
+    ]
+  },
+  "limitations": [
+    "Source-backed illustrative UI, not native screenshots or runtime acceptance.",
+    "English app chrome and authored invitation fallback are intentional for pt-BR. French on page 6 is a supported user-entered second version, not a Portuguese translation result.",
+    "Frozen English source audit supplies shared product evidence; actual locale-specific states and all current PNGs were independently inspected."
+  ],
+  "issues": [],
+  "owner_visual_acceptance": "pending",
+  "repair_action": "None performed; no blocking issue found. Any later repair must use the canonical charged and archived bounded workflow; this review does not alter its ledger."
+}

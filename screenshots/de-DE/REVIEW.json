@@ -1,0 +1,318 @@
+{
+  "manifest_sha256": "3fe63fab3f65cbe7143ae61216b3b2edfabcef632d30138908c10f960bb466dc",
+  "locale": "de-DE",
+  "count": 10,
+  "verdict": "pass",
+  "source_verdict": "pass",
+  "visual_hierarchy_contract": "clear-focus-v1",
+  "owner_visual_acceptance": "pending",
+  "observed": [
+    {
+      "id": "gallery",
+      "slot": 1,
+      "path": "output/iphone-6.3/01.png",
+      "opened_full_size": true,
+      "headline_observed": "Die perfekte / Karte finden",
+      "benefit": "Real templates organised by occasion",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The Dinner gallery and lifted Peach Champagne card immediately demonstrate choosing a real invitation template. The full card and its name are visible alongside the source grid.",
+      "background_observation": "Poster 01 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "The tilted card retains its entire artwork and label; it overlaps lower grid context without hiding the category or Templates navigation.",
+      "locale_observation": "German discovery copy is natural. English occasion labels, template names and catalog wording correctly reflect the source fallback.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/MainPages.swift TemplatesView categoryStrip / templateGrid / templateCard",
+        "Sources/MainPages.swift:371-376 CatalogTemplateArtwork sample:true",
+        "Sources/TemplateLibraryCopy.swift messages (English, Chinese) only",
+        "Sources/AppStore.swift:35 invitationLanguage .english for non-Chinese",
+        "Sources/BanquetPortraitCatalog.swift:7,13,27-35,59,76",
+        "Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-peach-champagne.imageset/artwork.png"
+      ]
+    },
+    {
+      "id": "font",
+      "slot": 2,
+      "path": "output/iphone-6.3/02.png",
+      "opened_full_size": true,
+      "headline_observed": "Schrift für / jede Zeile",
+      "benefit": "Pick a font for one line of wording",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The script selection loupe attracts the eye, and the visible selected font tile establishes that an individual text run can use its own face.",
+      "background_observation": "Poster 02 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "Only at the Table is selected. The xmark, Edit, rotate and resize circles and width capsule are complete with clear margins; the Great Vibes tile remains exposed.",
+      "locale_observation": "Schrift wählen and Zeile antippen are idiomatic. Great Vibes shapes the Latin run; An Evening remains unselected in its original serif face.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/BanquetPortraitCatalog.swift:203-206 one run per title line",
+        "Sources/CanvasTextEditor.swift:660-792 one selected objectID → one selection box, handles 28pt",
+        "Sources/CanvasTextEditor.swift:1190-1252 font grid",
+        "Sources/InvitationTypography.swift:96-115, 185 Great Vibes"
+      ]
+    },
+    {
+      "id": "color",
+      "slot": 3,
+      "path": "output/iphone-6.3/03.png",
+      "opened_full_size": true,
+      "headline_observed": "Farbe nach / Ihrem Stil",
+      "benefit": "Change the colour of any single line",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The five-swatch capsule and terracotta selected script establish text-color editing at first glance. The matching ring connects the enlarged detail to the in-phone strip.",
+      "background_observation": "Poster 03 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "The entire contiguous five-swatch slice is visible, including the centered selected terracotta ring. The card, Style/Color tabs and Opacity slider remain readable.",
+      "locale_observation": "German color copy is natural. The English controls are truthful, and the single edited run retains Great Vibes while changing from gold to terracotta.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/CanvasTextEditor.swift:1143-1170 presets",
+        "Sources/CanvasTextEditor.swift:1280-1301 style sections + Opacity",
+        "Sources/CanvasTextEditor.swift:1559-1619 colour strip, #B8472C at :1604"
+      ]
+    },
+    {
+      "id": "restyle",
+      "slot": 4,
+      "path": "output/iphone-6.3/04.png",
+      "opened_full_size": true,
+      "headline_observed": "Neuer Look / gleicher Text",
+      "benefit": "Try another template style or colour scheme without retyping",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The complete palette panel and style thumbnails show restyling while the unchanged invitation demonstrates wording continuity. The revised subtitle is grammatical.",
+      "background_observation": "Poster 04 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "Color Scheme now occupies one line above five complete buttons with internal spacing. No heading/button collision remains; No effect selection and Style context are visible.",
+      "locale_observation": "Stil oder Farbschema wechseln resolves DE04-GRAMMAR. The browsing state preserves the wording and terracotta script without implying a tint was applied.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/EditorPages.swift:27-76 tints and palettes",
+        "Sources/EditorPages.swift:78-196 Template Style + Color Scheme controls, names No effect/Pink/Sage/Gold/Lilac",
+        "Sources/EditorPages.swift:160-161 changing style keeps wording"
+      ]
+    },
+    {
+      "id": "cutout",
+      "slot": 5,
+      "path": "output/iphone-6.3/05.png",
+      "opened_full_size": true,
+      "headline_observed": "Fotos als / Sticker",
+      "benefit": "Turn a photo into a cutout sticker",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The bundled dog illustration and Camera/Photos entry controls make the sticker benefit clear, with the unchanged invitation providing editor context.",
+      "background_observation": "Poster 05 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "The dashed focus contains the full illustration, title and both buttons. Cutout remains selected below; no imported photo or completed user cutout is depicted.",
+      "locale_observation": "German copy describes the supported photo-to-sticker capability. English entry controls and the original bundled illustration match the source.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/PhotoElementsEditor.swift:195, 270-378, 458-466, 692",
+        "Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+      ]
+    },
+    {
+      "id": "bilingual",
+      "slot": 6,
+      "path": "output/iphone-6.3/06.png",
+      "opened_full_size": true,
+      "headline_observed": "Eine Karte / zwei Sprachen",
+      "benefit": "Make a second language version",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The German invitation title and selected German switch make the second-language version evident. The warm Tuscan artwork supports rather than obscures its text.",
+      "background_observation": "Poster 06 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "Both English and German choices are complete in the enlarged capsule. Title, hosts, date, time, address and RSVP text remain visible above the focus.",
+      "locale_observation": "Ein gemeinsames Abendessen, Feiere mit uns, Datum, Uhrzeit and Rückmeldung bis are supported German authored/user-entered content. English/German labels are correct English chrome; no automatic-translation success is claimed.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/MainPages.swift:684 Bilingual Invite",
+        "Sources/CheckAndBilingual.swift:134-139, 379-396, 509-623, 844-861",
+        "Sources/PageInteractions.swift:50-79",
+        "Sources/BanquetPortraitCatalog.swift:70, 90-209",
+        "Sources/InvitationTypefaceFitting.swift:6-21"
+      ]
+    },
+    {
+      "id": "resize",
+      "slot": 7,
+      "path": "output/iphone-6.3/07.png",
+      "opened_full_size": true,
+      "headline_observed": "Quer oder / quadratisch",
+      "benefit": "Adapt one design to landscape or square",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The landscape card and checked Landscape 4:3 row clearly prove the bounded resize benefit. The corrected subtitle names only the supported landscape/square alternatives.",
+      "background_observation": "Poster 07 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "Choose a layout and all three complete rows are readable, with the landscape checkmark intact. The 4:3 preview and Continue Editing action remain exposed.",
+      "locale_observation": "Zwischen Querformat und Quadrat wechseln resolves DE07-CLAIM and fits on one line. Source offers fixed presets, filtering the redundant portrait option for this design.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/InvitationToolPages.swift:49-107",
+        "Sources/InvitationTools.swift:154-262"
+      ]
+    },
+    {
+      "id": "guests",
+      "slot": 8,
+      "path": "output/iphone-6.3/08.png",
+      "opened_full_size": true,
+      "headline_observed": "Jeder Gast / persönlich",
+      "benefit": "Personal invitations with each guest's name",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The named guest field, Dear Lena greeting and personalized card establish individual invitations for each entered name, reinforced by the visible export button.",
+      "background_observation": "Poster 08 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete Guest names block includes three names, count and footnote. Greeting and Export 3 Invitations remain readable; the focus covers only the lower preview region.",
+      "locale_observation": "The short German headline fragment is clear with its subtitle. Lena/Jonas/Mia are illustrative user entries; Dear Lena correctly follows the English invitation language.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/InvitationToolPages.swift:215-397",
+        "Sources/InvitationTools.swift:342-369 split by newline; English greeting 'Dear {name},'; German 'Für {name}:' only for German versions"
+      ]
+    },
+    {
+      "id": "designs",
+      "slot": 9,
+      "path": "output/iphone-6.3/09.png",
+      "opened_full_size": true,
+      "headline_observed": "Alle Designs / griffbereit",
+      "benefit": "Keep every design and reuse it",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "Two saved draft rows and a readable action menu establish reopening and reuse. Both distinct thumbnails, titles and the Designs navigation remain visible.",
+      "background_observation": "Poster 09 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "The warm menu is fully opaque: Edit, Rename, Duplicate, Export and red Delete each read once with clean icons and separators. No smaller ghost labels bleed through.",
+      "locale_observation": "Entwürfe öffnen oder duplizieren is idiomatic and source-backed. Relative times are illustrative; the Tuscan bilingual badge and edited Peach script preserve state continuity.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/MainPages.swift:478-587 DesignsView and menu",
+        "Sources/Models.swift:606 default design name",
+        "Sources/AppStore.swift:99-113 updatedAt"
+      ]
+    },
+    {
+      "id": "share",
+      "slot": 10,
+      "path": "output/iphone-6.3/10.png",
+      "opened_full_size": true,
+      "headline_observed": "Teilen oder / speichern",
+      "benefit": "Share the finished invitation or save it to Photos",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The finished Peach invitation and enlarged share/save pair provide a clear final step. The same terracotta Great Vibes run links export to the earlier edits.",
+      "background_observation": "Poster 10 keeps a quiet ivory paper field, low terracotta fold and shared warm shadows. The large device and its feature detail dominate rather than the background texture.",
+      "focus_clarity": "pass",
+      "focus_observation": "Both Share Invitation and Save to Photos buttons are complete, in source order, with intact icons and margins. Lower hardware cropping does not cut either action.",
+      "locale_observation": "Bild senden oder in Fotos sichern is idiomatic. English actions reflect the fallback; no delivery or saved-success state is fabricated.",
+      "typography_and_bounds": "Two 48px heading lines, 52px line height, no visible overflow or missing glyphs. The 350px phone preserves functional context; only deliberate lower hardware cropping occurs.",
+      "source_citations": [
+        "Sources/ExportPages.swift:53, 89-101, 137-212"
+      ]
+    }
+  ],
+  "opening_pair_review": {
+    "verdict": "pass",
+    "path": "output/opening-2.png",
+    "observation": "Actually opened. Gallery discovery leads to individual-run font editing. Equal large phones, continuous warm fold, aligned headings and shared light unite the pair; tilted card versus horizontal loupe keeps the benefits distinct."
+  },
+  "opening_trio_review": {
+    "verdict": "pass",
+    "path": "output/opening-3.png",
+    "observation": "Actually opened. Discovery, font and color form a coherent progression. The card, complete single-run loupe and swatch capsule remain distinguishable at preview scale, with consistent device size and warm material."
+  },
+  "overview_review": {
+    "verdict": "pass",
+    "path": "output/overview.png",
+    "observation": "Actually opened in addition to every single. Ten distinct ordered benefits retain the selected master, with varied feature silhouettes and consistent light. Last seven singles were independently inspected."
+  },
+  "reference_comparison": {
+    "verdict": "pass",
+    "selected_english_manifest_sha256": "09df20d35a145f2ae4d04e683e75502fde29a247886793b2604aa20fdb567322",
+    "opened": [
+      "../owner-feedback/english-ten-selected/overview.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/01.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/02.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/03.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/04.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/05.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/06.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/07.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/08.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/09.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/10.png",
+      "../library/references/browser-study-20261016/photo-editor-warm.png",
+      "../library/references/browser-study-20261016/beauty-camera-pink.png",
+      "../library/references/browser-study-20261016/coin-scan-series.png"
+    ],
+    "observation": "Direct pixel comparison preserves the selected English warm-paper/terracotta series and original large hardware. Its page 4 collision and page 9 ghost menu are corrected. Warm photo-editor supports large-device/cream-stage relationships; beauty-camera demonstrates lifting a source detail past the bezel; coin-scan demonstrates varied panels within a stable series. Third-party claims and branding are not imported."
+  },
+  "verification": {
+    "manifest": "Current manifest SHA computed directly; all ten single and three preview hashes match. All nine composition hashes match current files.",
+    "dimensions": "All ten singles are 1206x2622. Geometry reports 402x874 masters, 350px devices, 48px headings at 52px line height. Minimum heading side margin is 24.484375px. Pixels show no text overflow.",
+    "hardware": "Device PNG and screen mask hashes match the authorized library selection.",
+    "new_outputs": "Every current single hash differs from every selected English single; German marketing is visible in each actual PNG.",
+    "language": "Original AppStore.swift:34-36,301-312 confirms English UI/default invitation for non-Chinese devices. Models.swift:232-245 and InvitationTools.swift:305-332 support authored German content separately from the runtime translation picker. Catalog remains English; only page 6 uses a German invitation version.",
+    "glyphs": "Latin and German umlauts render correctly, including für, wählen, einfärben, persönlich, Entwürfe and Rückmeldung. CJK, Hangul and Cyrillic are absent; coverage of unused scripts is not claimed.",
+    "fonts": "Great Vibes selection, Latin script and single-run continuity agree with original InvitationTypography.swift:185 and frozen English evidence. Exact font-byte transport is documented in PROVENANCE; giant embedded transport payloads were not decoded. Didot/Baskerville remain disclosed system faces.",
+    "continuity": "Gold Great Vibes on page 2 becomes terracotta on page 3 and persists through Peach restyle, cutout, guest, draft and share states. Tuscan shows a supported German version on page 6 and an English landscape version on page 7.",
+    "source_art_opened": [
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-peach-champagne.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-tuscan-sunset.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+    ],
+    "limitations": "Source-backed illustrative UI, not native screenshots or runtime acceptance. Frozen audit retains superseded page 4/page 7 proposed copy; the current PNGs and compose provenance show the verified repairs."
+  },
+  "resolved_findings": [
+    {
+      "id": "DE04-GRAMMAR",
+      "evidence": "Page 4 now reads Stil oder Farbschema wechseln; clear palette spacing preserved."
+    },
+    {
+      "id": "DE07-CLAIM",
+      "evidence": "Page 7 now reads Zwischen Querformat und Quadrat wechseln; complete preset list preserved."
+    },
+    {
+      "id": "EN04-COLLISION",
+      "evidence": "One-line heading has clear space above all five palette buttons."
+    },
+    {
+      "id": "EN09-GHOSTING",
+      "evidence": "Opaque menu shows every action once, including red Delete."
+    }
+  ],
+  "issues": [],
+  "repair_route": "No further repair requested. Archived round 1 remains preserved. Review does not charge/reset repairs, edit ledgers or grant owner acceptance.",
+  "written_files": [
+    "REVIEW.json",
+    "REVIEW.md"
+  ]
+}

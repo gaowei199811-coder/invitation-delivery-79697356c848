@@ -1,0 +1,391 @@
+{
+  "verdict": "pass",
+  "metadata_sha256": "4724f87aae7d9a05a4187d9951021382a815fae36e655ecc0726ee5d7052b6a1",
+  "review_date": "2026-10-22",
+  "scope": "Independent local source-and-copy review; no approval, upload, runtime test or Apple acceptance determination.",
+  "observed": [
+    {
+      "locale": "en-US",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "Birthday & party card design",
+      "keywords": "event,templates,fonts,typography,digital,celebration,lettering,personalize,image,sharing,stationery",
+      "characters": {
+        "name": 16,
+        "subtitle": 28,
+        "promotional_text": 153,
+        "description": 759,
+        "keywords": 99,
+        "whats_new": 138
+      },
+      "keyword_term_count": 11,
+      "keyword_characters_remaining": 1,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Birthday/party/card/design intent sits in the subtitle; keywords add templates, lettering, event details and image use. Stationery is relevant digital-card vocabulary and does not promise printing."
+    },
+    {
+      "locale": "zh-Hans",
+      "verdict": "pass",
+      "name": "邀请函制作",
+      "subtitle": "生日派对卡片，填写信息并分享图片",
+      "keywords": "电子请柬,聚会,模板,字体,排版,文案,设计,相册保存,活动通知,庆祝,姓名,日期,时间,地址,场地,插画,个性化,标题,文字编辑,宴会,请帖,亲友相聚,邀请语,字形,样式,预览,家庭聚餐,纪念日",
+      "characters": {
+        "name": 5,
+        "subtitle": 16,
+        "promotional_text": 69,
+        "description": 284,
+        "keywords": 98,
+        "whats_new": 43
+      },
+      "keyword_term_count": 28,
+      "keyword_characters_remaining": 2,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Natural Simplified Chinese name and terms. 活动通知 means invitation/notice content in this context, not push notifications. Family meals, banquets and anniversaries are editable-card uses, not promised dedicated templates. 字体/字形 and 聚会/亲友相聚 are related but distinct phrases; no excessive repetition."
+    },
+    {
+      "locale": "zh-Hant",
+      "verdict": "pass",
+      "name": "邀請函製作",
+      "subtitle": "生日派對卡片，填寫資訊並分享圖片",
+      "keywords": "電子請柬,聚會,範本,字體,排版,文案,設計,照片儲存,活動通知,慶祝,姓名,日期,時間,地址,場地,插畫,個人化,標題,文字編輯,宴會,請帖,親友相聚,邀請語,字型,樣式,預覽,家庭聚餐,紀念日",
+      "characters": {
+        "name": 5,
+        "subtitle": 16,
+        "promotional_text": 69,
+        "description": 321,
+        "keywords": 98,
+        "whats_new": 44
+      },
+      "keyword_term_count": 28,
+      "keyword_characters_remaining": 2,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Traditional Chinese name and vocabulary, including 範本, 個人化 and 照片儲存. 字體/字型 are conventional local search synonyms, not exact duplicates. Gathering/anniversary terms describe uses of editable cards. The description explicitly disclaims Traditional Chinese UI."
+    },
+    {
+      "locale": "ja",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "誕生日やパーティーの招待状作成",
+      "keywords": "テンプレート,フォント,案内状,デジタルカード,イベント,レタリング,お祝い,文字編集,画像保存,共有,デザイン,名前,日時,会場,住所,招待文,書体,イラスト,プレビュー,記念日,家族の集まり",
+      "characters": {
+        "name": 16,
+        "subtitle": 15,
+        "promotional_text": 78,
+        "description": 354,
+        "keywords": 97,
+        "whats_new": 64
+      },
+      "keyword_term_count": 21,
+      "keyword_characters_remaining": 3,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Natural invitation vocabulary; フォント/書体 and レタリング describe relevant lettering choices. 記念日 and 家族の集まり are plausible editable-card uses. Japanese UI is explicitly disclaimed."
+    },
+    {
+      "locale": "ko",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "생일과 파티를 위한 초대장 만들기",
+      "keywords": "템플릿,모임,초청장,카드,글꼴,행사안내,문구편집,디자인,이미지저장,사진,이름,날짜,시간,장소,주소,축하,글자꾸미기,미리보기,공유,기념일,초대문구,서체,일러스트,가족행사,타이포그래피",
+      "characters": {
+        "name": 16,
+        "subtitle": 18,
+        "promotional_text": 88,
+        "description": 422,
+        "keywords": 100,
+        "whats_new": 69
+      },
+      "keyword_term_count": 25,
+      "keyword_characters_remaining": 0,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Relevant Korean invitation, occasion, editing and image terms. 글꼴/서체 and 타이포그래피 are related local terms without exact duplication; no repeated inflection padding. English UI fallback is disclosed."
+    },
+    {
+      "locale": "fr-FR",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "Cartes pour vos anniversaires",
+      "keywords": "fête,modèle,typographie,événement,texte,polices,personnaliser,image,partage,enregistrer,célébration",
+      "characters": {
+        "name": 16,
+        "subtitle": 29,
+        "promotional_text": 160,
+        "description": 838,
+        "keywords": 99,
+        "whats_new": 149
+      },
+      "keyword_term_count": 11,
+      "keyword_characters_remaining": 1,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "French accents and natural fête/modèle/polices vocabulary retained. Birthday intent is in the subtitle; keywords cover editing and image output. English UI fallback is disclosed."
+    },
+    {
+      "locale": "de-DE",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "Einladungen für deine Feier",
+      "keywords": "geburtstag,party,vorlagen,schriftarten,typografie,karten,design,text,bilder,teilen,speichern,event",
+      "characters": {
+        "name": 16,
+        "subtitle": 27,
+        "promotional_text": 152,
+        "description": 877,
+        "keywords": 98,
+        "whats_new": 149
+      },
+      "keyword_term_count": 12,
+      "keyword_characters_remaining": 2,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Relevant German birthday, party, template and font terms; common loanwords design/event are appropriate. Feier in the subtitle complements Geburtstag/Party. English UI fallback is disclosed."
+    },
+    {
+      "locale": "es-ES",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "Invitaciones de cumpleaños",
+      "keywords": "tarjetas,plantillas,tipografía,eventos,fiesta,diseño,texto,fuentes,imagen,compartir,guardar,festejo",
+      "characters": {
+        "name": 16,
+        "subtitle": 26,
+        "promotional_text": 138,
+        "description": 873,
+        "keywords": 99,
+        "whats_new": 145
+      },
+      "keyword_term_count": 12,
+      "keyword_characters_remaining": 1,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Natural Spanish invitation/editing vocabulary, including diseño, fuentes and guardar. cumpleaños stays in the subtitle. The actual es-ES locale is preserved despite the roadmap mentioning es-MX; UI language is limited to English/Simplified Chinese."
+    },
+    {
+      "locale": "pt-BR",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "Convites para aniversários",
+      "keywords": "festas,cartões,modelos,tipografia,eventos,design,texto,fontes,imagem,compartilhar,salvar,comemoração",
+      "characters": {
+        "name": 16,
+        "subtitle": 26,
+        "promotional_text": 146,
+        "description": 812,
+        "keywords": 100,
+        "whats_new": 140
+      },
+      "keyword_term_count": 12,
+      "keyword_characters_remaining": 0,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Brazilian Portuguese terms, including compartilhar, salvar and comemoração, are appropriate. Anniversary/birthday intent sits in the subtitle; no unsupported capability is added. UI language disclosure remains."
+    },
+    {
+      "locale": "ru",
+      "verdict": "pass",
+      "name": "Invitation Maker",
+      "subtitle": "Приглашения на день рождения",
+      "keywords": "вечеринка,открытки,шаблоны,шрифты,дизайн,праздник,текст,изображение,сохранить,поделиться,событие",
+      "characters": {
+        "name": 16,
+        "subtitle": 28,
+        "promotional_text": 150,
+        "description": 819,
+        "keywords": 96,
+        "whats_new": 134
+      },
+      "keyword_term_count": 11,
+      "keyword_characters_remaining": 4,
+      "exact_duplicates": [],
+      "normalized_duplicates": [],
+      "keyword_name_subtitle_overlap": [],
+      "authorized_changes_only": true,
+      "feature_claims_supported": true,
+      "additional_ui_languages_claimed": false,
+      "localization_assessment": "Natural Russian party/card/template/font and image-action terms. День рождения is in the subtitle and not repeated in keywords. English UI fallback is disclosed."
+    }
+  ],
+  "issues": [],
+  "input_sha256": {
+    "COMPETITIVE_ANALYSIS.md": "4bdf3f0f7c038da46d3e0590bfcb03aec05d5672fbe1a35e2c19b57a4042bd43",
+    "PRODUCT_DIRECTION.md": "2546c5d648996463bf10c6e47572c8db87db9b14785ff79112d3cff26770fb54",
+    "RESEARCH_RECEIPT.json": "2027ea086bcca4b9f9f67861ff8073dc2728da675d3c345797007483574521a2",
+    "ASO_RATIONALE.md": "48c79eb00ed3d085e536b05a6918facb8944952502d21afcd50af17d58601fa5",
+    "BASELINE.json": "2b62de60b8709c7ba4aaa1fa8b369b34a5e52bace57c9c899ac444af5aeb290a",
+    "INPUT_RECEIPT.json": "fc22eb2ab00d0076482318eb7dd64cdfb64088cb2ac2948d02bb96ea4529a895",
+    "store-metadata.json": "4724f87aae7d9a05a4187d9951021382a815fae36e655ecc0726ee5d7052b6a1",
+    "VALIDATION.json": "7de84dd9faf191999219ca154aa745ec806ca7ecaa82a23848b52a68fc27afc2",
+    "../store-assets/campaign/en-US/SOURCE_AUDIT.json": "6d8d663289c13cd85bb954d3af3dd85b0e111cdaa24a79ae87c3bdd6c7079a56"
+  },
+  "integrity": {
+    "research_receipt_matches": true,
+    "baseline_and_frozen_source_match_input_receipt": true,
+    "changed_json_value_count": 43,
+    "changed_paths": [
+      "/localizations/en-US/subtitle",
+      "/localizations/en-US/promotional_text",
+      "/localizations/en-US/description",
+      "/localizations/en-US/keywords",
+      "/localizations/zh-Hans/name",
+      "/localizations/zh-Hans/subtitle",
+      "/localizations/zh-Hans/promotional_text",
+      "/localizations/zh-Hans/description",
+      "/localizations/zh-Hans/keywords",
+      "/localizations/zh-Hant/name",
+      "/localizations/zh-Hant/subtitle",
+      "/localizations/zh-Hant/promotional_text",
+      "/localizations/zh-Hant/description",
+      "/localizations/zh-Hant/keywords",
+      "/localizations/ja/subtitle",
+      "/localizations/ja/promotional_text",
+      "/localizations/ja/description",
+      "/localizations/ja/keywords",
+      "/localizations/ko/subtitle",
+      "/localizations/ko/promotional_text",
+      "/localizations/ko/description",
+      "/localizations/ko/keywords",
+      "/localizations/fr-FR/subtitle",
+      "/localizations/fr-FR/promotional_text",
+      "/localizations/fr-FR/description",
+      "/localizations/fr-FR/keywords",
+      "/localizations/de-DE/subtitle",
+      "/localizations/de-DE/promotional_text",
+      "/localizations/de-DE/description",
+      "/localizations/de-DE/keywords",
+      "/localizations/es-ES/subtitle",
+      "/localizations/es-ES/promotional_text",
+      "/localizations/es-ES/description",
+      "/localizations/es-ES/keywords",
+      "/localizations/pt-BR/subtitle",
+      "/localizations/pt-BR/promotional_text",
+      "/localizations/pt-BR/description",
+      "/localizations/pt-BR/keywords",
+      "/localizations/ru/subtitle",
+      "/localizations/ru/promotional_text",
+      "/localizations/ru/description",
+      "/localizations/ru/keywords",
+      "/rationale"
+    ],
+    "unauthorized_changes": [],
+    "screenshot_captions_unchanged": true,
+    "non_chinese_names_unchanged": true,
+    "whats_new_unchanged": true,
+    "category_schema_primary_locale_unchanged": true
+  },
+  "research_assessment": {
+    "complete_reports_read": true,
+    "meaningful_use": true,
+    "mapping": [
+      "Competitive analysis R02 and product direction N06: invitation image creation is separated from attendance management; all ten descriptions now specify the image outcome.",
+      "Competitive analysis W07 and product direction N01/I01: sample card, personalized event information and text editing are connected explicitly.",
+      "Competitive analysis R06 and product direction N10: all ten descriptions invite the user to inspect details before sharing; no automatic error-prevention claim."
+    ],
+    "excluded_from_customer_copy": [
+      "Competitor identities, prices and slogans",
+      "Market-size, demand, ranking, superiority and comparison claims",
+      "Offline guarantees, bilingual workflows, Pro/price promises and per-language version management",
+      "Automated validation, correctness guarantees, ten-language UI, AI results, RSVP tracking, hosted QR/links, delivery and cloud-sync promises"
+    ],
+    "boundary": "Research is supplied historical evidence, not fresh competitor verification or proof that roadmap features shipped. Internal rationale may name excluded capabilities; these are not customer-facing promises."
+  },
+  "active_code_evidence": [
+    {
+      "claim": "Illustrated occasion templates, full sample preview, selection",
+      "source": [
+        "../app/project.yml:18",
+        "../app/Sources/MainPages.swift:123",
+        "../app/Sources/MainPages.swift:193",
+        "../app/Sources/MainPages.swift:372",
+        "../app/Sources/MainPages.swift:411",
+        "../app/Sources/MainPages.swift:446"
+      ],
+      "finding": "Active catalog, rendered sample card and Use Template action exist. Details is accessed by context menu; copy does not invent a tap sequence."
+    },
+    {
+      "claim": "Event title, names, date/time, venue/address and personal message",
+      "source": [
+        "../app/Sources/EditorPages.swift:618"
+      ],
+      "finding": "quickDetails binds title/hosts, date/time, venue, address and message to the edited invitation. Venue/address apply to in-person/hybrid events."
+    },
+    {
+      "claim": "Individual text editing, font choice and on-card appearance",
+      "source": [
+        "../app/Sources/EditorPages.swift:504",
+        "../app/Sources/CanvasTextEditor.swift:830",
+        "../app/Sources/CanvasTextEditor.swift:1048",
+        "../app/Sources/CanvasTextEditor.swift:1190",
+        "../app/Sources/CanvasTextEditor.swift:339"
+      ],
+      "finding": "Editor opens the selected text editor; changes update draft text and face settings used by rendering. Font selection and preview are implemented."
+    },
+    {
+      "claim": "Complete preview, share image, save to Photos",
+      "source": [
+        "../app/Sources/Navigation.swift:313",
+        "../app/Sources/ExportPages.swift:58",
+        "../app/Sources/ExportPages.swift:200",
+        "../app/Sources/ExportPages.swift:221",
+        "../app/Sources/ExportPages.swift:237",
+        "../app/Sources/ExportPages.swift:292",
+        "../app/Sources/ExportPages.swift:789"
+      ],
+      "finding": "Reachable export page renders preview, generates image files, opens UIActivityViewController and writes photo resources after authorization. Copy does not promise delivery, receipt, format selection or automatic checking. Image wording accommodates implemented PNG/GIF paths."
+    },
+    {
+      "claim": "English and Simplified Chinese UI; other listing languages are not extra UI languages",
+      "source": [
+        "../app/Sources/AppStore.swift:34",
+        "../app/Sources/AppStore.swift:36"
+      ],
+      "finding": "store.t chooses English or Chinese; Chinese strings are Simplified Chinese. System zh languages select that Chinese branch; other system languages default to English unless explicitly overridden. No additional UI localization is claimed."
+    }
+  ],
+  "keyword_method": "Python len on decoded JSON strings counts Unicode code points, including commas and internal spaces. All current strings use BMP characters without combining sequences, so counts also match UTF-16 code units. Exact and NFKC/casefold duplicate checks, full-term name/subtitle overlap checks, and editorial semantic review performed. Near-limit criterion: 95–100 characters.",
+  "validation_crosscheck": "Independently recomputed all ten keyword counts; all match VALIDATION.json. Verdict is based on actual metadata and code, not its status field.",
+  "limitations": [
+    "Source inspection verifies implemented paths, not successful device execution, actual delivery or Photos authorization on a device.",
+    "Local relevance and language assessment is editorial; no search volume or ranking effectiveness is asserted.",
+    "No current competitor pages were refreshed; review evaluates faithful use of the two complete supplied reports."
+  ]
+}

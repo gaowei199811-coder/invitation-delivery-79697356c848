@@ -1,0 +1,67 @@
+{
+  "status": "pass",
+  "scope": "Research-backed metadata copy revised; screenshot captions and product capabilities remain bound to frozen campaign inputs",
+  "rows": [
+    {
+      "locale": "en-US",
+      "name": "Invitation Maker",
+      "keywords_characters": 99,
+      "keywords": "event,templates,fonts,typography,digital,celebration,lettering,personalize,image,sharing,stationery"
+    },
+    {
+      "locale": "zh-Hans",
+      "name": "邀请函制作",
+      "keywords_characters": 98,
+      "keywords": "电子请柬,聚会,模板,字体,排版,文案,设计,相册保存,活动通知,庆祝,姓名,日期,时间,地址,场地,插画,个性化,标题,文字编辑,宴会,请帖,亲友相聚,邀请语,字形,样式,预览,家庭聚餐,纪念日"
+    },
+    {
+      "locale": "zh-Hant",
+      "name": "邀請函製作",
+      "keywords_characters": 98,
+      "keywords": "電子請柬,聚會,範本,字體,排版,文案,設計,照片儲存,活動通知,慶祝,姓名,日期,時間,地址,場地,插畫,個人化,標題,文字編輯,宴會,請帖,親友相聚,邀請語,字型,樣式,預覽,家庭聚餐,紀念日"
+    },
+    {
+      "locale": "ja",
+      "name": "Invitation Maker",
+      "keywords_characters": 97,
+      "keywords": "テンプレート,フォント,案内状,デジタルカード,イベント,レタリング,お祝い,文字編集,画像保存,共有,デザイン,名前,日時,会場,住所,招待文,書体,イラスト,プレビュー,記念日,家族の集まり"
+    },
+    {
+      "locale": "ko",
+      "name": "Invitation Maker",
+      "keywords_characters": 100,
+      "keywords": "템플릿,모임,초청장,카드,글꼴,행사안내,문구편집,디자인,이미지저장,사진,이름,날짜,시간,장소,주소,축하,글자꾸미기,미리보기,공유,기념일,초대문구,서체,일러스트,가족행사,타이포그래피"
+    },
+    {
+      "locale": "fr-FR",
+      "name": "Invitation Maker",
+      "keywords_characters": 99,
+      "keywords": "fête,modèle,typographie,événement,texte,polices,personnaliser,image,partage,enregistrer,célébration"
+    },
+    {
+      "locale": "de-DE",
+      "name": "Invitation Maker",
+      "keywords_characters": 98,
+      "keywords": "geburtstag,party,vorlagen,schriftarten,typografie,karten,design,text,bilder,teilen,speichern,event"
+    },
+    {
+      "locale": "es-ES",
+      "name": "Invitation Maker",
+      "keywords_characters": 99,
+      "keywords": "tarjetas,plantillas,tipografía,eventos,fiesta,diseño,texto,fuentes,imagen,compartir,guardar,festejo"
+    },
+    {
+      "locale": "pt-BR",
+      "name": "Invitation Maker",
+      "keywords_characters": 100,
+      "keywords": "festas,cartões,modelos,tipografia,eventos,design,texto,fontes,imagem,compartilhar,salvar,comemoração"
+    },
+    {
+      "locale": "ru",
+      "name": "Invitation Maker",
+      "keywords_characters": 96,
+      "keywords": "вечеринка,открытки,шаблоны,шрифты,дизайн,праздник,текст,изображение,сохранить,поделиться,событие"
+    }
+  ],
+  "warnings": []
+}

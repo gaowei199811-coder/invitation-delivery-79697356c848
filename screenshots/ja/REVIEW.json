@@ -1,0 +1,350 @@
+{
+  "manifest_sha256": "abe352aba8e3363f45e173017a72692a97cc7299cfc6447f154649f79ada130c",
+  "locale": "ja",
+  "count": 10,
+  "verdict": "pass",
+  "source_verdict": "pass",
+  "visual_hierarchy_contract": "clear-focus-v1",
+  "observed": [
+    {
+      "id": "gallery",
+      "slot": 1,
+      "file": "output/iphone-6.3/01.png",
+      "sha256": "37f5ddfbcd3a614f4243f381f717ed66ccf2fa9962482c04dbd035c7e0041a7e",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "シーン別の実際のテンプレートから選べる (real templates organised by occasion)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The Dinner gallery and lifted Peach Champagne card establish template choice immediately; the visible occasion strip and original card prove the Japanese headline.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the gallery detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete tilted card includes artwork, invitation text and its English catalog name. It leaves the original first-row card and Templates navigation readable.",
+      "locale_observation": "Japanese headline and subtitle read naturally. English occasion labels, template names and sample invitation are the actual Japanese-device fallback; no Japanese chrome is invented.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/MainPages.swift TemplatesView categoryStrip / templateGrid / templateCard",
+        "Sources/MainPages.swift:371-376 CatalogTemplateArtwork sample:true",
+        "Sources/Navigation.swift:339-381 five-tab bar",
+        "Sources/BanquetPortraitCatalog.swift:7,13 names; :76 recipe Didot/Baskerville ink 0x202B1A accent 0x705319",
+        "Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-peach-champagne.imageset/artwork.png"
+      ]
+    },
+    {
+      "id": "font",
+      "slot": 2,
+      "file": "output/iphone-6.3/02.png",
+      "sha256": "f953ec7789f610db98c8730c463887e3ae1943692721aec742f181f5057e9c92",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "一行ずつ好きなフォントを選べる (pick a font for one line)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The enlarged script selection is the first functional subject, with the visible Font grid linking it to choosing a typeface for one line.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the font detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "Only at the Table is enclosed by the selection frame. All four circular controls and the trailing width capsule are complete with internal margin; An Evening remains unselected context.",
+      "locale_observation": "The Latin run uses Great Vibes and the third-row first tile is selected. The Japanese headline does not show or imply Great Vibes shaping Japanese; the surrounding controls remain English.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/BanquetPortraitCatalog.swift:203-206 one run per title line",
+        "Sources/CanvasTextEditor.swift:660-792 single selection box and handles",
+        "Sources/CanvasTextEditor.swift:1190-1252 font grid",
+        "Sources/InvitationTypography.swift:96-115, :185 Great Vibes"
+      ]
+    },
+    {
+      "id": "color",
+      "slot": 3,
+      "file": "output/iphone-6.3/03.png",
+      "sha256": "f3cb06b6afebe21ac61a3bc63398623cf7e1fe5fb8dfc5560302f1ec051569f1",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "選んだ一行の色を変えられる (change the colour of one line)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The five-swatch capsule and terracotta selection ring are immediately legible; the same colored text run above proves the individual text-color benefit.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the color detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "Five complete contiguous swatches surround the selected terracotta ring. The original Color strip, Opacity control, selected run and Text tab remain visible.",
+      "locale_observation": "選んだ一行だけ色を変えられる accurately limits the edit to one line. Great Vibes continues from page 2 and changes from gold to terracotta, while An Evening stays dark.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/CanvasTextEditor.swift:1143-1170 presets",
+        "Sources/CanvasTextEditor.swift:1280-1301 style sections, Color + Opacity",
+        "Sources/CanvasTextEditor.swift:1559-1619 colorStrip"
+      ]
+    },
+    {
+      "id": "restyle",
+      "slot": 4,
+      "file": "output/iphone-6.3/04.png",
+      "sha256": "3ac07f9ec061e59d2ef7fdad578b934afdf6e8bc596bbededee8d8b41a20dbca",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "文面はそのまま、スタイルや配色を試せる (another style or colour scheme, same wording)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The palette band and Template Style thumbnails clearly identify restyling while the same edited wording remains visible on the invitation.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the restyle detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "Color Scheme is now on one full line above all five complete buttons, with a clear vertical gap and internal margins. No effect is selected; the original palette row and Style tab remain visible.",
+      "locale_observation": "文面はそのまま / 雰囲気を変える is idiomatic and source-supported. This is an available-control browsing state, not a fabricated applied color result. The inherited heading collision is corrected.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/EditorPages.swift:27-76 tints and selectedPalette",
+        "Sources/EditorPages.swift:78-196 Template Style / Color Scheme controls and names",
+        "Sources/EditorPages.swift:160-161 style change keeps wording",
+        "Sources/EditorPages.swift:309-321, 541-559 shell and tool row"
+      ]
+    },
+    {
+      "id": "cutout",
+      "slot": 5,
+      "file": "output/iphone-6.3/05.png",
+      "sha256": "24fbe17c4427f78a8aab4ce3f1d2502be8bc65f49a3e6f1d65fdd3f394fc4c60",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "写真から切り抜きステッカーを作れる (photo to cutout sticker)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The bundled dog illustration with Camera and Photos provides the clear cutout entry subject, distinct from the unchanged invitation above.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the cutout detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "The entire dashed add-card includes the illustration, Create Your Own Cutout Sticker heading and both complete controls. Cutout heading and selected tool remain visible.",
+      "locale_observation": "Japanese copy describes making a sticker from a photo. The dog is the actual bundled empty-entry illustration, not a newly completed cutout or a claimed successful operation.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/PhotoElementsEditor.swift:195, 270-378, 458-466",
+        "Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+      ]
+    },
+    {
+      "id": "bilingual",
+      "slot": 6,
+      "file": "output/iphone-6.3/06.png",
+      "sha256": "8f09c9b361196a6fade2050b8231aad1eae11cd7b5a8cd985f1942403e93098f",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "第二言語（日本語）のバージョンを追加できる (second language version)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The Japanese invitation and English/Japanese switch jointly prove two language versions; the Japanese card remains readable above the lifted capsule.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the bilingual detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete two-choice capsule has Japanese selected and does not cover the invitation text. The in-phone switch, Preview title and English review notice remain visible.",
+      "locale_observation": "食事会のお誘い and 一緒にお祝いしましょう match source Japanese phrases used as disclosed manual demo input. Date/time and reply deadline are illustrative user values. Hiragino Mincho matches the Japanese catalog route; English chrome is truthful. No translation-success claim.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/MainPages.swift:684 Tools 'Bilingual Invite'",
+        "Sources/CheckAndBilingual.swift:509-623 settings incl. 'Preview Both Languages' :538-542",
+        "Sources/CheckAndBilingual.swift:631-664 picker list from system Translation",
+        "Sources/CheckAndBilingual.swift:844-861 BilingualPreview",
+        "Sources/Models.swift:231-256 InviteLanguage incl. init(systemLanguage:) mapping to built-in .japanese",
+        "Sources/InvitationTools.swift:308-310, 333 Japanese copy",
+        "Sources/BanquetPortraitCatalog.swift:90-209 layout"
+      ]
+    },
+    {
+      "id": "resize",
+      "slot": 7,
+      "file": "output/iphone-6.3/07.png",
+      "sha256": "f6370e2b733829b4b4462fc6c27b9b4282523ae6769a78029e50972c1a230b04",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "横長・正方形にサイズ変更できる (landscape or square)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The landscape invitation and checked Landscape 4:3 row immediately show resizing; the complete alternative list distinguishes this benefit from styling.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the resize detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "Choose a layout, Original, Landscape 4:3 and Square 1:1 are fully contained. The landscape preview, English/Japanese picker and Continue Editing remain unobscured.",
+      "locale_observation": "横長も / 正方形も is concise natural Japanese. English is selected for the Tuscan landscape version; the preview is proportionate and its centered wording is intact. No duplicate Portrait option is invented.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/InvitationToolPages.swift:49-107",
+        "Sources/InvitationTools.swift:154-262"
+      ]
+    },
+    {
+      "id": "guests",
+      "slot": 8,
+      "file": "output/iphone-6.3/08.png",
+      "sha256": "401557a5d360488a66d204d89c96ba2663644f0185f82affee4d2361f614b878",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "ゲストごとに名前入りの招待状 (personal invitation per guest)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The guest-name block and personalized card make per-guest invitations the first functional subject, supported by the visible export action.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the guests detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "Guest names, 3 guests, all three names and the paste footnote are complete in the focus. The original greeting, Olivia preview and Export 3 Invitations remain readable.",
+      "locale_observation": "ゲストごとに / 名前入りの一枚 matches name-based exports. English names and Dear Olivia are consistent with the English Peach design; the count is demo input, not analytics or RSVP tracking.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/InvitationToolPages.swift:215-397",
+        "Sources/InvitationTools.swift:342-383 guests and English greeting 'Dear {name},'"
+      ]
+    },
+    {
+      "id": "designs",
+      "slot": 9,
+      "file": "output/iphone-6.3/09.png",
+      "sha256": "5423e8e85040b2ad39ecc9eb4405cefdc189dc175c3de150ccf314e8f3cf3824",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "保存した下書きをいつでも再開・複製 (keep and reuse designs)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "Two saved draft rows plus the lifted actions menu clearly prove reopening and duplicating saved work; both design names and thumbnails remain visible.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the designs detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "The opaque warm menu shows Edit, Rename, Duplicate, Export and red Delete exactly once, with clean separators and complete icons. No smaller labels or rules bleed through; Designs navigation remains exposed.",
+      "locale_observation": "保存した下書き / いつでも再開 reads naturally. Tuscan remains landscape/bilingual and Peach preserves the terracotta Great Vibes edit. Relative times are illustrative; no cloud-sync claim is added. The inherited ghost-menu defect is corrected.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/MainPages.swift:478-587",
+        "Sources/Models.swift:606",
+        "Sources/AppStore.swift:99-113"
+      ]
+    },
+    {
+      "id": "share",
+      "slot": 10,
+      "file": "output/iphone-6.3/10.png",
+      "sha256": "30f9fb92691be19b5e9ad4a84a2d2c40aaba81d9484baf9f64d13acad37b8100",
+      "opened_full_size": true,
+      "dimensions": [
+        1206,
+        2622
+      ],
+      "benefit": "画像を共有、または写真に保存 (share or save to Photos)",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The finished Peach invitation and two enlarged bottom actions provide a clear sharing/saving endpoint with the card fully readable.",
+      "background_observation": "The fine warm-paper grain and low terracotta fold stay behind the large silver phone. Shared soft shadows support the share detail without introducing a competing decorative subject.",
+      "focus_clarity": "pass",
+      "focus_observation": "Both Share Invitation and Save to Photos buttons are complete, including icons, labels and margins. The warm action surface separates them from the stage without concealing the finished card.",
+      "locale_observation": "共有も / 写真保存も accurately describes the two real actions. The card retains the edited script, terracotta color and original wording; no saved confirmation, recipient, QR, delivery or runtime success is shown.",
+      "typography_and_bounds": "Japanese 48px headline is two lines with at least 33px measured side clearance on this series; subtitle and functional focus are intact. No missing glyph boxes, unintended text overflow or clipped claimed control observed. Lower hardware crop is deliberate.",
+      "device_width_master_px": 350,
+      "source_citations": [
+        "Sources/ExportPages.swift:53, 89-101, 137-212"
+      ]
+    }
+  ],
+  "opening_pair_review": {
+    "verdict": "pass",
+    "file": "output/opening-2.png",
+    "observation": "Opened actual pair. Matched large phone scale, Japanese Mincho heading rhythm, warm light and connecting paper fold create one campaign. Gallery choice leads to editing the same Peach card. The lifted card and complete script-selection loupe remain distinct and understandable alone."
+  },
+  "opening_trio_review": {
+    "verdict": "pass",
+    "file": "output/opening-3.png",
+    "observation": "Opened actual trio. The fold continues across all three panels, with consistent phone top and scale. Card, selection loupe and swatch capsule vary by function. The gold-to-terracotta script edit is coherent; complete handles are recognizable even at trio size."
+  },
+  "overview_review": {
+    "verdict": "pass",
+    "file": "output/overview.png",
+    "observation": "Opened actual ten-panel overview. Exactly ten ordered benefits are visually distinct within a consistent warm-paper/terracotta series. Japanese headings retain the two-line rhythm without shrinking phones; later panels preserve the same material and light."
+  },
+  "reference_comparison": {
+    "verdict": "pass",
+    "english_reference_manifest_sha256": "09df20d35a145f2ae4d04e683e75502fde29a247886793b2604aa20fdb567322",
+    "opened_english_images": [
+      "../owner-feedback/english-ten-selected/iphone-6.3/01.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/02.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/03.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/04.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/05.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/06.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/07.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/08.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/09.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/10.png",
+      "../owner-feedback/english-ten-selected/overview.png"
+    ],
+    "observation": "Independently opened all ten selected English singles and overview. Japanese preserves their 350px original device, source artwork, ten ordered benefits, warm-paper/terracotta palette and feature-dependent focus shapes. Japanese marketing is new, page 6 uses the supported Japanese invitation state, page 7 uses English/Japanese choices, and pages 4/9 visibly repair the two English defects. Every Japanese output hash differs from every selected English single.",
+    "study_images_opened": [
+      "../library/references/browser-study-20261016/photo-editor-warm.png",
+      "../library/references/browser-study-20261016/beauty-camera-pink.png",
+      "../library/references/browser-study-20261016/coin-scan-series.png"
+    ],
+    "study_observation": "Warm photo-editor provides the cream material and large cropped-phone relationship; beauty-camera demonstrates lifting a source cell beyond the bezel; coin-scan demonstrates changing panel silhouette while preserving series scale. Japanese uses these relationships without importing foreign claims, branding or palettes."
+  },
+  "checks": {
+    "manifest_output_hashes": "10/10 match",
+    "preview_hashes": "3/3 match",
+    "composition_hashes": "9/9 match",
+    "single_dimensions": "10/10 are 1206x2622",
+    "hardware": "Device and mask SHA256 match the authorized library originals. All ten geometry records show width 350px.",
+    "typography": "Pre-transport CSS declares original app-fonts aliases, Great Vibes for Latin text, Hiragino Mincho ProN for Japanese card/marketing and Hiragino Sans for subtitles. Actual Japanese and Latin pixels are legible with no missing glyphs. Cyrillic is not present and is not applicable to this locale. No native font-rendering equivalence is asserted.",
+    "language_fallback": "AppStore.swift:34-36 and 303-311 independently confirm English chrome on Japanese devices. Models.swift and InvitationTools.swift confirm Japanese authored-content support; BanquetPortraitCatalog.swift:104-105 and InvitationEdition5.swift:205-211 confirm Hiragino route.",
+    "provenance": "Source-backed illustrative redraw and manual Japanese demo text are disclosed in PROVENANCE.md. Dates, relative times, list order and layout are illustrative; native execution was not verified.",
+    "source_art_pixels_opened": [
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-tuscan-sunset.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-peach-champagne.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+    ]
+  },
+  "issues": [],
+  "owner_visual_acceptance": "pending",
+  "scope": "Independent review only for ja. Only REVIEW.json and REVIEW.md written. No generation, rendering, repairs, ledger edits, metadata changes, source changes, native execution, publication or approval action. No repair requested; canonical charged/archived repair state left untouched."
+}

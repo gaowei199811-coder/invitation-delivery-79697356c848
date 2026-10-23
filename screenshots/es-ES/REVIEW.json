@@ -1,0 +1,303 @@
+{
+  "manifest_sha256": "e77b4efc166755e7c0072424311c44dff274c563eed5875c48698b6f5195100b",
+  "locale": "es-ES",
+  "count": 10,
+  "verdict": "pass",
+  "source_verdict": "pass",
+  "visual_hierarchy_contract": "clear-focus-v1",
+  "observed": [
+    {
+      "slot": 1,
+      "id": "gallery",
+      "image": "output/iphone-6.3/01.png",
+      "image_sha256": "905aa7e47545c6493693adfd596f43c6d7149609157e9955db42f2612f092035",
+      "benefit": "Real templates organised by occasion",
+      "headline": "Elige tu / invitación",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The Dinner grid and lifted Peach Champagne card establish template choice at first glance. Tuscan and Peach source artwork remain recognizable, with the selected Dinner category and Templates navigation visible.",
+      "background_observation": "The quiet ivory upper field and terracotta paper fold support the gallery; detail stays in the app artwork rather than competing background props.",
+      "focus_clarity": "pass",
+      "focus_observation": "The tilted card includes the artwork, sample invitation and full English name label. Its in-grid counterpart remains visible; the lower grid continues behind the enlargement.",
+      "locale_observation": "Spanish invitación and ocasión accents render cleanly. English categories, names and sample copy correctly retain the source fallback.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/MainPages.swift TemplatesView categoryStrip / templateGrid / templateCard",
+        "Sources/MainPages.swift:371-376 CatalogTemplateArtwork sample:true",
+        "Sources/Navigation.swift:339-381 large title + five tabs",
+        "Sources/BanquetPortraitCatalog.swift:7,13,27-35,59,76",
+        "Sources/AppStore.swift:34-36 English UI fallback"
+      ]
+    },
+    {
+      "slot": 2,
+      "id": "font",
+      "image": "output/iphone-6.3/02.png",
+      "image_sha256": "dff70925001ddb15af5ea2155c7dc1e6216edf43df173f2cf0b86c2dccfc82e9",
+      "benefit": "Pick a font for one line of wording",
+      "headline": "Cada palabra / a tu estilo",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The enlarged handwritten at the Table run is the first functional subject; the exposed Font tab and selected third-row first tile connect the lettering to font choice.",
+      "background_observation": "The ivory loupe and soft warm shadow separate the selected run from the phone; the paper fold remains secondary to the font demonstration.",
+      "focus_clarity": "pass",
+      "focus_observation": "Only at the Table is framed. An Evening remains unselected context. All four circular controls and the trailing width capsule are complete, with space inside the loupe; the selected Great Vibes tile stays visible.",
+      "locale_observation": "The selected Latin run matches Great Vibes and the audited Western font order. Spanish línea and tipografía render without missing glyphs.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/BanquetPortraitCatalog.swift:203-206 one run per title line",
+        "Sources/CanvasTextEditor.swift:660-792 single CanvasTextSelectionBox and handles",
+        "Sources/CanvasTextEditor.swift:929-999, 1190-1252 page, tabs, font grid",
+        "Sources/InvitationTypography.swift:96-115, 185 western cases / Great Vibes"
+      ]
+    },
+    {
+      "slot": 3,
+      "id": "color",
+      "image": "output/iphone-6.3/03.png",
+      "image_sha256": "e33973f2f8c6e848df8afb2ca536488e6c7b8a1e75c62454dd5656ec0123e91d",
+      "benefit": "Change the colour of any single line",
+      "headline": "Ponle color / a tu manera",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The enlarged five-swatch strip and terracotta selected text immediately explain changing one line’s color. The Style tab, Color category and opacity control remain exposed.",
+      "background_observation": "The restrained warm field lets the colored swatches carry the visual emphasis; grain and fold do not compete with the selected color ring.",
+      "focus_clarity": "pass",
+      "focus_observation": "All five contiguous swatches and the complete selected terracotta ring are visible. The capsule occupies the lower gap without concealing the selected text or the original color strip.",
+      "locale_observation": "The same single English run changes from gold on page 2 to terracotta here. Spanish marketing remains readable in two lines.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/CanvasTextEditor.swift:1143-1170, 1280-1301, 1559-1619"
+      ]
+    },
+    {
+      "slot": 4,
+      "id": "restyle",
+      "image": "output/iphone-6.3/04.png",
+      "image_sha256": "36ac6524c41188dd159f25de1085460be86f8cd8ea4797ae46064f118af7895e",
+      "benefit": "Try another template style or colour scheme with the same wording",
+      "headline": "Nuevo estilo / mismo texto",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "Template Style thumbnails and the enlarged Color Scheme section demonstrate restyling while the same edited invitation wording remains visible above.",
+      "background_observation": "The pale opaque palette band has consistent warm shadow and clean internal space; the terracotta background remains subordinate to the controls.",
+      "focus_clarity": "pass",
+      "focus_observation": "The enlarged Color Scheme heading now fits on one line with clear vertical separation from five complete buttons. No effect is outlined; the original palette row and selected Style tab remain visible. The English collision is corrected.",
+      "locale_observation": "English Color Scheme is the actual fallback, not an untranslated Spanish UI defect. Spanish marketing fits; no applied palette result is fabricated.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/EditorPages.swift:27-76, 78-196 TemplateAppearance / controls / names",
+        "Sources/EditorPages.swift:160-161 choosing a style keeps wording",
+        "Sources/EditorPages.swift:309-321, 541-559"
+      ]
+    },
+    {
+      "slot": 5,
+      "id": "cutout",
+      "image": "output/iphone-6.3/05.png",
+      "image_sha256": "fa3ed9a5fa741c45a43151d62276b23844451515d78820d90a8918202a6eb284",
+      "benefit": "Turn a photo into a cutout sticker",
+      "headline": "Crea tus / pegatinas",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The bundled dog illustration and Camera/Photos entry card give cutout creation a clear subject below the unchanged edited invitation.",
+      "background_observation": "The background uses the same paper and warm light; the dog illustration is contained within the actual tool entry, with no extra scene competing.",
+      "focus_clarity": "pass",
+      "focus_observation": "The dashed enlarged card contains the entire illustration, heading and both buttons. Original Camera/Photos controls and the selected Cutout tab remain visible below it.",
+      "locale_observation": "Pegatinas is appropriate Spain Spanish. The dog is the opened bundled empty-entry illustration, not a claimed user-generated cutout or success result.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/PhotoElementsEditor.swift:195, 270-378, 458-466, 692",
+        "Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+      ]
+    },
+    {
+      "slot": 6,
+      "id": "bilingual",
+      "image": "output/iphone-6.3/06.png",
+      "image_sha256": "ece68c3d121a1196ea6d89ca38c7cd9d07086c105f560585eacf4663f6c97981",
+      "benefit": "Make a second language version",
+      "headline": "Invita en / dos idiomas",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The Spanish Tuscan invitation and selected Spanish switch demonstrate two language versions, with the English Preview shell retaining truthful app language behavior.",
+      "background_observation": "The landscape is source invitation artwork inside the phone, while the external paper stage stays restrained and the language control stays prominent.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete English/Spanish switch is enlarged across the artwork below the wording. Both choices, selection fill and rounded boundaries are clear; no invitation text is obscured.",
+      "locale_observation": "Una cena juntos, Ven a celebrar con nosotros, Fecha, Hora and Confirma antes del match supported source strings and disclosed user-entered content. English Spanish is the correct UI label. No automatic-translation success is claimed.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/CheckAndBilingual.swift:134-139 LanguageSwitch uses store.languageName",
+        "Sources/AppStore.swift:304-309 languageName(.spanish) = 'Spanish' in English UI",
+        "Sources/CheckAndBilingual.swift:379-396, 509-623, 844-861 Bilingual view / preview / notice",
+        "Sources/Models.swift:131-136, 232-241, 293, 716, 765",
+        "Sources/InvitationTools.swift:300, 330 source Spanish copy",
+        "Sources/BanquetPortraitCatalog.swift:90-209 layout with second language"
+      ]
+    },
+    {
+      "slot": 7,
+      "id": "resize",
+      "image": "output/iphone-6.3/07.png",
+      "image_sha256": "7f8e0327b01955c422dc38b09ca0e6f633e7c18a9d1cd6f646edfd11709924a1",
+      "benefit": "Adapt one design to landscape or square",
+      "headline": "Un diseño / cada formato",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The landscape Tuscan preview and checked Landscape 4:3 row establish resizing at first glance; the preview proportions agree with the selected format.",
+      "background_observation": "The warm paper stage and pale focus list keep the selected geometry prominent; no decorative element competes with the landscape preview.",
+      "focus_clarity": "pass",
+      "focus_observation": "Choose a layout and all three complete rows—Original, Landscape 4:3, Square 1:1—remain inside the focus. The full preview and Continue Editing control are exposed.",
+      "locale_observation": "The compact Spanish headline is clarified by Cambia a horizontal o cuadrado. English remains selected beside Spanish, correctly showing the primary English design.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/InvitationToolPages.swift:49-107",
+        "Sources/InvitationTools.swift:154-262"
+      ]
+    },
+    {
+      "slot": 8,
+      "id": "guests",
+      "image": "output/iphone-6.3/08.png",
+      "image_sha256": "affaee44fcbd2ae74cc3cf55b19085430525d2ff8077e02be568aa2b295d4735",
+      "benefit": "Personal invitations with each guest's name",
+      "headline": "Cada invitado / con su nombre",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The enlarged three-name field, greeting and individual invitation preview make personalization the clear subject; Export 3 Invitations remains readable.",
+      "background_observation": "The quiet paper stage and simple light field emphasize guest names; the invitation artwork remains contextual rather than an unrelated decoration.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete Guest names block includes its count, Lucía/Mateo/Sofía field and footnote. The greeting row and personalized card remain visible above; no RSVP analytics are shown.",
+      "locale_observation": "Lucía and Sofía retain visible accents in the field and focus. Dear Lucía is correct for the English invitation. The widest headline line remains inside the poster with approximately 20 logical pixels of side space.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/InvitationToolPages.swift:215-397",
+        "Sources/InvitationTools.swift:342-383 guests split by newline; greeting(for: .english) = 'Dear {name},'"
+      ]
+    },
+    {
+      "slot": 9,
+      "id": "designs",
+      "image": "output/iphone-6.3/09.png",
+      "image_sha256": "f7546f2fd247a168d2c0a87d3d711a983a87a9eb5e6e70de87af991923b8edb8",
+      "benefit": "Keep every design and reuse it",
+      "headline": "Guarda cada / diseño",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "Two saved draft rows and the enlarged action menu show reopening and duplicating designs. The Tuscan landscape and edited Peach portrait thumbnails preserve the design sequence.",
+      "background_observation": "The warm opaque menu contrasts cleanly with the restrained terracotta stage; no ghost text or added decoration competes with its five actions.",
+      "focus_clarity": "pass",
+      "focus_observation": "The opaque warm menu shows Edit, Rename, Duplicate, Export and red Delete once each with clean icons and separators. No smaller text bleeds through. Both draft names/thumbnails and Designs navigation remain visible.",
+      "locale_observation": "Spanish marketing is clear and English menu labels match source. Relative edit times are illustrative; no sync or backup claim appears. The English ghost-menu defect is corrected.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/MainPages.swift:478-587",
+        "Sources/Models.swift:606",
+        "Sources/AppStore.swift:99-113"
+      ]
+    },
+    {
+      "slot": 10,
+      "id": "share",
+      "image": "output/iphone-6.3/10.png",
+      "image_sha256": "24d7efbec1dc1f90427542dd43f9edfeb1b0884faa63aa576152ba98f75ae13c",
+      "benefit": "Share the finished invitation or save it to Photos",
+      "headline": "Compártela / o guárdala",
+      "verdict": "pass",
+      "source_verdict": "pass",
+      "primary_focus": "pass",
+      "background_restraint": "pass",
+      "primary_focus_observation": "The finished Peach invitation and two large export actions communicate sharing or saving. The terracotta Great Vibes second line agrees with editing and saved-draft states.",
+      "background_observation": "The restrained ivory and peach floor supports the final action block, with shared warm light and no decorative obstruction of the finished card.",
+      "focus_clarity": "pass",
+      "focus_observation": "The complete Share Invitation and Save to Photos group has readable icons, labels and margins. It overlaps the lower device area while leaving the finished invitation fully exposed.",
+      "locale_observation": "Compártela, guárdala and Envía render correctly. Fotos occurs in Spanish marketing; the source English Save to Photos action remains unchanged and does not claim a completed save.",
+      "typography_and_bounds": "Two-line 48px headline and readable subtitle; no missing Latin glyphs or unintended text/control clipping observed. Device is 350px on the 402px master; slight lower hardware cropping is deliberate.",
+      "source_evidence": [
+        "Sources/ExportPages.swift:53, 89-101, 137-152, 187-212"
+      ]
+    }
+  ],
+  "opening_pair_review": {
+    "verdict": "pass",
+    "image": "output/opening-2.png",
+    "observation": "Actually opened the pair. Matching large devices, headline baselines, warm light and connected paper-fold heights make discovery then font editing read together. The tilted card and horizontal selection loupe remain distinct and each poster works alone."
+  },
+  "opening_trio_review": {
+    "verdict": "pass",
+    "image": "output/opening-3.png",
+    "observation": "Actually opened the trio. Gallery, single-line font editing and color choice form a coherent progression. The paper edge continues across the joins; the card, loupe and swatch capsule vary the focus without changing phone scale. Selection handles remain recognizable at trio size."
+  },
+  "reference_comparison": {
+    "verdict": "pass",
+    "english_manifest_sha256": "09df20d35a145f2ae4d04e683e75502fde29a247886793b2604aa20fdb567322",
+    "opened_english_images": [
+      "../owner-feedback/english-ten-selected/iphone-6.3/01.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/02.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/03.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/04.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/05.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/06.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/07.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/08.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/09.png",
+      "../owner-feedback/english-ten-selected/iphone-6.3/10.png",
+      "../owner-feedback/english-ten-selected/overview.png"
+    ],
+    "observation": "All ten English singles and overview were opened. Spanish preserves the ten ordered benefits, 350px original device, ivory/ink/terracotta/peach palette, shared light, paper-fold continuity and feature-specific focus silhouettes. Actual Spanish pages 4 and 9 correct the observed English collision and translucency. Page 6 replaces French with supported Spanish content; page 8 uses accented demo names. No Spanish output is byte-identical to its English counterpart.",
+    "library_references": [
+      {
+        "file": "../library/references/browser-study-20261016/photo-editor-warm.png",
+        "observation": "Opened cream-stage reference: large phone under compact type, lower hardware crop and warm shared light; these relationships are preserved with Invitation Maker colors."
+      },
+      {
+        "file": "../library/references/browser-study-20261016/beauty-camera-pink.png",
+        "observation": "Opened reference showing feature cells crossing the bezel. The campaign uses one complete source detail per poster without borrowing the pink palette or beauty claims."
+      },
+      {
+        "file": "../library/references/browser-study-20261016/coin-scan-series.png",
+        "observation": "Opened reference showing constant phone scale and different enlarged panel shapes. The campaign applies that structural relationship without coin imagery, navy or gold glows."
+      }
+    ]
+  },
+  "integrity": {
+    "output_hashes": "All 10 singles and 3 preview hashes match manifest.",
+    "dimensions": "All singles are 1206x2622.",
+    "composition_hashes": "All 9 manifest composition hashes match.",
+    "frozen_source_hashes": "All 861 config source hashes match files under ../source.",
+    "hardware": "Device PNG and mask match the authorized selection hashes. All ten geometry entries record width 350, title size 48 and one focus; actual pixels independently inspected.",
+    "new_locale_outputs": "Ten distinct Spanish output hashes; none matches the corresponding selected English PNG.",
+    "font_scope": "Great Vibes selected state and Latin lettering inspected against source declarations and frozen English audit. Spanish accents render without tofu. CJK/Cyrillic are absent from these posters, so coverage for unused scripts is not asserted. Embedded font payloads were not re-extracted; frozen English font audit is supporting evidence."
+  },
+  "source_review": {
+    "verdict": "pass",
+    "observation": "Independently read original AppStore, Models, TemplateLibraryCopy, BanquetPortraitCatalog, InvitationTools, InvitationTypography, CanvasTextEditor, EditorPages, PhotoElementsEditor, CheckAndBilingual, InvitationToolPages, MainPages and ExportPages excerpts against the frozen English and Spanish audits. Spanish-system chrome falls back to English. Spanish is a built-in invitation language; user-entered Spanish content and English design guest greetings are supported. No manufactured full Spanish UI or system translation success appears.",
+    "original_pixels_opened": [
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-peach-champagne.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/TemplateArtBanquetPortrait-banquet-tuscan-sunset.imageset/artwork.png",
+      "../source/Resources/Assets.xcassets/CutoutStickerIllustration.imageset/cutout-sticker.png"
+    ],
+    "limitations": "Source-backed illustrative redraws, not native captures or executed app validation. Dates, relative times and landscape layout remain disclosed illustrations."
+  },
+  "issues": [],
+  "owner_visual_acceptance": "pending",
+  "repair_action": "None required or performed. This review does not alter any charged/archived repair ledger or historical review."
+}

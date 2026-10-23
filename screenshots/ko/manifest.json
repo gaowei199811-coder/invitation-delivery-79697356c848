@@ -1,0 +1,150 @@
+{
+  "kind": "source-backed-store-campaign-v1",
+  "locale": "ko",
+  "count": 10,
+  "sizes": [
+    "iphone-6.3"
+  ],
+  "composition_hashes": {
+    "campaign.html": "09b02e9da1beacc1cbbb731677c41db91b3951e58e870ce8117a95068e2531d8",
+    "master.css": "e90761cf097da08c3951219435c97280d190cf0db377e90526fbeeb11098e1b7",
+    "device.js": "2b98c6822372948d0f3c5933a10a898ad1376f6c4c2068f52ad6728c50312f2a",
+    "device.css": "7bd90b6f6846398e7d41c9495f916cbb653943cf9c64d0122dcd792e9961c466",
+    "DIRECTION.md": "7ad42c54aae521e1ee350880974391787296fa7c5e3701dddf40da53d3781702",
+    "PROVENANCE.md": "b5efdda5471316c6bd7e1ae5eda430582887c68fd42b2dda6bf8e9e4234410ed",
+    "SOURCE_AUDIT.json": "117269ff9adf847e248d446394b0dc3521afe556e261d32c8eff240b7ea312a1",
+    "REFERENCE_APPLICATION.json": "2996083d39cd2998c3d37568931017e56dfd30a0be1a2d5df83ad8451053b115",
+    "HIERARCHY.json": "641fb7fcd761a8cdca5d673f4c85ff0d94f9fe8cfb1ba5d7e9908e63f03ce1b8"
+  },
+  "visual_hierarchy_contract": "clear-focus-v1",
+  "posters": [
+    {
+      "id": "gallery",
+      "slot": 1,
+      "focus": 1
+    },
+    {
+      "id": "font",
+      "slot": 2,
+      "focus": 1
+    },
+    {
+      "id": "color",
+      "slot": 3,
+      "focus": 1
+    },
+    {
+      "id": "restyle",
+      "slot": 4,
+      "focus": 1
+    },
+    {
+      "id": "cutout",
+      "slot": 5,
+      "focus": 1
+    },
+    {
+      "id": "bilingual",
+      "slot": 6,
+      "focus": 1
+    },
+    {
+      "id": "resize",
+      "slot": 7,
+      "focus": 1
+    },
+    {
+      "id": "guests",
+      "slot": 8,
+      "focus": 1
+    },
+    {
+      "id": "designs",
+      "slot": 9,
+      "focus": 1
+    },
+    {
+      "id": "share",
+      "slot": 10,
+      "focus": 1
+    }
+  ],
+  "outputs": [
+    {
+      "path": "iphone-6.3/01.png",
+      "slot": 1,
+      "size": "iphone-6.3",
+      "sha256": "3ad2fb7d51a4ad92cb20dba89eadea3c41f7b27543224f812311702d93bf940c"
+    },
+    {
+      "path": "iphone-6.3/02.png",
+      "slot": 2,
+      "size": "iphone-6.3",
+      "sha256": "094174726b58f87ae578b7abdd6df300d8dbeecef8fce2c57a996681cd574f1a"
+    },
+    {
+      "path": "iphone-6.3/03.png",
+      "slot": 3,
+      "size": "iphone-6.3",
+      "sha256": "83968f5c3c3fe109b9c9fbf8e9185f9e8c5ec06b43468250e14074eaa7fc1b8b"
+    },
+    {
+      "path": "iphone-6.3/04.png",
+      "slot": 4,
+      "size": "iphone-6.3",
+      "sha256": "b7d32fe920b13318bb9fc03a7e4f449c6bb21696f1c759b303d562c992d0eacd"
+    },
+    {
+      "path": "iphone-6.3/05.png",
+      "slot": 5,
+      "size": "iphone-6.3",
+      "sha256": "9ef50b144bdd70a21daa8ecda15295aa0c49ed42a7a5949c24b3fb3cfb224377"
+    },
+    {
+      "path": "iphone-6.3/06.png",
+      "slot": 6,
+      "size": "iphone-6.3",
+      "sha256": "b81233db3cf4977560cf6772ff752680d89355077bdb761b6d22cbe6fae0f6e0"
+    },
+    {
+      "path": "iphone-6.3/07.png",
+      "slot": 7,
+      "size": "iphone-6.3",
+      "sha256": "e04a93ebdf84f054f30067160c62be52922c81739fe9c6c03de956ae762687da"
+    },
+    {
+      "path": "iphone-6.3/08.png",
+      "slot": 8,
+      "size": "iphone-6.3",
+      "sha256": "f35f6ef479837758593be9cd9915da1b93e31036c4e28c79a162dbcc27dacb13"
+    },
+    {
+      "path": "iphone-6.3/09.png",
+      "slot": 9,
+      "size": "iphone-6.3",
+      "sha256": "fb6f5e18e1762bdd5012f9f174f629ff85ed18062caea192c64fb10ffa47e1e1"
+    },
+    {
+      "path": "iphone-6.3/10.png",
+      "slot": 10,
+      "size": "iphone-6.3",
+      "sha256": "9da0c0a787e1df03d2be8f29c61b3f82224311ac5d0358109d9f61a7e4744f47"
+    }
+  ],
+  "previews": [
+    {
+      "path": "overview.png",
+      "sha256": "a642a9507dcd98618b84181af77744fa7a205e7be2ff9feefaff1ed7d340deb8"
+    },
+    {
+      "path": "opening-2.png",
+      "sha256": "92e989b560f0dd9c120d59083fe62e4b0849fa8344893106e66778af4e94cff8"
+    },
+    {
+      "path": "opening-3.png",
+      "sha256": "7e0888cf2d0162632dd864f89474333297d8bbeb4e4f1dc1f0de1d52f2fb1488"
+    }
+  ],
+  "source_kind": "source_backed_illustrative_ui",
+  "owner_visual_acceptance": "pending"
+}
