@@ -1,0 +1,59 @@
+{
+  "verdict": "needs_revision",
+  "metadata_sha256": "9696dee1c62f0d790943903bcf0246766eb4eb2b31477a32f85bbde841c51797",
+  "research_sha256": "523dce3b55525b0cc755962ae72869a4d3e9900f39f68a221f0d58e5731bce3e",
+  "observed": {
+    "en-US": {
+      "structure_pass": true,
+      "repetition_check": false,
+      "differentiated_opening": true,
+      "naming_evidence": true,
+      "source_accuracy": true,
+      "professional_plain_language": false
+    },
+    "zh-Hans": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "zh-Hant": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "ja": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "ko": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "fr-FR": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "de-DE": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "es-ES": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "pt-BR": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "ru": {
+      "structure_pass": true,
+      "repetition_check": true
+    }
+  },
+  "issues": [
+    {
+      "locale": "en-US",
+      "field": "description",
+      "finding": "The first bullet under “Write for both audiences” repeats the same manual-writing and preview instruction in consecutive sentences: “Write the second language version yourself, then switch previews to review each card.” followed by “Write and edit a second language version yourself, then preview each card.” The second sentence adds no distinct useful instruction and is redundant padding.",
+      "correction": "Delete the second sentence and its preceding space: “ Write and edit a second language version yourself, then preview each card.” This leaves 2,909 characters including subscription information and the exact legal footer, seven feature sections and 13 useful bullets. Recompute validation and review hashes after any authorized metadata revision."
+    }
+  ]
+}

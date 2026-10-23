@@ -1,0 +1,59 @@
+{
+  "verdict": "needs_revision",
+  "metadata_sha256": "60dac127d450e64355dc3d4db0e7b735badf9d571a63c018cf72716e0e4a60c2",
+  "research_sha256": "523dce3b55525b0cc755962ae72869a4d3e9900f39f68a221f0d58e5731bce3e",
+  "observed": {
+    "en-US": {
+      "structure_pass": true,
+      "repetition_check": true,
+      "differentiated_opening": true,
+      "naming_evidence": true,
+      "source_accuracy": false,
+      "professional_plain_language": true
+    },
+    "zh-Hans": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "zh-Hant": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "ja": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "ko": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "fr-FR": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "de-DE": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "es-ES": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "pt-BR": {
+      "structure_pass": true,
+      "repetition_check": true
+    },
+    "ru": {
+      "structure_pass": true,
+      "repetition_check": true
+    }
+  },
+  "issues": [
+    {
+      "locale": "en-US",
+      "field": "description",
+      "finding": "The first feature bullet states “Bilingual content is manually authored, not automatically translated.” Actual source exposes Translate and Fill / Translate Again on iOS 18+ (CheckAndBilingual.swift:601–622), invokes a TranslationSession (1006–1008, 1147–1189), and applies translated text to the second-language fields (481–494, 569–573). Manual authoring is supported, but the categorical denial of automatic translation is inaccurate. APPROVED_POSITIONING.json overlooks this implementation despite matching source hashes.",
+      "correction": "Remove the categorical denial. Describe manual wording as an available workflow, for example: “Write and edit the second language version yourself, then switch previews to review each card.” If mentioning translation, qualify it by iOS and supported language availability and ask users to review the result. Keep the complete description within 2800–3000 characters and retain the conditional subscription disclosure and exact legal footer."
+    }
+  ]
+}

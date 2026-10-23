@@ -1,18 +1,12 @@
 {
-  "baseline_sha256": "4724f87aae7d9a05a4187d9951021382a815fae36e655ecc0726ee5d7052b6a1",
-  "previous_execution": "invitation-metadata-v5-02cc3746-9ed5-4ddd-94d7-6b57dd900d82",
-  "revision": "v6",
-  "owner_requirements": [
-    "All descriptions around 3000 characters, target 2800-3200 including subscription text and final URLs",
-    "Name and subtitle <=30 characters; relevant keywords 95-100 characters",
-    "Distinct localized subscription wording; final lines must be Privacy Policy and Terms of Use with owner-confirmed links",
-    "No original app or screenshot changes",
-    "Short opening, distinct descriptive section headings, concise benefit explanations and bullet lists; no repetitive padding. Examples are structure references only, not product facts."
-  ],
-  "legal_links": {
-    "privacy": "https://xhycapps.com/pp/6824400361/",
-    "terms": "https://xhycapps.com/tou/6824400361/",
-    "confirmed_by": "owner in current chat 2026-10-23"
-  },
-  "previous_review_verdict": "needs_revision"
+  "revision": "v7",
+  "scope": "English metadata only; nine approved v6 localizations and all 100 images unchanged",
+  "previous_execution": "invitation-metadata-v6-c6971144-0e3b-4b5f-863e-013ec5c4cf3e",
+  "execution": "invitation-metadata-v7-f3b78bd3-d2c5-4e40-b12e-ea2b57552dd4",
+  "baseline_sha256": "20327eb536919eaef3fa6edd2cff2ddb053b808f420a217bdb04b11a12d52cd2",
+  "privacy_policy": "https://xhycapps.com/pp/6824400361/",
+  "terms_of_use": "https://xhycapps.com/tou/6824400361/",
+  "legal_content_status": "owner_confirmed_retain_urls_owner_will_correct_content",
+  "apple_limits_source": "https://developer.apple.com/help/app-store-connect/reference/app-information/platform-version-information/",
+  "research_source": "Live Apple iTunes Search API and review RSS; saved 2026-10-23; prior owner reports are untrusted positioning context, never product source truth"
 }

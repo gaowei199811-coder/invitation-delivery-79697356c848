@@ -1,13 +1,13 @@
 {
   "status": "pass",
-  "metadata_sha256": "20327eb536919eaef3fa6edd2cff2ddb053b808f420a217bdb04b11a12d52cd2",
+  "metadata_sha256": "8d225a281fc36e553304640ab865ae28457aedde915bee29bf69f924cd62b34a",
   "rows": [
     {
       "locale": "en-US",
-      "name": "Invitation Maker",
-      "name_characters": 16,
-      "subtitle_characters": 28,
-      "description_characters": 3047,
+      "name": "Dearly: Invitation Studio",
+      "name_characters": 25,
+      "subtitle_characters": 30,
+      "description_characters": 2909,
       "keywords_characters": 99,
       "keywords_utf8_bytes": 99
     },
@@ -94,5 +94,6 @@
     }
   ],
   "warnings": [],
-  "keywords_policy": "100 Unicode characters; UTF-8 byte count recorded due conflicting Apple reference wording; no ASC submission performed"
+  "keywords_policy": "100 Unicode characters; UTF-8 byte count recorded due conflicting Apple reference wording; no ASC submission performed",
+  "research_sha256": "523dce3b55525b0cc755962ae72869a4d3e9900f39f68a221f0d58e5731bce3e"
 }

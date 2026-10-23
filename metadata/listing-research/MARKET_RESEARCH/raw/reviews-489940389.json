@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id319211084"
+          },
+          "name": {
+            "label": "Jolie Élise"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T10:07:06-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.35"
+        },
+        "id": {
+          "label": "14694018938"
+        },
+        "title": {
+          "label": "Beautiful Invitations. Terrible User Experience."
+        },
+        "content": {
+          "label": "I’ve hosted plenty of parties and used digital invitations many times. Paperless Post has been the worst experience I’ve had with an invitation platform.\n\nI paid for the service because I wanted a beautiful digital presentation to deliver original invitations with the traditional envelope experience. The design delivery was lovely. Everything after that has been unnecessarily frustrating.\n\nFinding invitation links, resending invitations, and helping guests locate their original invitations should be SIMPLE. Instead, the interface turns basic event management into an exercise in patience.\n\nI’m comfortable navigating complicated digital systems. This isn’t a matter of learning how to use technology. It’s poor user-interface design.\n\nFor a paid platform, that’s unacceptable.\n\nMy advice? Don’t confuse beautiful presentation with a well-designed service. Paperless Post may deliver the former, but in my experience, it falls remarkably short on the latter.\n\nNext time, I’ll make time to send  the paper invitations.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id21390541"
+          },
+          "name": {
+            "label": "Debk09"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-05T05:23:25-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.35"
+        },
+        "id": {
+          "label": "14630405243"
+        },
+        "title": {
+          "label": "Fake phishing invites"
+        },
+        "content": {
+          "label": "Recently I received 2 fake emails that look like they are from your service.  Luckily they looked suspicious so I didn’t open and sent a text to the people they were supposed to be  from.  They confirmed they were fake. Just a warning to people to be vigilant.  Both the “senders” were people I know.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id427310576"
+          },
+          "name": {
+            "label": ":|_disappointed_"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-28T08:11:48-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.34"
+        },
+        "id": {
+          "label": "14603730215"
+        },
+        "title": {
+          "label": "someone sent me an invite"
+        },
+        "content": {
+          "label": "to open the invite in web it redirected to google account login, then said i couldnt\n\nso i downloaded the app\n\nthe app couldnt find the invite\n\nopening the link from the email doesnt redirect to the app?\n\noverly complicated for no reason tbh, i still dont know what the invite is for because i cant see it",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id458170764"
+          },
+          "name": {
+            "label": "Iszzyy"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-26T13:37:24-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.34"
+        },
+        "id": {
+          "label": "14596998650"
+        },
+        "title": {
+          "label": "Pointless Post"
+        },
+        "content": {
+          "label": "Completely unnecessary more work than required. Paid for a “free” service when it could have been a simple text. Should have been free. Will never use this service again. Does not include full list of recipients. Names did not show when sent to recipients. Impossible to tell when families were invited.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1486729133"
+          },
+          "name": {
+            "label": "jonfonn"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-16T08:46:01-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "8.34"
+        },
+        "id": {
+          "label": "14557014441"
+        },
+        "title": {
+          "label": "Pretty good"
+        },
+        "content": {
+          "label": "I like most of the features, I like that there’s a truly free option, I wish I could reorder the RSVP questions instead of having to delete and rewrite them. Kind of tricky to tell which fonts/options are free and which are paid.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1240221132"
+          },
+          "name": {
+            "label": "TYYYYYYYYYYY123456789"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-15T18:41:45-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.34"
+        },
+        "id": {
+          "label": "14554749893"
+        },
+        "title": {
+          "label": "Confusing app"
+        },
+        "content": {
+          "label": "I thought this would be a simple app. I have to continue to buy coins to see my guest list. I think I paid over $30 bucks to send out invites for my son’s birthday party.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id705230172"
+          },
+          "name": {
+            "label": "World@saver-1"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-07T14:48:31-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.34"
+        },
+        "id": {
+          "label": "14522995045"
+        },
+        "title": {
+          "label": "Scam"
+        },
+        "content": {
+          "label": "Scammer and Hacker app. Please don’t download the app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id17245168"
+          },
+          "name": {
+            "label": "Red Oak"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-08-23T09:08:52-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.33"
+        },
+        "id": {
+          "label": "14463104425"
+        },
+        "title": {
+          "label": "Removed Apple Payment"
+        },
+        "content": {
+          "label": "They silently removed payment by Apple.   You are now taken to a website to remotely give your credit card information over the Web \n\nBeen a user for 6 years.  But now deleting this app \n\nAlso - fix your broken UI already",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id361029476"
+          },
+          "name": {
+            "label": "bl00perr33l"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-08-16T14:38:42-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.33"
+        },
+        "id": {
+          "label": "14436356669"
+        },
+        "title": {
+          "label": "Invite heaven"
+        },
+        "content": {
+          "label": "It’s incredibly easy to use, and so many incredible options! It’s heaven for people who have a hard time creating something of their own, or who need an idea.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id442802325"
+          },
+          "name": {
+            "label": "sunsetstripstan"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-27T07:11:04-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.32"
+        },
+        "id": {
+          "label": "14354475710"
+        },
+        "title": {
+          "label": "Expensive"
+        },
+        "content": {
+          "label": "Since when did this become so much more expensive?  Great designs but at a price!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id37526189"
+          },
+          "name": {
+            "label": "JonnyO897"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-11T07:39:25-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.30"
+        },
+        "id": {
+          "label": "14290391439"
+        },
+        "title": {
+          "label": "Confusing charging practices"
+        },
+        "content": {
+          "label": "The “coins” they require to send your list add up with the simple touch of a tab. No confirmation of charges or why the charges keep going up. $30 for a guest list of 10 is excessive. I was charged 2 different times and customer service was nowhere to be found. Phone number leads to voicemail and no email confirmation to messages sent to customer service. Cards are cool but the process is deceitful.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id86483220"
+          },
+          "name": {
+            "label": "Brubby21"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-03T16:48:33-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14259902150"
+        },
+        "title": {
+          "label": "This is a VIRUS"
+        },
+        "content": {
+          "label": "I got an email from this thing and it had hijacked my gmail \n\nDO NOT TRUST THIS\n\nit is a trash scam",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id289663301"
+          },
+          "name": {
+            "label": "RNicThomp118"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-27T15:40:38-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14234503074"
+        },
+        "title": {
+          "label": "Paperless Post Plus Scam"
+        },
+        "content": {
+          "label": "I kept trying to create the shareable link and it kept wanting to add on the Paperless Post plus for 200 coins. I continued to back out only to discover it charged me the 200 coins, even though I did not want or need Paperless Post plus.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id146809863"
+          },
+          "name": {
+            "label": "Magpiefarm"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-27T12:48:55-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14234047006"
+        },
+        "title": {
+          "label": "Difficult to navigate"
+        },
+        "content": {
+          "label": "This site is incredibly cumbersome. Some of the features are circular and when you go to a page, it tells you you can’t be there and then you go back and it takes you to that same page again. Features are not well labeled. And trying to share it with friends and family has been totally labororious. I’m only continuing because I’m so invested.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id336525538"
+          },
+          "name": {
+            "label": "DL26!"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-26T17:04:17-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14230617710"
+        },
+        "title": {
+          "label": "The absolute best"
+        },
+        "content": {
+          "label": "I have used Paperless Post invitations for the last 3 to 4 years for any invitation that I needed for any special event any special day and has been so easy and understandable for the people invited and also me as a host love them",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1076169013"
+          },
+          "name": {
+            "label": "Whitney stared"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-14T16:28:29-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14183585269"
+        },
+        "title": {
+          "label": "Awful hidden fees"
+        },
+        "content": {
+          "label": "200$ to send custom invite.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id133166672"
+          },
+          "name": {
+            "label": "Bee143sef"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-09T08:15:52-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14162567840"
+        },
+        "title": {
+          "label": "Can be frustrating and confusing for guests"
+        },
+        "content": {
+          "label": "I sent my save the dates on paperless post. When you send your guests upstate’s it’s very confusing for them as almost no one can figure out the “tap to view” feature. I wish it sent my updates as an actual sms. Also- I tried to send out everyone my wedding website and they do not make links clickable in their messages. It was a very expensive e-vite that was supposed to save me time from texting everyone, but now I have to do it anyway because of many complaints of confusion.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "2"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id803457441"
+          },
+          "name": {
+            "label": "Andreafiallossanchez"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-08T09:25:11-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.29"
+        },
+        "id": {
+          "label": "14158941892"
+        },
+        "title": {
+          "label": "Great App but sometimes editing is glitchy"
+        },
+        "content": {
+          "label": "Great App but sometimes editing is glitchy",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id16204697"
+          },
+          "name": {
+            "label": "D3A44a"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-04T18:32:20-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.28"
+        },
+        "id": {
+          "label": "14145024773"
+        },
+        "title": {
+          "label": "Coins?"
+        },
+        "content": {
+          "label": "This is the most ridiculous way to charge us for using your service. I keep on having to buy more coins to send my invite out. And once I made it and sent it, it’s too late to go to another service. Never again. I could have bought and mailed out custom invites with the amount of money I’ve spent on coins",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id586413954"
+          },
+          "name": {
+            "label": "MSGLIFESTYLES"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-02T15:00:54-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.28"
+        },
+        "id": {
+          "label": "14136807564"
+        },
+        "title": {
+          "label": "I pay way too much for invitation and they don’t allow you to do a guest registry"
+        },
+        "content": {
+          "label": "I’m so not happy with the service you guys made me pay more than I was supposed to. I could’ve went to another company.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id445872863"
+          },
+          "name": {
+            "label": "Dreamy481"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-08T08:40:58-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.26"
+        },
+        "id": {
+          "label": "14041977787"
+        },
+        "title": {
+          "label": "Trash interface"
+        },
+        "content": {
+          "label": "So hard to use and I consider myself pretty good with technology. On top of that, the invites don’t actually send to your guests. Leaving you to text everyone individually. Absolutely worthless, can’t wait to delete it after my event is over. Never again.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1167630521"
+          },
+          "name": {
+            "label": "Latamir0367"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-06T18:24:05-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.26"
+        },
+        "id": {
+          "label": "14036408714"
+        },
+        "title": {
+          "label": "You have to pay for everything"
+        },
+        "content": {
+          "label": "I downloaded this become my family has used it in the past and the invites were nice. To have access to cool invites you have to pay for coins. Ok not that big of a deal I just need to keep track of who’s coming to my event. TO KEEP TRACK YOU HAVE TO PAY MONEY FOR A FEATURE YOU WOULD THINK WOULD COME WITH THE APP.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id753413621"
+          },
+          "name": {
+            "label": "Chelseag03"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-29T18:32:59-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.26"
+        },
+        "id": {
+          "label": "14011149845"
+        },
+        "title": {
+          "label": "Payment Plan"
+        },
+        "content": {
+          "label": "The coins system and payment options don’t make sense",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1696784018"
+          },
+          "name": {
+            "label": "Nancy m palacios"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-28T04:11:05-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.26"
+        },
+        "id": {
+          "label": "14005426343"
+        },
+        "title": {
+          "label": "Difficult and not user friendly"
+        },
+        "content": {
+          "label": "I spent $80 to try and unlock rsvp but I was only able to do 40 RSVP that’s $2 per rsvp",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id357945471"
+          },
+          "name": {
+            "label": "ConcernedUser1592"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-27T13:59:38-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.26"
+        },
+        "id": {
+          "label": "14003661572"
+        },
+        "title": {
+          "label": "Crashes often"
+        },
+        "content": {
+          "label": "Love this service but the app does not work well. I have experienced lots of crashes doing basic actions like editing an invitation, adding guests, and updating RSVP status. If you choose to only give the app access to selected contacts, it does not work at all to add more selected contacts within the app (the app freezes).",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id151889605"
+          },
+          "name": {
+            "label": "AHH0212"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-22T20:28:52-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.26"
+        },
+        "id": {
+          "label": "13987266691"
+        },
+        "title": {
+          "label": "Love this app"
+        },
+        "content": {
+          "label": "Great for any event that you care about looking good but want to save yourself time with coordination",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id581596921"
+          },
+          "name": {
+            "label": "EmmiE1890"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-16T18:29:30-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.25"
+        },
+        "id": {
+          "label": "13965778714"
+        },
+        "title": {
+          "label": "Coins Make No Sense"
+        },
+        "content": {
+          "label": "Overall the app is a great concept and works very well. I wish there were more options of invites or more ways to edit them. What I don’t like is that you can’t edit how many guests an invitee can bring via the app. You can only do that on the desktop site. What I hate is the coin payment system! It’s very confusing and inconvenient. Just put a usd price per invite. The coin system makes no sense and should be removed. Intentionally or unintentionally misleading consumers about cost can lead to legal problems.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id458311800"
+          },
+          "name": {
+            "label": "LolitaRupunzel"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-07T10:31:07-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.25"
+        },
+        "id": {
+          "label": "13932930836"
+        },
+        "title": {
+          "label": "Hard to navigate"
+        },
+        "content": {
+          "label": "The coin system is not very clear and hard to navigate. There’s no customer service phone line to get technical support. Just emails with 24 hours turn arounds. Not ideal when planning a special event.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id116980523"
+          },
+          "name": {
+            "label": "bmisher"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-01T17:58:41-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.24"
+        },
+        "id": {
+          "label": "13912548223"
+        },
+        "title": {
+          "label": "$40 for a digital invite is wild."
+        },
+        "content": {
+          "label": "I spent an hour creating an invite just for them to prompt me to get a pro plan to use it. $40. Instantly deleted",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1291538739"
+          },
+          "name": {
+            "label": "BXKARMA"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-30T15:55:55-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.24"
+        },
+        "id": {
+          "label": "13904986561"
+        },
+        "title": {
+          "label": "Phishing"
+        },
+        "content": {
+          "label": "Someone sent a link to this app for an invite and my account was compromised and all of a sudden people were receiving emails from me with an event invite from Paperless Post",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id36427999"
+          },
+          "name": {
+            "label": "ClassicalMom"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-28T14:49:39-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.24"
+        },
+        "id": {
+          "label": "13897706654"
+        },
+        "title": {
+          "label": "Elegant and Simple"
+        },
+        "content": {
+          "label": "Paperless Post app is simple to use and has beautiful invites done for you. So many options to customize for your event. Customer service is on their A game. I highly recommend this app!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1903338240"
+          },
+          "name": {
+            "label": "Ava pink 35"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-21T23:49:45-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.23"
+        },
+        "id": {
+          "label": "13874147557"
+        },
+        "title": {
+          "label": "No good"
+        },
+        "content": {
+          "label": "Do not use make you pay depending on how many people you’re inviting if you’re inviting 20 people it’s gonna make you pay a dollar or something depending on how much you edit the per person use Evite instead for free",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id101719035"
+          },
+          "name": {
+            "label": "yasmine_khan"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-21T14:58:00-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.23"
+        },
+        "id": {
+          "label": "13872970937"
+        },
+        "title": {
+          "label": "auto-save never works!!!"
+        },
+        "content": {
+          "label": "The number of times I’ve had to rewrite invitations and redo all the tax every single time I have an event is absolutely maddening. The auto save is terrible. You’re wasting everyone’s time.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id211389774"
+          },
+          "name": {
+            "label": "hshaves"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-05T20:00:13-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.23"
+        },
+        "id": {
+          "label": "13818420620"
+        },
+        "title": {
+          "label": "Coins"
+        },
+        "content": {
+          "label": "5 to 10 years ago, I used Paperless Post frequently. I haven’t used it in a while, and I feel like I’m being charged for so many things that used to be free. I understand a little bit, but most of the time you don’t realize something is worth a coin until after you’ve created it. It feels deceiving.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id364885338"
+          },
+          "name": {
+            "label": "Uno Is Rigged"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-02T05:02:13-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "8.23"
+        },
+        "id": {
+          "label": "13805797376"
+        },
+        "title": {
+          "label": "Good invitation organizer, DIFFICULT EDITING SOFTWARE"
+        },
+        "content": {
+          "label": "Once the invitation is completed, sending out invitations and managing rsvp’s is convenient.\n\nHowever, editing and creating the invitation was notably challenging with the software. Not the best nor the smoothest editing software.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1118029796"
+          },
+          "name": {
+            "label": "9702RO"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-02-22T15:26:56-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "8.22"
+        },
+        "id": {
+          "label": "13778567818"
+        },
+        "title": {
+          "label": "You have to pay to text the invitation"
+        },
+        "content": {
+          "label": "When through the whole process of creating. When it came to send my text it charges per invite .",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id228957261"
+          },
+          "name": {
+            "label": "Cosmo Mc"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-02-19T13:56:34-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.22"
+        },
+        "id": {
+          "label": "13767523644"
+        },
+        "title": {
+          "label": "Confusing"
+        },
+        "content": {
+          "label": "Confusing, not simple. Ugly templates. Could be so much better.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id332264780"
+          },
+          "name": {
+            "label": "nrwtoaudio"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-02-12T14:04:30-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.22"
+        },
+        "id": {
+          "label": "13742528883"
+        },
+        "title": {
+          "label": "2nd time user"
+        },
+        "content": {
+          "label": "I found the software difficult to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1622069205"
+          },
+          "name": {
+            "label": "Michael5445"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-01-28T15:50:14-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.20"
+        },
+        "id": {
+          "label": "13687105892"
+        },
+        "title": {
+          "label": "Can't Add Guests in the app"
+        },
+        "content": {
+          "label": "I can't add guests in the app.  I have to use the website.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id35739401"
+          },
+          "name": {
+            "label": "{USER_NAME}"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-01-17T07:56:47-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.20"
+        },
+        "id": {
+          "label": "13644261541"
+        },
+        "title": {
+          "label": "Too Expensive and Hard to Use"
+        },
+        "content": {
+          "label": "This is an absolute nightmare of an app! The test links often don’t work. You can’t send a test to co-hosts for proofreading. This is more effort than mailing paper invitations and somehow cost way more money than nice paper invitations even after you include postage. \n\nYou also can’t just pay for what you use. They make you buy more “coins” than you need. This app is a rip off. I don’t know who is using this.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id135210211"
+          },
+          "name": {
+            "label": "DJScarsdale NY"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-01-03T12:22:07-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13590915050"
+        },
+        "title": {
+          "label": "Invitation nightmare don’t use"
+        },
+        "content": {
+          "label": "We thought paperless post was easy in the past. It turned out to be a huge nuisance! Many people never received their invitations because they were filtered into a promotions folder. We had to copy and paste the link by hand for these folks and send them an invitation from our email. I will never use this overpriced and ineffective service again!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id795456248"
+          },
+          "name": {
+            "label": "Last minute invitations"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-30T15:32:34-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13574724494"
+        },
+        "title": {
+          "label": "How to share"
+        },
+        "content": {
+          "label": "Not user friendly",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id207342479"
+          },
+          "name": {
+            "label": "Tbc05081968"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-24T17:02:19-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13551601560"
+        },
+        "title": {
+          "label": "Poor"
+        },
+        "content": {
+          "label": "Does’t work well….many people show “sent” but they didn’t receive",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id910664809"
+          },
+          "name": {
+            "label": "CN from NC"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-18T06:47:28-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13527657976"
+        },
+        "title": {
+          "label": "Great platform"
+        },
+        "content": {
+          "label": "I love Paperless Post! The company has the best invitations and make it easy to send them out!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id16805179"
+          },
+          "name": {
+            "label": "Frustratedperson"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-17T15:21:36-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13525448893"
+        },
+        "title": {
+          "label": "Glitchy"
+        },
+        "content": {
+          "label": "I have been using Paperless Post for years but in recent years i find it really slow and glitchy. For example I have been trying to edit some text on a card I want to send and it keeps reverting back to the previous text every time i press the save button. I am beyond frustrated. I’ve tried opening and closing the app, all the things one does. I really love the cards so much more than other apps and all my previous cards are saved but man am I frustrated with the app. I am using it an iPad Pro.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id15659577"
+          },
+          "name": {
+            "label": "MildlyUnmoored"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-12T05:49:44-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13504825140"
+        },
+        "title": {
+          "label": "Great designs, terrible app"
+        },
+        "content": {
+          "label": "This app is so fiddly. It’s hard to manipulate individual elements with your fingers if you’re using a phone. It’s always crashing (OS and app are updated) and I lose my work. Only reason I’m using it is because I bought a bunch of coins and want to use them up before I delete this thing and find something else.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id179643506"
+          },
+          "name": {
+            "label": "bumsnik_united"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-12T05:33:15-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13504770264"
+        },
+        "title": {
+          "label": "love it"
+        },
+        "content": {
+          "label": "so easy to use is so lovely to receive",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id42207473"
+          },
+          "name": {
+            "label": "Anahananahaba"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-03T05:06:54-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13470151771"
+        },
+        "title": {
+          "label": "Not mobile user friendly"
+        },
+        "content": {
+          "label": "Working on a design for an invite for an hour only for it to glitch and crash before saving the design. Very frustrating",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1569072814"
+          },
+          "name": {
+            "label": "Noooooooooopee1944"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-11-29T18:08:50-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13456922947"
+        },
+        "title": {
+          "label": "Omg so bad"
+        },
+        "content": {
+          "label": "Laggy, doesn’t save my work, and not worth the time I spent on it just to not work.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id537160733"
+          },
+          "name": {
+            "label": "sierraelizabeth04"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-11-24T12:20:02-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "8.19"
+        },
+        "id": {
+          "label": "13436769119"
+        },
+        "title": {
+          "label": "Nice all"
+        },
+        "content": {
+          "label": "I do really like this app and the features x I wish there were more free or at least budget friendly options especially if it’s just for a birthday party or small get together",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=489940389&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2026-10-22T20:34:33-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/id=489940389/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=489940389/sortby=mostrecent/xml?urlDesc=/customerreviews/id=489940389/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=489940389/sortby=mostrecent/xml?urlDesc=/customerreviews/id=489940389/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=489940389/sortby=mostrecent/xml?urlDesc=/customerreviews/id=489940389/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=489940389/sortby=mostrecent/xml?urlDesc=/customerreviews/id=489940389/sortBy=mostRecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/us/rss/customerreviews/id=489940389/sortBy=mostRecent/json"
+    }
+  }
+}

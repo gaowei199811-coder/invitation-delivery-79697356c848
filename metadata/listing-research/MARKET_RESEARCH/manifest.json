@@ -1,0 +1,27 @@
+{
+  "fetched_at": "2026-10-23T03:33:54.086685+00:00",
+  "storefront": "us",
+  "queries": [
+    "invitation maker",
+    "bilingual invitation",
+    "personalized invitations"
+  ],
+  "app_count": 10,
+  "competitors_sha256": "1b77f42d385dad2259bdd5ecd4d6b8a49cb3e396d3a6e1b3b08d6a26ee103e5b",
+  "raw_files": [
+    "MARKET_RESEARCH/raw/reviews-1188969790.json",
+    "MARKET_RESEARCH/raw/reviews-1240936933.json",
+    "MARKET_RESEARCH/raw/reviews-1320828574.json",
+    "MARKET_RESEARCH/raw/reviews-1329922018.json",
+    "MARKET_RESEARCH/raw/reviews-1354806829.json",
+    "MARKET_RESEARCH/raw/reviews-1473098402.json",
+    "MARKET_RESEARCH/raw/reviews-431685286.json",
+    "MARKET_RESEARCH/raw/reviews-489940389.json",
+    "MARKET_RESEARCH/raw/reviews-628215241.json",
+    "MARKET_RESEARCH/raw/reviews-897446215.json",
+    "MARKET_RESEARCH/raw/search-bilingual-invitation.json",
+    "MARKET_RESEARCH/raw/search-invitation-maker.json",
+    "MARKET_RESEARCH/raw/search-personalized-invitations.json"
+  ],
+  "asset_files": []
+}

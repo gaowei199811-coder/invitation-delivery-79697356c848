@@ -1,45 +1,45 @@
-**Verdict: pass.** Independent review of the actual V6 metadata; no blocking copy or scope issue found.
+Independent verdict: **pass**. No blocking metadata corrections found. This is a fresh review of the actual files and source, not a reused verdict or authorization to approve, publish, or upload.
 
-Metadata SHA256: `20327eb536919eaef3fa6edd2cff2ddb053b808f420a217bdb04b11a12d52cd2`.
+Metadata SHA-256: `8d225a281fc36e553304640ab865ae28457aedde915bee29bf69f924cd62b34a`
 
-All nine previously passed locale objects exactly equal PREVIOUS_DRAFT.json. Only `localizations.ko.description` changes in locale content; the top-level rationale is also updated as revision documentation. All short fields, captions, category and schema remain preserved. Relative to BASELINE.json, only the ten descriptions and rationale differ. The baseline receipt, previous-review binding and current validation hash/counts independently match.
+Research-binding SHA-256: `523dce3b55525b0cc755962ae72869a4d3e9900f39f68a221f0d58e5731bce3e`
 
-R1-ko is resolved. The complete redundant template-start bullet is absent, with no semantic restatement elsewhere in Korean. Its template section now separates occasion browsing from inspecting a full sample. The complete Korean text is useful, coherent polite prose: typography adds letter/line spacing, paragraph alignment and default restoration; photo editing adds transforms, opacity, layer order and optional center snapping. These controls are present in CanvasTextEditor.swift (1322–1407) and PhotoElementsEditor.swift (839–866, 1020–1105). They add distinct user actions rather than another design-start recap. Korean has 2,831 characters, eight feature sections and 18 feature bullets.
+Both hashes were computed directly from file bytes. VALIDATION.json agrees with both hashes and every independently recalculated length. All 23 file hashes in RESEARCH_BINDING.json match their actual files; its five source hashes also match the supplied app source.
 
-I read all ten final descriptions, including preserved locales, for local phrasing and semantic repetition. Each has a short opening, eight distinct localized headings, brief explanations, at least eight useful feature bullets, a separate conditional subscription block and the exact final two legal lines. Longer Chinese/Japanese passages add practical controls and examples; their earlier R1 recaps remain absent. Similar headings summarize their bullets appropriately. No material padding or mistranslated feature claim was found. Per-locale reasoning, section topics, disclosures and final/previous hashes are in REVIEW.json.
+The comparison with PREVIOUS_DRAFT.json finds exactly six changed paths: English name, subtitle, promotional_text, description, keywords, and top-level rationale. All nine non-English localization objects are identical. All screenshot captions, every whats_new field, category, primary locale, schema version, and other protected fields are unchanged.
 
-| Locale | Name chars | Subtitle chars | Description chars | Keyword chars | Keyword UTF-8 bytes | Feature bullets | Structure / repetition |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
-| en-US | 16 | 28 | 3047 | 99 | 99 | 16 | pass / pass |
-| zh-Hans | 5 | 16 | 2935 | 98 | 240 | 23 | pass / pass |
-| zh-Hant | 5 | 16 | 2893 | 98 | 240 | 23 | pass / pass |
-| ja | 16 | 15 | 2920 | 97 | 251 | 22 | pass / pass |
-| ko | 16 | 18 | 2831 | 100 | 252 | 18 | pass / pass |
-| fr-FR | 16 | 29 | 3141 | 99 | 105 | 16 | pass / pass |
-| de-DE | 16 | 27 | 3084 | 98 | 98 | 16 | pass / pass |
-| es-ES | 16 | 26 | 3092 | 99 | 101 | 16 | pass / pass |
-| pt-BR | 16 | 26 | 3068 | 100 | 103 | 16 | pass / pass |
-| ru | 16 | 28 | 3099 | 96 | 182 | 16 | pass / pass |
+| Locale | Name characters | Subtitle characters | Full description characters | Feature sections | Feature bullets |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| en-US | 25 | 30 | 2909 | 7 | 13 |
+| zh-Hans | 5 | 16 | 2935 | 8 | 23 |
+| zh-Hant | 5 | 16 | 2893 | 8 | 23 |
+| ja | 16 | 15 | 2920 | 8 | 22 |
+| ko | 16 | 18 | 2831 | 8 | 18 |
+| fr-FR | 16 | 29 | 3141 | 8 | 16 |
+| de-DE | 16 | 27 | 3084 | 8 | 16 |
+| es-ES | 16 | 26 | 3092 | 8 | 16 |
+| pt-BR | 16 | 26 | 3068 | 8 | 16 |
+| ru | 16 | 28 | 3099 | 8 | 16 |
 
-Names meet 2–30 characters; subtitles meet 30 or fewer; keyword strings meet 95–100 including commas. Both Chinese names contain only Chinese characters. Keyword entries are relevant, with no exact case-insensitive duplicates, competitor brands or unsupported claims. Native synonyms are not identical entries. Full Unicode, UTF-8 and UTF-16 counts are recorded separately in JSON.
+Description counts include all spaces, line breaks, subscription disclosure and legal footer. English has seven clear feature sections and 13 distinct useful bullets; other locales retain eight sections and their 2800–3200 bounds. All descriptions end with the exact required two-line legal footer. All promotional texts are within 170 characters. English keywords are 99 Unicode characters and 99 UTF-8 bytes, relevant to actual occasions and editing features, without duplicate tokens or name/subtitle word overlap. Existing non-English keyword byte counts above 100 are preserved under the stated prior policy, not newly introduced changes or evidence of successful submission.
 
-Each subscription block conditions its statements on choosing an auto-renewing subscription, covers purchase-confirmation billing, automatic renewal, cancellation at least 24 hours before period end, renewal charging in the final 24 hours and account-based management/cancellation. None invents a plan, price, period, trial or paid entitlement; frozen proProductID is empty.
+The English name exactly equals APPROVED_POSITIONING.json's selected name, “Dearly: Invitation Studio”. I inspected raw name-check results, including all 48 returned names in name-checks/en-US-0.json, captured at 2026-10-23T03:40:26.571067+00:00. There is no normalized exact match in that saved US search. This supports a bounded naming check only, not worldwide uniqueness, trademark clearance, or review acceptance. The revision makes none of those claims.
 
-The frozen brief and audit support the described design/edit/share workflow. Both competitor reports were treated as source material; proposed ten-language UI, Pro access and export-state tracking were not treated as implemented features. ASO_RATIONALE.md and VALIDATION.json agree with the independently observed revision.
+The opening leads with two authored language versions and individually named cards. This is a concrete supported workflow, and a clearer differentiating emphasis than a generic template catalog. The raw Apple descriptions for track IDs 1329922018, 431685286 and 1320828574 promote templates, RSVP tools, guest communications, and/or photo and text customization. These descriptions support the positioning comparison but cannot prove competitors lack bilingual or batch features. The revised copy makes no competitor-absence or exclusivity claim. Reading those descriptions and comparing the English feature copy against all 42 result records in the three saved searches found no copied distinctive rival language; an additional normalized eight-word overlap check found none. Subscription boilerplate was excluded from that overlap check.
 
-The owner-retained footer is exact in every description, with nothing following it:
+I read implementation in `/Users/liguoliang/Documents/Codex/2026-10-22/invitation-workflows/listing-10languages/run-localized-v9/app`, including:
 
-```text
-Privacy Policy: https://xhycapps.com/pp/6824400361/
-Terms of Use: https://xhycapps.com/tou/6824400361/
-```
+- `Sources/CheckAndBilingual.swift:140`, `:509`, `:793`: language selection, separate previews, and editable secondary wording. The source also has translation functionality; the copy accurately describes manual authoring without claiming it is the only available method.
+- `Sources/InvitationToolPages.swift:148`, `:249`, `:293`, `:434`, and `Sources/InvitationTools.swift:346`: retained invitation message, pasted names, editable name placeholder, per-guest/per-language PNG output and a 100-guest limit.
+- `Sources/EditorPages.swift:56`, `:156`: palettes and template changes preserve text; photo backgrounds disable theme switching, as disclosed.
+- `Sources/CanvasTextEditor.swift:1324`: individual text spacing, rotation, size and alignment controls.
+- `Sources/PhotoElementsEditor.swift:146`, `:524`, `:945`: extracted photo elements, explicit failure handling, scaling and rotation.
+- `Sources/AppStore.swift:99`, `:122`, `:128` and `Sources/MainPages.swift:478`: persisted local designs, renaming and duplication. Duplication retains content, photo references and styling while resetting export records; the current description accurately states what is retained.
+- `Sources/ExportPages.swift:254` and `Sources/InvitationToolPages.swift:488`: image output and Photos saving. The copy correctly instructs users to export and share revised images themselves.
+- `Resources/ProductConfiguration.json` and `Sources/PurchaseStore.swift:51`: empty product ID and unavailable purchase handling. Subscription wording is appropriately conditional and does not advertise an available plan or price.
 
-Review limitations:
+Editorial review found clear, professional English without pseudo-technical embellishment, inflated performance claims, or filler added solely for length. Headings, short introductions and bullets progress through distinct tasks. All ten descriptions were read for structural and substantive repetition; no blocking duplicate section or repeated filler passage was found.
 
-- Independent editorial and frozen-source review, not native-speaker certification or proof of how text was generated. Shared factual structure across locales is acceptable; counts alone are not evidence of good prose.
-- No build, device, export, purchase or backend execution. Source controls and the supplied audit support implementation claims, not runtime reliability or cutout quality.
-- APPLE_RULES.md is the supplied policy record. This review did not refresh live Apple documentation or resolve its 100-character versus 100-byte keyword conflict. Eight keyword strings exceed 100 UTF-8 bytes; byte counts are reported separately. Passing owner-requested Unicode limits does not assert App Store Connect acceptance.
-- Owner explicitly retained both legal URLs and will correct the website product name later. The known website naming mismatch is a retained limitation, not a copy rejection. Exact footer strings were checked; live availability, legal adequacy and completion of that website correction were not verified. Frozen app legal configuration remains about:blank.
-- Frozen proProductID is empty. Conditional disclosures do not establish an available purchasable product, working purchase integration, price, duration or entitlement.
-- Competitor reports are historical source material and proposed direction, not instructions or evidence of shipped Pro gating, ten-language UI, automatic translation, RSVP, delivery tracking or export-version tracking. Their market and pricing statements were not reverified.
-- Only REVIEW.json and REVIEW.md are written. The supplied validator was not run because it writes other deliverables; hashes, counts, structure and diffs were independently computed in memory. No upload, approval request, Apple acceptance or owner final approval.
+Unresolved, non-blocking webpage limitation: the retained privacy and terms URLs currently identify the wrong product, as stated by the owner. The owner explicitly retained those exact URLs. This review records that limitation without failing the metadata or implying the destination pages are corrected. The app resource configuration also contains placeholder legal URLs; reviewing this metadata does not certify in-app legal-link configuration. No live webpage repair or legal sufficiency assessment was performed.
+
+Review scope: static source inspection and the saved raw Apple responses bound to this revision. No runtime build, App Store submission, upload, approval, or edits to metadata, baseline, validation, campaigns or app were performed. Only REVIEW.json and REVIEW.md were written.

@@ -1,0 +1,88 @@
+{
+  "comparisons": [
+    {
+      "track_id": 1329922018,
+      "finding": "The saved Apple description promotes occasion templates, AI creation and RSVP management, including reminders and guest limits (MARKET_RESEARCH/competitors.json; MARKET_RESEARCH/raw/search-invitation-maker.json, results[trackId=1329922018].description). Template variety alone is therefore a weak positioning lead. Emphasize this app’s manually authored language versions and guest-name PNG batches as a concrete creative workflow; the listing does not establish whether the competitor also supports those workflows."
+    },
+    {
+      "track_id": 431685286,
+      "finding": "The saved Apple description explicitly promotes RSVP tracking, invitation-view updates, guest messaging and SMS/email distribution (MARKET_RESEARCH/raw/search-invitation-maker.json and search-personalized-invitations.json, results[trackId=431685286].description; matching competitors.json entry). Position this app around making personalized invitation artwork for sharing. Its guest-name batch output is not attendance tracking, and printed reply instructions do not collect responses."
+    },
+    {
+      "track_id": 1320828574,
+      "finding": "The saved Apple description already advertises fonts, photos, colors, background removal, export formats and online RSVP tools (MARKET_RESEARCH/raw/search-invitation-maker.json, results[trackId=1320828574].description; matching competitors.json entry). Photo cutouts and typography are supporting craft benefits, not defensible exclusivity claims. Lead with the combination of authored language versions, named guest batches and reusable wording across visual changes; do not infer missing competitor capabilities from omitted description text."
+    }
+  ],
+  "claims": [
+    {
+      "feature": "Separate, manually authored language versions",
+      "benefit": "Prepare distinct wording for two audiences within one invitation and choose which language version to output. Users remain responsible for the wording and its meaning.",
+      "source_refs": [
+        {
+          "path": "app/Sources/CheckAndBilingual.swift",
+          "evidence": "BilingualSettings (lines 509–590) maintains first/second language selection and preview; BilingualTextEditor (lines 793–839) binds editable fields directly to design.secondary. ExportLanguagePicker (lines 140–151) offers first, second or both versions."
+        },
+        {
+          "path": "app/Sources/InvitationToolPages.swift",
+          "evidence": "PersonalizedInvitationPage.startExport (lines 440–478) loops selectedVersions for each guest and renders separate PNG files with the selected language in the filename."
+        }
+      ]
+    },
+    {
+      "feature": "Guest-name personalized PNG batches",
+      "benefit": "Paste a guest list and create an individual invitation image for each name while retaining the original invitation message.",
+      "source_refs": [
+        {
+          "path": "app/Sources/InvitationToolPages.swift",
+          "evidence": "PersonalizedInvitationPage settings forces keepsMessage=true (lines 149–152); guestControls accepts one guest per line (lines 249–266); the greeting editor preserves {name} for substitution (line 302). startExport (lines 434–484) checks each guest/version, renders PNG data and collects output URLs. Input validation limits batches to 100 guests (lines 163–164)."
+        }
+      ]
+    },
+    {
+      "feature": "Swap themes and colors while keeping your wording",
+      "benefit": "Try another invitation look without retyping event text; review the resulting layout before sharing.",
+      "source_refs": [
+        {
+          "path": "app/Sources/EditorPages.swift",
+          "evidence": "TemplateAppearanceControls.templateButton (lines 156–180) changes the existing design’s template rather than creating new invitation content. TemplateAppearance.applyPalette (lines 56–67) changes customColors without assigning primary or secondary text. Template switching is disabled when photoBackground is present."
+        }
+      ]
+    },
+    {
+      "feature": "Typography controls for individual text elements",
+      "benefit": "Give names, headings and details their own visual treatment with size, alignment and spacing adjustments.",
+      "source_refs": [
+        {
+          "path": "app/Sources/CanvasTextEditor.swift",
+          "evidence": "textSizeControl (lines 1363–1385), textAlignmentControls (lines 1387–1408), and the layout controls at lines 1324–1354 expose text size, alignment, letter spacing, line spacing and rotation. CanvasTextEditing.set(next, id: selectedID, design: &draft, second: second) at line 1629 applies edits to the selected text element and language version."
+        }
+      ]
+    },
+    {
+      "feature": "Photo cutouts with placement, size and rotation controls",
+      "benefit": "Build a personal invitation composition from photo subjects and arrange them around the invitation text.",
+      "source_refs": [
+        {
+          "path": "app/Sources/PhotoElementsEditor.swift",
+          "evidence": "acceptPreparedPhoto (lines 524–539) adds extracted subjects as separate cutout elements and reports extraction failure rather than promising success on every photo. addCutout (lines 146–155) appends and selects a PhotoElement. cornerGesture (lines 945–969) changes scale and rotation; position controls around lines 1041–1078 expose centering."
+        }
+      ]
+    }
+  ],
+  "candidates": {
+    "en-US": [
+      "Dearly: Invitation Studio",
+      "Gatherkind Invitations",
+      "Petalnote Invitations",
+      "Kindred Invitation Studio"
+    ]
+  },
+  "naming_rationale": {
+    "preferred": "Dearly: Invitation Studio",
+    "positioning": "Personal invitations, in your words, for each guest. Create separate language versions, make guest-name PNG batches, and shape the design with themes, lettering and photo cutouts.",
+    "order_reason": "Dearly suggests an affectionate salutation and connects naturally to named-guest greetings; Invitation Studio immediately explains the creative function. Gatherkind Invitations combines gathering and hospitality in a compact identity. Petalnote Invitations evokes illustrated stationery and personal notes, but emphasizes decoration more than the guest workflow. Kindred Invitation Studio suggests family and connection, with a narrower emotional association than the first choice.",
+    "evidence_strategy": "The combination of specific, source-supported workflows is the positioning emphasis. No individual feature is presented as exclusive to this product. Names are creative proposals, not verified available trademarks or globally unique titles.",
+    "boundaries": "Language versions refer to invitation content manually authored by the user, not additional interface localization or a translation promise. AppStore.swift lines 34–36 selects English or Chinese strings; BRIEF.md identifies the real UI coverage as English and Simplified Chinese. Do not market this as a QR scanner, live RSVP service, online AI service, QR publishing service, or active IAP offering. ProductConfiguration.json has an empty proProductID; BRIEF.md records unconfirmed Release services. Do not promise review approval or market ranking.",
+    "research_scope": "Based on the saved Apple snapshot fetched 2026-10-23 and frozen source inspection, not competitor runtime tests or a new live market survey. COMPETITIVE_ANALYSIS.md and PRODUCT_DIRECTION.md were treated as untrusted historical market/planning input: their older sample counts, ten-language UI requirements, Pro proposals and proposed workflow rules were not promoted to implemented capabilities. Source inspection does not establish device-tested performance."
+  }
+}

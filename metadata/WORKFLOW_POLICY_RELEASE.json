@@ -1,25 +1,36 @@
 {
-  "status": "verified",
-  "template_id": "app-store-listing",
-  "template_version": "0.1.32",
-  "template_sha256": "42453ffe74ce008ffd8c73fd6bd4b76c6706d5d64a0d2d33b396616fc0c8ef7b",
-  "marketplace_version_id": "3a4d8ff9-d8c1-46d0-aea3-1eb8313dbd82",
-  "nodes": [
-    "api-1",
-    "app-1",
-    "app-2"
-  ],
-  "service_restarted": false,
-  "existing_executions_replayed": false,
-  "business_workflows_upgraded": [],
-  "source_commit": "7158c5542d",
+  "verified_at": "2026-10-23T03:47:49.041309+00:00",
+  "template": "app-store-listing",
+  "version": "0.1.33",
+  "sha256": "e7bcbfa58d01520d8e20d86c5812bfabcaa4eefddd627bd78f955f3ae1647bad",
+  "commit": "d128d0cd67782fc9a6f726f450c9661f89076cbb",
   "pull_request": "https://github.com/flashapps2025/braidrun/pull/14",
-  "scope": "Template library publication, not a full application workflow acceptance run",
-  "local_tests": {
-    "focused": 47,
-    "regressions_and_reuse": 29,
-    "skipped": 1,
-    "audit_errors": 0,
-    "audit_existing_warnings": 1
-  }
+  "library_published": true,
+  "nodes": {
+    "api-1": {
+      "version": "0.1.33",
+      "sha256": "e7bcbfa58d01520d8e20d86c5812bfabcaa4eefddd627bd78f955f3ae1647bad",
+      "active": "active"
+    },
+    "app-1": {
+      "version": "0.1.33",
+      "sha256": "e7bcbfa58d01520d8e20d86c5812bfabcaa4eefddd627bd78f955f3ae1647bad",
+      "active": "active"
+    },
+    "app-2": {
+      "version": "0.1.33",
+      "sha256": "e7bcbfa58d01520d8e20d86c5812bfabcaa4eefddd627bd78f955f3ae1647bad",
+      "active": "active"
+    }
+  },
+  "service_restarted": false,
+  "existing_business_workflows_changed": [],
+  "tests": {
+    "listing": 77,
+    "research_reuse_metadata_inputs": 34,
+    "existing_render_dependency_skip": 1,
+    "template_audit_errors": 0,
+    "template_audit_existing_warnings": 1
+  },
+  "acceptance_boundary": "Online template library published; a new full project run remains separately untested."
 }

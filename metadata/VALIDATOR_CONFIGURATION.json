@@ -1,0 +1,5 @@
+{
+  "reason": "Select the existing official App Store locale catalog for the standalone revision runner, matching the normal app-store-listing template. Validation rules unchanged.",
+  "previous_sha256": "a431dcb8269c4c22080836dcebbedd99f584fcf0c38bf2d8307cd89c76b1a936",
+  "current_sha256": "67409659d7c2741579bf03d5dd9af80c58de3afa32eeedd4e7dccb1c3a49a9be"
+}

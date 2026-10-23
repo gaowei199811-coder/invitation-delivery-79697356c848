@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1176217545"
+          },
+          "name": {
+            "label": "Mrs.Supa"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-07T14:13:28-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14639627920"
+        },
+        "title": {
+          "label": "Best App Around"
+        },
+        "content": {
+          "label": "Does it Job Completely app doesn’t stall and updates are always on time and available",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id129050247"
+          },
+          "name": {
+            "label": "Sandrealla"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-06T06:49:59-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14634450854"
+        },
+        "title": {
+          "label": "Perfect App"
+        },
+        "content": {
+          "label": "I love this app. I used this on all our celebrations.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1062299190"
+          },
+          "name": {
+            "label": "Brenda I C"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-29T15:53:45-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14608837723"
+        },
+        "title": {
+          "label": "Brendita"
+        },
+        "content": {
+          "label": "I love this app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id238994553"
+          },
+          "name": {
+            "label": "Hazel Torres"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-22T15:30:31-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14581718897"
+        },
+        "title": {
+          "label": "Fundraiser"
+        },
+        "content": {
+          "label": "Love it",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1738581474"
+          },
+          "name": {
+            "label": "Jada da goat"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-15T13:24:05-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14553941024"
+        },
+        "title": {
+          "label": "Jada"
+        },
+        "content": {
+          "label": "￼Loved this",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id19908772"
+          },
+          "name": {
+            "label": "PoppyPlatz"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-09-02T15:31:01-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14503459886"
+        },
+        "title": {
+          "label": "Mad doesn’t work and I pay for the premium"
+        },
+        "content": {
+          "label": "This is horrible I pay for premium and still the cards don’t print with the image I wish I could get my money back",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1081364399"
+          },
+          "name": {
+            "label": "Cachetona99"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-08-29T14:09:39-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14487458296"
+        },
+        "title": {
+          "label": "Lo mejor"
+        },
+        "content": {
+          "label": "Muy buenos",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1256786757"
+          },
+          "name": {
+            "label": "lizzy4566"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-08-25T23:26:08-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14473139511"
+        },
+        "title": {
+          "label": "So much potential"
+        },
+        "content": {
+          "label": "The app is finicky, it’s a great tool but it takes forever to use sometimes because it not very functional.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id660596433"
+          },
+          "name": {
+            "label": "bautiata"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-08-17T18:35:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14440966226"
+        },
+        "title": {
+          "label": "exelente"
+        },
+        "content": {
+          "label": "👍👍👍",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1758765572"
+          },
+          "name": {
+            "label": "Tophatt62"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-08-04T15:30:02-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14388568763"
+        },
+        "title": {
+          "label": "Hollower"
+        },
+        "content": {
+          "label": "Love this app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1844696639"
+          },
+          "name": {
+            "label": "Genny Oli"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-30T12:06:40-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14367647228"
+        },
+        "title": {
+          "label": "Stopped working"
+        },
+        "content": {
+          "label": "Been using premium for years and all of a sudden cards are coming out blank",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id243311951"
+          },
+          "name": {
+            "label": "JennCase"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-26T19:58:38-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14352695053"
+        },
+        "title": {
+          "label": "Use Every Year"
+        },
+        "content": {
+          "label": "I use this every year for my child’s birthday. It’s easy and can be saved to your phone’s camera roll. It cost less than $3. So worth it!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id914801640"
+          },
+          "name": {
+            "label": "lindos childres"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-21T11:28:16-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14331362364"
+        },
+        "title": {
+          "label": ":)"
+        },
+        "content": {
+          "label": "Every time I leave the app in the middle of creating an invitation, my progress restarts",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id159891385"
+          },
+          "name": {
+            "label": "Sammyganaden"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-16T05:35:39-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14310024608"
+        },
+        "title": {
+          "label": "Cards"
+        },
+        "content": {
+          "label": "It’s a good apps to make invitations and card,I was impressed and really happy using this",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id637839652"
+          },
+          "name": {
+            "label": "Amor%"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-12T04:35:53-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.10"
+        },
+        "id": {
+          "label": "14293781205"
+        },
+        "title": {
+          "label": "Me encanta"
+        },
+        "content": {
+          "label": "10",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id161450581"
+          },
+          "name": {
+            "label": "Jeffdenaro"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-08T07:28:15-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.8.1"
+        },
+        "id": {
+          "label": "14278231936"
+        },
+        "title": {
+          "label": "Party Time"
+        },
+        "content": {
+          "label": "Love this app especially the Rsvp",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id402391159"
+          },
+          "name": {
+            "label": "IsisPalacio"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-07-06T14:14:37-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.8.1"
+        },
+        "id": {
+          "label": "14271502673"
+        },
+        "title": {
+          "label": "Perfecto"
+        },
+        "content": {
+          "label": "Muy fácil de usar para crear diseños preciosos",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1255359058"
+          },
+          "name": {
+            "label": "RebeccaAnn5"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-15T17:38:57-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.8.1"
+        },
+        "id": {
+          "label": "14187645918"
+        },
+        "title": {
+          "label": "Love it."
+        },
+        "content": {
+          "label": "Love the free invites.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1684330742"
+          },
+          "name": {
+            "label": "Nati20."
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-08T16:29:53-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.8.1"
+        },
+        "id": {
+          "label": "14160160505"
+        },
+        "title": {
+          "label": "Cómo hacer las cosas un poco más fáciles"
+        },
+        "content": {
+          "label": "Wow me sorprendió la app, es más de lo que esperaba",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1318593276"
+          },
+          "name": {
+            "label": "BME442 2"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-06-03T06:16:01-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.3"
+        },
+        "id": {
+          "label": "14139060720"
+        },
+        "title": {
+          "label": "AMAZING"
+        },
+        "content": {
+          "label": "It’s been a joy to have this site. I have done so many things and have gotten so many compliments. It’s truly easy and amazing to use!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id929693736"
+          },
+          "name": {
+            "label": "RuizGiselaGomez"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-28T14:15:22-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.3"
+        },
+        "id": {
+          "label": "14117080727"
+        },
+        "title": {
+          "label": "GR"
+        },
+        "content": {
+          "label": "It’s really easy to use, has a lot of options .I like the option that you can put a picture in the invitation and that feels really unique.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1257746898"
+          },
+          "name": {
+            "label": "CYber MelOn"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-19T15:01:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.3"
+        },
+        "id": {
+          "label": "14083499215"
+        },
+        "title": {
+          "label": "Good"
+        },
+        "content": {
+          "label": "very gud",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id637543489"
+          },
+          "name": {
+            "label": "flaca Gil"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-19T10:50:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.3"
+        },
+        "id": {
+          "label": "14082830909"
+        },
+        "title": {
+          "label": "Nice"
+        },
+        "content": {
+          "label": "Nice",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id180997917"
+          },
+          "name": {
+            "label": "LibraLion27"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-17T13:42:11-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.3"
+        },
+        "id": {
+          "label": "14076129152"
+        },
+        "title": {
+          "label": "Awesome"
+        },
+        "content": {
+          "label": "Love this app. It’s awesome and very easy to use.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id101539651"
+          },
+          "name": {
+            "label": "Mistytherian"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-05-14T16:11:30-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "3.7.3"
+        },
+        "id": {
+          "label": "14065164918"
+        },
+        "title": {
+          "label": "Help"
+        },
+        "content": {
+          "label": "Hi developers I’m having a small issue so when I went to open the app it kept saying app loading error please try again later and I’m on WiFi so I don’t know why it’s doing this",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id578461869"
+          },
+          "name": {
+            "label": "byrsgbjcf"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-21T03:37:47-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.2"
+        },
+        "id": {
+          "label": "13981195760"
+        },
+        "title": {
+          "label": "Es muy fácil"
+        },
+        "content": {
+          "label": "Me gustó mucho",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id133579135"
+          },
+          "name": {
+            "label": "Letmebereal"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-14T17:55:14-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.2"
+        },
+        "id": {
+          "label": "13958819105"
+        },
+        "title": {
+          "label": "Love This app"
+        },
+        "content": {
+          "label": "Best app ever really easy to make  and easy  to learn create",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id300898170"
+          },
+          "name": {
+            "label": "soliec"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-12T17:30:30-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.2"
+        },
+        "id": {
+          "label": "13951923483"
+        },
+        "title": {
+          "label": "Soccer"
+        },
+        "content": {
+          "label": "Always perfect",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id224248846"
+          },
+          "name": {
+            "label": "lynze101"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-10T20:29:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13945052434"
+        },
+        "title": {
+          "label": "Good design"
+        },
+        "content": {
+          "label": "Easy to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id481078827"
+          },
+          "name": {
+            "label": "Pleasant and Delighted"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-07T07:41:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13932424098"
+        },
+        "title": {
+          "label": "Love the cost effectiveness!"
+        },
+        "content": {
+          "label": "Cards and invites can be expensive but electronically I am pleased to handle business in this fashion! So convenient!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1878231959"
+          },
+          "name": {
+            "label": "Liv247theonly"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-06T07:46:38-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13928936559"
+        },
+        "title": {
+          "label": "3 stars for a reason"
+        },
+        "content": {
+          "label": "I personally don’t like when u can not move things around that were actually part of the temple it only stays were it was I mean you can add your own text and stickers but not what came with the template.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id37763467"
+          },
+          "name": {
+            "label": "soozett"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-04-02T14:37:05-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13915658278"
+        },
+        "title": {
+          "label": "Super cute"
+        },
+        "content": {
+          "label": "So easy to choose from established templates or make your own. I prefer the established route. Sharing with family or friends is a breeze. So many options color choices event chooses, can’t go wrong.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1782767868"
+          },
+          "name": {
+            "label": "Creador de fotos"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-31T13:29:04-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13908190020"
+        },
+        "title": {
+          "label": "Solo pides usarla si pagas"
+        },
+        "content": {
+          "label": "No es gratis",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1094941400"
+          },
+          "name": {
+            "label": "£aica"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-25T17:57:20-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13887276405"
+        },
+        "title": {
+          "label": "Bday cards"
+        },
+        "content": {
+          "label": "Best & easy to work with",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id642965258"
+          },
+          "name": {
+            "label": "schabero"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-25T06:36:15-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13885437754"
+        },
+        "title": {
+          "label": "Making cards is fun"
+        },
+        "content": {
+          "label": "It’s great when you hand someone a personalized card. It brightens their day. Love the app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1045935450"
+          },
+          "name": {
+            "label": "gisecarolina"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-15T16:33:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13852461465"
+        },
+        "title": {
+          "label": "Soccer party"
+        },
+        "content": {
+          "label": "Maravilloso y fácil",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id417030843"
+          },
+          "name": {
+            "label": "ljn77"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-13T07:33:54-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7.1"
+        },
+        "id": {
+          "label": "13843826324"
+        },
+        "title": {
+          "label": "Amazing App"
+        },
+        "content": {
+          "label": "The best app. I’ve been using it for years. So grateful it’s around!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id22611809"
+          },
+          "name": {
+            "label": "Selina Veg"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-04T18:07:45-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.7"
+        },
+        "id": {
+          "label": "13814762056"
+        },
+        "title": {
+          "label": "Love love this app"
+        },
+        "content": {
+          "label": "10/10 starts! So easy to use. I use it for all my events.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1466414055"
+          },
+          "name": {
+            "label": "@marySol_ortiz"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-03-02T20:30:25-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "3.7"
+        },
+        "id": {
+          "label": "13808223111"
+        },
+        "title": {
+          "label": "Easy to use"
+        },
+        "content": {
+          "label": "I LOVE this app, it always helps me make my invitations lovely and fun! Plus is easy to use. I recommend it 👌🏼",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id49464119"
+          },
+          "name": {
+            "label": "DVR lover"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-02-23T14:40:37-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "3.7"
+        },
+        "id": {
+          "label": "13781986575"
+        },
+        "title": {
+          "label": "NOT FREE AT ALL"
+        },
+        "content": {
+          "label": "Do not call your app FREE when it is not!!!  It is also very difficult to work with and not user friendly at all!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1885316981"
+          },
+          "name": {
+            "label": "Clarissa 🩷"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-02-05T18:54:19-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.3"
+        },
+        "id": {
+          "label": "13717802742"
+        },
+        "title": {
+          "label": "Absolutely love"
+        },
+        "content": {
+          "label": "I absolutely love this app !! Ive use it for all my special events! I definitely recommend!!! 10/10",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1473630822"
+          },
+          "name": {
+            "label": "Soniadora"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-01-09T06:03:47-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.3"
+        },
+        "id": {
+          "label": "13613152621"
+        },
+        "title": {
+          "label": "Invite maker"
+        },
+        "content": {
+          "label": "Absolutely love this invitation maker. Has so many options to pick from with beautiful design and choices",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id229199286"
+          },
+          "name": {
+            "label": "Leester828"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-01-06T13:02:52-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "3.6.3"
+        },
+        "id": {
+          "label": "13602896176"
+        },
+        "title": {
+          "label": "Selection is limited"
+        },
+        "content": {
+          "label": "Need to be able to create more text boxes.  Limited selection of styles and fonts.  Too inflexible.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1773367894"
+          },
+          "name": {
+            "label": "GenT1942"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-01-05T18:10:38-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.3"
+        },
+        "id": {
+          "label": "13599878442"
+        },
+        "title": {
+          "label": "The best custom cards"
+        },
+        "content": {
+          "label": "I’m very pleased with this app.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id169840454"
+          },
+          "name": {
+            "label": "rribbon3"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-12T09:28:55-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.2"
+        },
+        "id": {
+          "label": "13505548767"
+        },
+        "title": {
+          "label": "My FAVORITE"
+        },
+        "content": {
+          "label": "This really is my favorite app. As an Event Planner I use this app a lot & for Everything",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id264633327"
+          },
+          "name": {
+            "label": "Magu?"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-12T08:35:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.2"
+        },
+        "id": {
+          "label": "13505380819"
+        },
+        "title": {
+          "label": "Appreciate lots"
+        },
+        "content": {
+          "label": "Your app is much appreciated, because even though I do not use it a lot, whenever I need to communicate greetings to someone I always find great beautiful resources. \nThank you for offering the free of cost option. 🐾",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id551652984"
+          },
+          "name": {
+            "label": "JNBAMS"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-12-05T16:16:28-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "3.6.2"
+        },
+        "id": {
+          "label": "13479681496"
+        },
+        "title": {
+          "label": "One Star"
+        },
+        "content": {
+          "label": "Extremely difficult to navigate",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1453251725"
+          },
+          "name": {
+            "label": "Maksym ko"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-10-27T18:00:22-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "3.6.0"
+        },
+        "id": {
+          "label": "13323160548"
+        },
+        "title": {
+          "label": "Stupid"
+        },
+        "content": {
+          "label": "Can’t load freaking in keeps saying loading error",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1581082454"
+          },
+          "name": {
+            "label": "Ivanna dunn"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-10-20T21:41:31-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.0"
+        },
+        "id": {
+          "label": "13293834380"
+        },
+        "title": {
+          "label": "Invitation maker"
+        },
+        "content": {
+          "label": "Its just amazing",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1833511393"
+          },
+          "name": {
+            "label": "Fount )"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-10-19T14:33:51-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "3.6.0"
+        },
+        "id": {
+          "label": "13288459141"
+        },
+        "title": {
+          "label": "Beautiful"
+        },
+        "content": {
+          "label": "Excellent",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=1329922018&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2026-10-22T20:34:28-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/id=1329922018/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1329922018/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1329922018/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=1329922018/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1329922018/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=1329922018/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1329922018/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=1329922018/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1329922018/sortBy=mostRecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/us/rss/customerreviews/id=1329922018/sortBy=mostRecent/json"
+    }
+  }
+}

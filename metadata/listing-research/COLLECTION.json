@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "storefront": "us",
+  "locales": [
+    "en-US"
+  ],
+  "fetched_at": "2026-10-23T03:33:54.086685+00:00",
+  "files": {
+    "PLAN.json": "8ed7a042dc77e6a5adf4d2fdbb796c8974b5dc734f4c243346f7d3af106ddfbf",
+    "MARKET_RESEARCH/competitors.json": "1b77f42d385dad2259bdd5ecd4d6b8a49cb3e396d3a6e1b3b08d6a26ee103e5b",
+    "MARKET_RESEARCH/manifest.json": "4b01715db715b20e2871822531599e1f244cd0f0eaf4ce8464ba9a0857206541",
+    "MARKET_RESEARCH/raw/reviews-1188969790.json": "05d0703c6e52a7f95df664eaf3644984c0ac87005b278631a5822389518faf48",
+    "MARKET_RESEARCH/raw/reviews-1240936933.json": "1dbc136667a98616cf4da9cf50271be11a2fc0acc865d487f3b775cadacafd57",
+    "MARKET_RESEARCH/raw/reviews-1320828574.json": "89113c615d1066bde932c8e9701ba6021f06a1dbd7283b1ec60dd2ff98139500",
+    "MARKET_RESEARCH/raw/reviews-1329922018.json": "3e70b8d0de5afc8df46fd96086089aaa2d134b935b1c8a7dc1fab028e38e4d74",
+    "MARKET_RESEARCH/raw/reviews-1354806829.json": "b30051f75db35bd7799a1995e098921939ee357d07ddb9e0543e2a64f743f06e",
+    "MARKET_RESEARCH/raw/reviews-1473098402.json": "20b72192d390430dd7e6dc55c704199f0939ed0c389db1f4fa38cff81972c2ab",
+    "MARKET_RESEARCH/raw/reviews-431685286.json": "b08adea5e9b235259c7c72dcc4c3d824a126e1da83dbb95ce9d007ad18f4a4e5",
+    "MARKET_RESEARCH/raw/reviews-489940389.json": "4cff8befdf1ff89e40d7eda9e2820875ac39e8ebf47d119f87785f0418193c01",
+    "MARKET_RESEARCH/raw/reviews-628215241.json": "7a989f645d67e92294357bebc8c6a381b606515d9e229c2d36ddb3535bdeaf80",
+    "MARKET_RESEARCH/raw/reviews-897446215.json": "6fb3527169d36e06921e1c8df246f2d5f17f777b2b2a05b698ac6797171c529e",
+    "MARKET_RESEARCH/raw/search-bilingual-invitation.json": "0a016d95b56a3e6700934e0ef5eb8f21c8926d7c241186d9d74eb102c8751ed4",
+    "MARKET_RESEARCH/raw/search-invitation-maker.json": "5b66aa72f3aff7ab174e8d30ada9b3cb8304f4f51f80fe9cdbfb0f345e881d57",
+    "MARKET_RESEARCH/raw/search-personalized-invitations.json": "987a38d28b3d5d87d6b50163f69d70a897a26f375eefe57eed668635d7edf2b1"
+  }
+}

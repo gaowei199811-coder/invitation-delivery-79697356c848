@@ -1,0 +1,7 @@
+{
+  "revision": 2,
+  "reason": "Remove consecutive duplicate manual-writing instruction identified by independent reviewer",
+  "description_chars": 2909,
+  "preserved_failed_review": true,
+  "source_edits": false
+}

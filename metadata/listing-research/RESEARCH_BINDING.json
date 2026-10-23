@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "files": {
+    "COLLECTION.json": "2eea0c237b07a34ba877d3d733182f63c2fb9270b7e19262011eac78947821fb",
+    "POSITIONING.json": "b2bcd8bb601ed56399e803636765c4ee8a1bcbd0be954c28c1807627652a9760",
+    "APPROVED_POSITIONING.json": "8a4b1c89daa02aa2bd0e00ecf77781e2df6794526fc3bb9b3f8971fb554738c9",
+    "PLAN.json": "8ed7a042dc77e6a5adf4d2fdbb796c8974b5dc734f4c243346f7d3af106ddfbf",
+    "MARKET_RESEARCH/competitors.json": "1b77f42d385dad2259bdd5ecd4d6b8a49cb3e396d3a6e1b3b08d6a26ee103e5b",
+    "MARKET_RESEARCH/manifest.json": "4b01715db715b20e2871822531599e1f244cd0f0eaf4ce8464ba9a0857206541",
+    "MARKET_RESEARCH/raw/reviews-1188969790.json": "05d0703c6e52a7f95df664eaf3644984c0ac87005b278631a5822389518faf48",
+    "MARKET_RESEARCH/raw/reviews-1240936933.json": "1dbc136667a98616cf4da9cf50271be11a2fc0acc865d487f3b775cadacafd57",
+    "MARKET_RESEARCH/raw/reviews-1320828574.json": "89113c615d1066bde932c8e9701ba6021f06a1dbd7283b1ec60dd2ff98139500",
+    "MARKET_RESEARCH/raw/reviews-1329922018.json": "3e70b8d0de5afc8df46fd96086089aaa2d134b935b1c8a7dc1fab028e38e4d74",
+    "MARKET_RESEARCH/raw/reviews-1354806829.json": "b30051f75db35bd7799a1995e098921939ee357d07ddb9e0543e2a64f743f06e",
+    "MARKET_RESEARCH/raw/reviews-1473098402.json": "20b72192d390430dd7e6dc55c704199f0939ed0c389db1f4fa38cff81972c2ab",
+    "MARKET_RESEARCH/raw/reviews-431685286.json": "b08adea5e9b235259c7c72dcc4c3d824a126e1da83dbb95ce9d007ad18f4a4e5",
+    "MARKET_RESEARCH/raw/reviews-489940389.json": "4cff8befdf1ff89e40d7eda9e2820875ac39e8ebf47d119f87785f0418193c01",
+    "MARKET_RESEARCH/raw/reviews-628215241.json": "7a989f645d67e92294357bebc8c6a381b606515d9e229c2d36ddb3535bdeaf80",
+    "MARKET_RESEARCH/raw/reviews-897446215.json": "6fb3527169d36e06921e1c8df246f2d5f17f777b2b2a05b698ac6797171c529e",
+    "MARKET_RESEARCH/raw/search-bilingual-invitation.json": "0a016d95b56a3e6700934e0ef5eb8f21c8926d7c241186d9d74eb102c8751ed4",
+    "MARKET_RESEARCH/raw/search-invitation-maker.json": "5b66aa72f3aff7ab174e8d30ada9b3cb8304f4f51f80fe9cdbfb0f345e881d57",
+    "MARKET_RESEARCH/raw/search-personalized-invitations.json": "987a38d28b3d5d87d6b50163f69d70a897a26f375eefe57eed668635d7edf2b1",
+    "name-checks/en-US-0.json": "eec31c874673b4673ec07ce40f27e582861714b3eb63169ab13ccb332052b3d6",
+    "name-checks/en-US-1.json": "ef589f1c370e12d7f38a1ebde3ee03cb7cbcb658231567d1b023be735eb73923",
+    "name-checks/en-US-2.json": "5ce2f5cb0fd6ceacf73d6b8cc3ddbd24cdb8a81d27ce61b26fdbe7336b5659ae",
+    "name-checks/en-US-3.json": "e02b6d7de673f43db7380fe479058a2863088c1d05b8739e8b8ab4b536dd9f00"
+  },
+  "source_sha256": {
+    "app/Sources/CheckAndBilingual.swift": "2e04947467832c55cf0fc445a777ace7a30d12bca6a964e657b625a4586460d7",
+    "app/Sources/InvitationToolPages.swift": "cc2fc18cb7e73df85676224c348408fcb97d5f854eb8abd41ea92d750df0a5c8",
+    "app/Sources/EditorPages.swift": "c447a329e4d02e64c8d124c8396a506d1408d91a286a88bb8d1e8b730fd6237c",
+    "app/Sources/CanvasTextEditor.swift": "d93d5b5ca37180f6b729ba9eeda91b24eb9840743a8d9aae0f9922c0b8cdf373",
+    "app/Sources/PhotoElementsEditor.swift": "88553ec47839e750c52c092de6f4d53b2eda60099761f90ce85f5483965eb660"
+  }
+}

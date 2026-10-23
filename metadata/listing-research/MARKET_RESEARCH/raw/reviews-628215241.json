@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id245804281"
+          },
+          "name": {
+            "label": "lgrilz"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T08:05:31-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14693599716"
+        },
+        "title": {
+          "label": "Linda"
+        },
+        "content": {
+          "label": "Very easy to use and adds a lot of class to a simple invitation.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id274850704"
+          },
+          "name": {
+            "label": "Dbleglenn"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T13:55:56-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14690775420"
+        },
+        "title": {
+          "label": "Fun"
+        },
+        "content": {
+          "label": "Easy to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id226991771"
+          },
+          "name": {
+            "label": "Twinccom58y"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T11:07:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14690280505"
+        },
+        "title": {
+          "label": "Good friend"
+        },
+        "content": {
+          "label": "Very good",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id295526575"
+          },
+          "name": {
+            "label": "UglyRedhead56"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T07:06:35-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14689476237"
+        },
+        "title": {
+          "label": "Extra???"
+        },
+        "content": {
+          "label": "I paid to use Punchbowl. Why do I see it costs extra for some cards?",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id114845676"
+          },
+          "name": {
+            "label": "Jesben0913"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T19:25:18-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14687715439"
+        },
+        "title": {
+          "label": "bennett’s 3rd bday"
+        },
+        "content": {
+          "label": "best invites app ever",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id22519864"
+          },
+          "name": {
+            "label": "CITY TO LAKE LIFE"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T16:37:14-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14687288766"
+        },
+        "title": {
+          "label": "Years of Thanksgiving Fun"
+        },
+        "content": {
+          "label": "We have used Punchbowl with the potluck feature for nearly 10 years. The has been a huge help with planning and tracking our holiday festivities for our large family of approximately 50 people. \n\nThank you!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id934111583"
+          },
+          "name": {
+            "label": "sexybrat_8877"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T07:44:21-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14685742247"
+        },
+        "title": {
+          "label": "Cards"
+        },
+        "content": {
+          "label": "It’s awesome",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1097746739"
+          },
+          "name": {
+            "label": "KellsieW1129"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-18T14:23:04-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14683146077"
+        },
+        "title": {
+          "label": "Love it! Use it all the time"
+        },
+        "content": {
+          "label": "Makes sending invitations so easy and fast. They have so many options and they are so cute!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id234214575"
+          },
+          "name": {
+            "label": "denben1010"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-18T14:18:27-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14683133923"
+        },
+        "title": {
+          "label": "Birthday Invitations"
+        },
+        "content": {
+          "label": "Made my life so much easier when organizing my huge birthday bash and to send thank you notes the next day was awesome.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id905186754"
+          },
+          "name": {
+            "label": "Débala"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-18T09:53:19-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14682316978"
+        },
+        "title": {
+          "label": "Five Stars!"
+        },
+        "content": {
+          "label": "Love Punchbowl and all it offers!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id393554404"
+          },
+          "name": {
+            "label": "Djsasi"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-18T04:38:46-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14681236492"
+        },
+        "title": {
+          "label": "Fun and Easy"
+        },
+        "content": {
+          "label": "It’s a lot of fun to use, they have plenty to choose from. I’m a platinum member so I get more perks and I’m happy with it. The only thing I wish was that they would use my payment method on file when I purchase a gift card, that way I don’t have retype my information again.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id472289622"
+          },
+          "name": {
+            "label": "Ne'sMom"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-17T19:20:41-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14679849818"
+        },
+        "title": {
+          "label": "A Great Resource"
+        },
+        "content": {
+          "label": "I enjoy this app it is easy to use and convenient .",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id126578757"
+          },
+          "name": {
+            "label": "Lyn’sozzy"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-17T06:55:49-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14677599786"
+        },
+        "title": {
+          "label": "Cards"
+        },
+        "content": {
+          "label": "I love the cards and invites but learning how to use it is difficult.  I’m using it more and that is helping.  The cards are beautiful and lots of them to choose from.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id667005005"
+          },
+          "name": {
+            "label": "twistyclip"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T12:32:03-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14674652560"
+        },
+        "title": {
+          "label": "Punchbowl makes things easy"
+        },
+        "content": {
+          "label": "It’s been great this far! I can easily reach out to guests",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1646257686"
+          },
+          "name": {
+            "label": "Awesome Events"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T10:34:45-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14674297783"
+        },
+        "title": {
+          "label": "Review"
+        },
+        "content": {
+          "label": "I love using Punchbowl! It’s so easy & fun to select & design your perfect invite, thank you’s and all occasion cards! This little time saver will collect rsvps, share pictures of your event and add a sign up list for your potluck! I wouldn’t want to a plan an event without this amazing product.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id153949973"
+          },
+          "name": {
+            "label": "Fentonkidz3"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T08:54:21-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14673962945"
+        },
+        "title": {
+          "label": "Birthday invites"
+        },
+        "content": {
+          "label": "Great App!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1329357192"
+          },
+          "name": {
+            "label": "Ritaj58"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T05:56:56-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14673339941"
+        },
+        "title": {
+          "label": "RJ"
+        },
+        "content": {
+          "label": "Good 💯💯💯💯💯",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id122388197"
+          },
+          "name": {
+            "label": "jayindy58"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T05:48:46-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14673312841"
+        },
+        "title": {
+          "label": "🙂"
+        },
+        "content": {
+          "label": "🎶",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id200441358"
+          },
+          "name": {
+            "label": "dockee1"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T05:34:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14673265366"
+        },
+        "title": {
+          "label": "Dr. L"
+        },
+        "content": {
+          "label": "Love Punch Bowl",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id30985440"
+          },
+          "name": {
+            "label": "Diabetes lady"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-16T05:21:20-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14673222989"
+        },
+        "title": {
+          "label": "Easy to create"
+        },
+        "content": {
+          "label": "When you need a card in a hurry, Punchbowl allows to create a card and send an email!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id611548944"
+          },
+          "name": {
+            "label": "C. Lovv"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-14T10:41:56-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14666446251"
+        },
+        "title": {
+          "label": "Love it!"
+        },
+        "content": {
+          "label": "I have used punchbowl for all of our parties and get togethers. The invitations are so cute and the app is very easy to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id632258968"
+          },
+          "name": {
+            "label": "Ovandobabies"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-13T10:49:36-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14662592804"
+        },
+        "title": {
+          "label": "Love this app"
+        },
+        "content": {
+          "label": "It’s just a breeze to create a custom invitation",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id216269394"
+          },
+          "name": {
+            "label": "Susan Geoghegan"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-12T19:30:05-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14660093944"
+        },
+        "title": {
+          "label": "Sweet and easy and special"
+        },
+        "content": {
+          "label": "I love individualized cards.  I HATE going to the post office.  I never remember to mail my cards. NOW, my friends are amazed that they receive a thank you card the same day they give a present.  \n\nI’m so proud of me!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id106393750"
+          },
+          "name": {
+            "label": "Millyon"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-12T19:05:54-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14660033542"
+        },
+        "title": {
+          "label": "Freezes"
+        },
+        "content": {
+          "label": "It is a great concept but way too many bugs. I’m constantly resetting my phone to get it to work.  After paying for the premium subscription this is unacceptable.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id32484101"
+          },
+          "name": {
+            "label": "JMossiphone"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-12T04:23:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14657394209"
+        },
+        "title": {
+          "label": "I love Punchbowl!"
+        },
+        "content": {
+          "label": "From sending customized cards and invites to managing guest lists and being able to message groups or individuals, this app allows me to do it all!!! The best part is, it's easy to use!!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id210931664"
+          },
+          "name": {
+            "label": "rebecca9026"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-11T12:45:19-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14655109815"
+        },
+        "title": {
+          "label": "My Preferred Choice"
+        },
+        "content": {
+          "label": "I really enjoy using Punchbowl to organize all my events. It’s easy to use, easy to track, and visually appealing.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id635596282"
+          },
+          "name": {
+            "label": "heather privett"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-10T15:09:24-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14651446685"
+        },
+        "title": {
+          "label": "Amazing App"
+        },
+        "content": {
+          "label": "Love this app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id619049293"
+          },
+          "name": {
+            "label": "Jessica125x"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-09T23:43:08-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14648671146"
+        },
+        "title": {
+          "label": "Great"
+        },
+        "content": {
+          "label": "Awesome",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id263830771"
+          },
+          "name": {
+            "label": "Katie.Lee."
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-09T11:36:45-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14646881251"
+        },
+        "title": {
+          "label": "Favorite Invites"
+        },
+        "content": {
+          "label": "I found punchbowl 3 years ago for my daughter's first birthday. I researched others before using and every year near her birthday but it's remained my favorite",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id200428488"
+          },
+          "name": {
+            "label": "ChinnoBoi"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-07T21:41:51-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14640698614"
+        },
+        "title": {
+          "label": "Great App"
+        },
+        "content": {
+          "label": "To make a perfect invitations",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id608900213"
+          },
+          "name": {
+            "label": "KenHolloway"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-07T09:01:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14638710413"
+        },
+        "title": {
+          "label": "Favorite invitation app"
+        },
+        "content": {
+          "label": "Super user friendly and easy to upload my own designs!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id239278819"
+          },
+          "name": {
+            "label": "LQuinonez"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-07T05:40:17-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14638037627"
+        },
+        "title": {
+          "label": "Dad’s birthday"
+        },
+        "content": {
+          "label": "Awesome app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id235817530"
+          },
+          "name": {
+            "label": "Awilda2806"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-06T18:46:05-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14636468034"
+        },
+        "title": {
+          "label": "Life saver"
+        },
+        "content": {
+          "label": "Love Punchbowl its so convenient 🥰",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id340666960"
+          },
+          "name": {
+            "label": "JaimeVols"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-06T15:54:23-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14636040622"
+        },
+        "title": {
+          "label": "Great!!"
+        },
+        "content": {
+          "label": "Very easy to use!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id655642387"
+          },
+          "name": {
+            "label": "Desismommy"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-06T11:24:21-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14635333158"
+        },
+        "title": {
+          "label": "Good and free"
+        },
+        "content": {
+          "label": "Love this for invitations",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1197563169"
+          },
+          "name": {
+            "label": "Midge0907"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-06T05:15:27-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14634151606"
+        },
+        "title": {
+          "label": "Always easy & cute"
+        },
+        "content": {
+          "label": "The free invites are great and a great variety the subscription is perfect for holiday and special occasion customization. Love.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id852175451"
+          },
+          "name": {
+            "label": "steven_wit_a_v"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-05T20:05:34-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14632894912"
+        },
+        "title": {
+          "label": "Awesome Invitation App"
+        },
+        "content": {
+          "label": "Easy to use and customize. The free version is awesome.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id14835262"
+          },
+          "name": {
+            "label": "HeadTurnerY2k"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-05T11:30:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14631582301"
+        },
+        "title": {
+          "label": "Best e-invites"
+        },
+        "content": {
+          "label": "Great variety, easy to edit and always fun to send out!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id902068245"
+          },
+          "name": {
+            "label": "smej18"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-05T11:20:53-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14631553703"
+        },
+        "title": {
+          "label": "Retirement"
+        },
+        "content": {
+          "label": "Easy to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1025223665"
+          },
+          "name": {
+            "label": "Taylor19971"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-04T22:20:39-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14629416077"
+        },
+        "title": {
+          "label": "Kamya birthday"
+        },
+        "content": {
+          "label": "Party",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id218375228"
+          },
+          "name": {
+            "label": "MdotTdot"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-04T18:48:28-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14628931673"
+        },
+        "title": {
+          "label": "Easy Peasy!"
+        },
+        "content": {
+          "label": "Easy to use! I highly recommend!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id190840908"
+          },
+          "name": {
+            "label": "Bobo&momo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-04T18:06:22-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14628827098"
+        },
+        "title": {
+          "label": "Service"
+        },
+        "content": {
+          "label": "Thank you for this cool ability to send cards across the miles",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id590845485"
+          },
+          "name": {
+            "label": "marmurcec"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-04T14:19:41-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14628273524"
+        },
+        "title": {
+          "label": "Wonderful app!"
+        },
+        "content": {
+          "label": "I love being able to send a card any time I want!  Thank you for such a great app!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id213903501"
+          },
+          "name": {
+            "label": "Novarhea"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-04T11:13:02-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14627721460"
+        },
+        "title": {
+          "label": "Invites"
+        },
+        "content": {
+          "label": "Great service and diverse products",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id360219495"
+          },
+          "name": {
+            "label": "Bbyskam72"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-03T18:57:47-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14624991273"
+        },
+        "title": {
+          "label": "Convenient"
+        },
+        "content": {
+          "label": "Love this app! I have used it the last 6 years",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1362331072"
+          },
+          "name": {
+            "label": "Foggy Morning 72"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-03T10:39:35-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14623663942"
+        },
+        "title": {
+          "label": "Love Punchbowl"
+        },
+        "content": {
+          "label": "I love being able to send electronic cards. Saves me trips to the store and tons of money!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1264237800"
+          },
+          "name": {
+            "label": "houseshoping"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-03T09:02:37-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14623338417"
+        },
+        "title": {
+          "label": "Val"
+        },
+        "content": {
+          "label": "Wonderful",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id128449620"
+          },
+          "name": {
+            "label": "Beaner4u"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-03T05:53:01-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14622675834"
+        },
+        "title": {
+          "label": "New home"
+        },
+        "content": {
+          "label": "So easy.   I’ll always use this",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id463779735"
+          },
+          "name": {
+            "label": "Bigblkjack"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-02T18:35:15-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14620966418"
+        },
+        "title": {
+          "label": "E invite"
+        },
+        "content": {
+          "label": "Great it was free",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1079337373"
+          },
+          "name": {
+            "label": "singingmada"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-02T09:07:44-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "7.11.14"
+        },
+        "id": {
+          "label": "14619417492"
+        },
+        "title": {
+          "label": "10 stars"
+        },
+        "content": {
+          "label": "Punch is great easy to use and makes birthday guests list and invitation a breeze.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=628215241&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2026-10-22T20:34:33-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/id=628215241/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=628215241/sortby=mostrecent/xml?urlDesc=/customerreviews/id=628215241/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=628215241/sortby=mostrecent/xml?urlDesc=/customerreviews/id=628215241/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=628215241/sortby=mostrecent/xml?urlDesc=/customerreviews/id=628215241/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=628215241/sortby=mostrecent/xml?urlDesc=/customerreviews/id=628215241/sortBy=mostRecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/us/rss/customerreviews/id=628215241/sortBy=mostRecent/json"
+    }
+  }
+}

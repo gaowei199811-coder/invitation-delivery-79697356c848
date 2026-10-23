@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1191885703"
+          },
+          "name": {
+            "label": "Perrito pipiolo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T11:13:27-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14694233511"
+        },
+        "title": {
+          "label": "Difícil de entender"
+        },
+        "content": {
+          "label": "Haz lo más entendible",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1213547600"
+          },
+          "name": {
+            "label": "vamisetroc"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T11:11:25-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14694226860"
+        },
+        "title": {
+          "label": "Hermoso"
+        },
+        "content": {
+          "label": "Beautiful",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1080676132"
+          },
+          "name": {
+            "label": "Mz Lil~Bit"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T08:26:18-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14693674361"
+        },
+        "title": {
+          "label": "Customer Service Sucks"
+        },
+        "content": {
+          "label": "I need help and I can’t get anyone to assist",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id86809467"
+          },
+          "name": {
+            "label": "IneffableYesOrNo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T07:40:56-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14693510841"
+        },
+        "title": {
+          "label": "A Stellar Addition to any Design Stack"
+        },
+        "content": {
+          "label": "If you think you’re too advanced to benefit from using Canva, it’s your loss. What a tremendous tool! \n\nAnd it is worth knowing, Canva donates FREE pro accounts to Nonprofit Organizations! Truly commendable and an amazing lift for NPOs who in most instances need ever bit of help in delivering their messaging as possible. Canva can be a vital part of any Org with something to say.\n\nI should know, I’m the founder of an NPO, and very grateful to have such a tool at our fingertips.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id41825654"
+          },
+          "name": {
+            "label": "Kayela"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T07:28:50-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14693468028"
+        },
+        "title": {
+          "label": "Better with out the infusion of AI"
+        },
+        "content": {
+          "label": "Please take all of the ai updates out.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1018174717"
+          },
+          "name": {
+            "label": "Mrs Big Les"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T06:47:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14693322528"
+        },
+        "title": {
+          "label": "Best Designing App for Newbies"
+        },
+        "content": {
+          "label": "Easy to follow instructions for those that are new to designing.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1982173796"
+          },
+          "name": {
+            "label": "Cvchavez2363"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T06:29:41-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14693258096"
+        },
+        "title": {
+          "label": "Worth it"
+        },
+        "content": {
+          "label": "Just amazing and love how easy it is to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id485590104"
+          },
+          "name": {
+            "label": "ko myo 5"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T06:24:32-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14693240172"
+        },
+        "title": {
+          "label": "Design"
+        },
+        "content": {
+          "label": "Good",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1959643839"
+          },
+          "name": {
+            "label": "Primera vez usándolo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-21T03:33:11-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14692696928"
+        },
+        "title": {
+          "label": "Experiencia con la aplicación"
+        },
+        "content": {
+          "label": "Me brindo herramientas muy fácil de manejar y con mucha comodidad, ayudándome a hacer efectivo el trabajo que quería presentar aparte de ser una aplicación con muy buen catálogo de plantillas para ayudarte a aliviar el trabajo. Te brinda estrategia y herramientas de muy fácil uso para complementar el rendimiento laboral.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1904847326"
+          },
+          "name": {
+            "label": "SLexi333"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T21:20:13-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14691869305"
+        },
+        "title": {
+          "label": "Hours Lost if I can't Save it"
+        },
+        "content": {
+          "label": "Got a free trial cuz I read it is good for youtube vids.  I spent a few hours editing about 15 minutes worth of footage.  Can't download, can't share without uploading, can't upload either. \n\nWas angry and used another editor for a few days, decided to give it a try with something shorter (less than 5 minutes).\n\nSpent like 30 minutes editing and it got SUPER laggy in playbacks so I decided I'd save it and polish off in another editor.  \n\nCan't download, can't share without uploading, can't upload.\n\nCan't keep wasting my time.\n\nDefinitely disappointed.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1890280510"
+          },
+          "name": {
+            "label": "teto *my name is teto*"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T19:36:04-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14691632722"
+        },
+        "title": {
+          "label": "please add some drawing of teto"
+        },
+        "content": {
+          "label": "this ate up",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id236651010"
+          },
+          "name": {
+            "label": "IamDessiecutie..."
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T18:46:10-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14691508532"
+        },
+        "title": {
+          "label": "The Best Editor App Ever"
+        },
+        "content": {
+          "label": "It is very helpful app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1393410387"
+          },
+          "name": {
+            "label": "GARCIA0311MN"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T18:30:36-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14691469284"
+        },
+        "title": {
+          "label": "GOOD EXPERIENSE"
+        },
+        "content": {
+          "label": "IS VERY FINE",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id329029400"
+          },
+          "name": {
+            "label": "gonsos0328"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T18:13:06-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14691424282"
+        },
+        "title": {
+          "label": "Amazing friendly"
+        },
+        "content": {
+          "label": "Such er human . Without words",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1826643101"
+          },
+          "name": {
+            "label": "Prinesee"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T17:01:15-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14691240355"
+        },
+        "title": {
+          "label": "Canva"
+        },
+        "content": {
+          "label": "I loveee Canva down I highly recommend using it.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1040323910"
+          },
+          "name": {
+            "label": "Amelia R Ch"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T16:46:10-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14691203892"
+        },
+        "title": {
+          "label": "Great app!"
+        },
+        "content": {
+          "label": "I definitely recommend this app. When you first start it can seem a little bit complex, but in a day or two of using it, it will be easy.  I recommend using poster/ portrait for basically everything unless you want to do a video or something horizontal. The elements are great, my favorite font is chewy, and it is really easy to use, but you can make awesome stuff. \n\nOne thing- if you don’t have premium then you have about %50 of the content. I have premium, but for people who don’t, I feel it makes them not want to use the app. Maybe make it so you can do more things without premium. \nJust a side note, for the zooming in and out, maybe make a bar on the slider so you know where the original was. I always loose that and then am struggling for the next 5 minutes.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id847950709"
+          },
+          "name": {
+            "label": "BekahLynn95"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T16:19:50-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14691140517"
+        },
+        "title": {
+          "label": "Used to be usable"
+        },
+        "content": {
+          "label": "This app used to have so many options that were free for us who can’t afford the subscription. Now everything is behind a paywall and as someone who’s used this app for 6+ years it’s incredibly disappointing and extremely frustrating. Not to mention how much AI garbage is now overrunning the app. Considering deleting and using a different app.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1108738308"
+          },
+          "name": {
+            "label": "xobman"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T15:16:39-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14690983577"
+        },
+        "title": {
+          "label": "Ok"
+        },
+        "content": {
+          "label": "Oki",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1804082140"
+          },
+          "name": {
+            "label": "Elijah6iii"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T13:58:22-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14690782089"
+        },
+        "title": {
+          "label": "bad app"
+        },
+        "content": {
+          "label": "the stupid bad ai assistant keeps saying \"you have no prompt credits. you can upgrade to get more prompt credits\" fix this also the ai templates suck",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1596216901"
+          },
+          "name": {
+            "label": "Ty USVI"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T13:43:55-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14690743351"
+        },
+        "title": {
+          "label": "Art"
+        },
+        "content": {
+          "label": "Great app to Use for Business and Marketing",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id149148621"
+          },
+          "name": {
+            "label": "Sparkiie"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T13:14:00-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14690660881"
+        },
+        "title": {
+          "label": "P Payne"
+        },
+        "content": {
+          "label": "This app I. Would love to purchase but out off my price range plus this is for a non-profit art exhibits",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1393373309"
+          },
+          "name": {
+            "label": "Ohiolovesbnm"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T12:34:52-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14690546808"
+        },
+        "title": {
+          "label": "Great"
+        },
+        "content": {
+          "label": "Great use!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1758531291"
+          },
+          "name": {
+            "label": "Neko Verna"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T12:31:56-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14690538449"
+        },
+        "title": {
+          "label": "Nice work"
+        },
+        "content": {
+          "label": "Pros: lots of templates and tools to work with can print out stuff which is cool.\nCons: can’t download image with transparency on and a little hard to easily navigate",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1981917056"
+          },
+          "name": {
+            "label": "Canvaaaaaaa"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T12:27:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14690525272"
+        },
+        "title": {
+          "label": "Emily Norwood"
+        },
+        "content": {
+          "label": "Best app ever I will be using this app for a while but I just don’t like how you have to pay to keep using the Canva ai but it’s still fun",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id408736831"
+          },
+          "name": {
+            "label": "Mooretacos"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T10:12:03-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14690104078"
+        },
+        "title": {
+          "label": "Love it"
+        },
+        "content": {
+          "label": "I’m a huge fan of Canva. I first started using it back in 2019/2020 when I was teaching and find it to be really helpful as a researcher as well for making infographics for publications, graphics for videos, all sorts of things. It’s only improved over the years in my opinion!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1350492204"
+          },
+          "name": {
+            "label": "Listing with Lizzy"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T07:04:19-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14689468345"
+        },
+        "title": {
+          "label": "Lifesaver"
+        },
+        "content": {
+          "label": "Canva has been a complete lifesaver for me. Plenty of templates to use and original projects are so easy with all the user-friendly tools they have. Thank you Canva for being a lifesaver when I’m on a deadline.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id194244330"
+          },
+          "name": {
+            "label": "pretty ridiculously neato"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T07:03:28-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14689465350"
+        },
+        "title": {
+          "label": "Life changing"
+        },
+        "content": {
+          "label": "This app saves me more time and energy than maybe any other app. Thee best for creating and designing any ads or flyers for events",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1605970856"
+          },
+          "name": {
+            "label": "BEST OF BRAIN GAMES"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T06:46:20-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14689406185"
+        },
+        "title": {
+          "label": "Love"
+        },
+        "content": {
+          "label": "I love it i'm only ten yet it is so cool",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id950543695"
+          },
+          "name": {
+            "label": "117gh"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T04:41:28-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14688995096"
+        },
+        "title": {
+          "label": "Great Incredible"
+        },
+        "content": {
+          "label": "Design designing was amazing",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id902619592"
+          },
+          "name": {
+            "label": "soniyamahjoob"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-20T01:53:25-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14688557168"
+        },
+        "title": {
+          "label": "Helpful and creative"
+        },
+        "content": {
+          "label": "That is amazing",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1127708302"
+          },
+          "name": {
+            "label": "elgranok"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T22:00:38-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14688063971"
+        },
+        "title": {
+          "label": "super"
+        },
+        "content": {
+          "label": "esta es mi herramiento de muchos años y disfruto siempre trabajar con Canvas",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1272434529"
+          },
+          "name": {
+            "label": "Bàn phím iPhone"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T19:00:54-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14687654783"
+        },
+        "title": {
+          "label": "Graphic"
+        },
+        "content": {
+          "label": "Ok",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1800058098"
+          },
+          "name": {
+            "label": "MA@Thorndike"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T17:48:14-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14687468928"
+        },
+        "title": {
+          "label": "Great for Creatives"
+        },
+        "content": {
+          "label": "This is where it’s at",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id322433775"
+          },
+          "name": {
+            "label": "Diego Gonzalez braun"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T14:38:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14686994312"
+        },
+        "title": {
+          "label": "The best edit ever"
+        },
+        "content": {
+          "label": "Is the best",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id678730537"
+          },
+          "name": {
+            "label": "LEIL@ BEIL@"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T14:28:17-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14686968346"
+        },
+        "title": {
+          "label": "Canva review"
+        },
+        "content": {
+          "label": "THIS IS MY FAVORITE APP EVER CREATED AND I LOVE IT SO MUCHHHHHHHH!!!!!!!!!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id370860961"
+          },
+          "name": {
+            "label": "Beard Tree"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T13:49:19-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14686865525"
+        },
+        "title": {
+          "label": "Photo and video editor"
+        },
+        "content": {
+          "label": "The Best Editor and easy to use",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1904274980"
+          },
+          "name": {
+            "label": "C4X67"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T13:38:05-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14686835229"
+        },
+        "title": {
+          "label": "Good"
+        },
+        "content": {
+          "label": "I personally like Canva for its simple creative help, but I would wish that it was easier to make complex designs like Adobe Express and other apps.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1650206403"
+          },
+          "name": {
+            "label": "Baneguitaz"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T12:09:42-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14686585255"
+        },
+        "title": {
+          "label": "Excelente !!"
+        },
+        "content": {
+          "label": "Me encanta con ella puedo crear todo lo que quiera !!!!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id35500610"
+          },
+          "name": {
+            "label": "ALJ8"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T11:40:39-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14686499168"
+        },
+        "title": {
+          "label": "Not intuitive or user friendly"
+        },
+        "content": {
+          "label": "Menus are not ideal",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id474819033"
+          },
+          "name": {
+            "label": "dlpgriffin"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T11:06:39-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14686397040"
+        },
+        "title": {
+          "label": "Non-Profit Leader"
+        },
+        "content": {
+          "label": "This is an excellent tool to have at your fingertips. Get it use it and go forth! It’s amazing!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1019851035"
+          },
+          "name": {
+            "label": "biayib"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T09:30:48-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14686096439"
+        },
+        "title": {
+          "label": "Doesn’t follow clear instructions and seems it’s designed to drain your tokens 👎🏻"
+        },
+        "content": {
+          "label": "This AI has a mind of its own and doesn’t follow clear prompts/instructions, sometimes it even changes the entire image uploaded that was meant for editing e.g removing text or object",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id346052763"
+          },
+          "name": {
+            "label": "AGreatViewer"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T09:11:34-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14686033678"
+        },
+        "title": {
+          "label": "video editor needs work"
+        },
+        "content": {
+          "label": "Just finished editing a long form video. While there’s extensive editing elements which are unique and creative, none of it is worth it when you can’t export your video. My creation I spent hours on, can no longer be shared in my original intended manner. I will be choosing another editing app moving forward.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id315112668"
+          },
+          "name": {
+            "label": "Anonymous guy628"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T08:47:29-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14685954409"
+        },
+        "title": {
+          "label": "For all your business needs!!"
+        },
+        "content": {
+          "label": "My go to tool for business and personal. Canva business is worth the subscription. So many uses you will wonder how you survived without it.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1407508937"
+          },
+          "name": {
+            "label": "Ntg1441@"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T08:06:42-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14685818081"
+        },
+        "title": {
+          "label": "app"
+        },
+        "content": {
+          "label": "good app\nhelp me create",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id304314560"
+          },
+          "name": {
+            "label": "OthnielALV"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T07:18:56-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14685655304"
+        },
+        "title": {
+          "label": "Una APP muy completa"
+        },
+        "content": {
+          "label": "Podría decir que es una navaja suiza llena de múltiples herramientas muy útiles para desarrollar casi cualquier tipo de proyecto.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id889751110"
+          },
+          "name": {
+            "label": "A. Queen 2844"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T06:04:23-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14685402604"
+        },
+        "title": {
+          "label": "Amazing!"
+        },
+        "content": {
+          "label": "I use Canva for everything from signs to PowerPoints. It is easy to use and navigate.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id160705930"
+          },
+          "name": {
+            "label": "Bryguy192"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T04:28:31-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14685103978"
+        },
+        "title": {
+          "label": "Bugs in Export content"
+        },
+        "content": {
+          "label": "Everything exported is coming out distorted. There is some bug in the newest update.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1904245234"
+          },
+          "name": {
+            "label": "SquirrleyMo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-19T00:18:07-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "4.231.1"
+        },
+        "id": {
+          "label": "14684509355"
+        },
+        "title": {
+          "label": "Beginner"
+        },
+        "content": {
+          "label": "I’m learning hope it gets better",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1815643553"
+          },
+          "name": {
+            "label": "GREAT GO TO"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-18T20:45:05-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14684066391"
+        },
+        "title": {
+          "label": "IN A FLASH"
+        },
+        "content": {
+          "label": "I always keep Canva on my mind, because it can solve most any problem in a flash!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/us/reviews/id1063005260"
+          },
+          "name": {
+            "label": "Carol  Moreira"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2026-10-18T18:55:40-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "1.124.0"
+        },
+        "id": {
+          "label": "14683812671"
+        },
+        "title": {
+          "label": "caca"
+        },
+        "content": {
+          "label": "perfect app",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/us/review?id=897446215&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2026-10-22T20:34:30-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/id=897446215/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=897446215/sortby=mostrecent/xml?urlDesc=/customerreviews/id=897446215/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=10/id=897446215/sortby=mostrecent/xml?urlDesc=/customerreviews/id=897446215/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=1/id=897446215/sortby=mostrecent/xml?urlDesc=/customerreviews/id=897446215/sortBy=mostRecent/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/us/rss/customerreviews/page=2/id=897446215/sortby=mostrecent/xml?urlDesc=/customerreviews/id=897446215/sortBy=mostRecent/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/us/rss/customerreviews/id=897446215/sortBy=mostRecent/json"
+    }
+  }
+}

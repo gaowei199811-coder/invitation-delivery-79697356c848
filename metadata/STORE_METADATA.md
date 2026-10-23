@@ -156,64 +156,55 @@ Diese Version bietet Einladungsvorlagen, die Eingabe von Veranstaltungsdetails, 
 
 | Field | Value | Length / limit |
 | --- | --- | --- |
-| name | Invitation Maker | 16 / 30 |
-| subtitle | Birthday & party card design | 28 / 30 |
-| promotional_text | Turn a template into an invitation with your names, time and venue. Style the text, preview the finished card, then share the image or save it to Photos. | 153 / 170 |
-| keywords | event,templates,fonts,typography,digital,celebration,lettering,personalize,image,sharing,stationery | 99 / 100 |
+| name | Dearly: Invitation Studio | 25 / 30 |
+| subtitle | Bilingual cards for each guest | 30 / 30 |
+| promotional_text | Write two language versions, style each detail, and export named PNG cards for your guests. Try compatible themes with your wording intact, then reuse your design. | 163 / 170 |
+| keywords | birthday,wedding,party,baby,shower,event,templates,fonts,typography,photo,cutout,design,personalize | 99 / 100 |
 | support_url | (not set) | - |
 | marketing_url | (not set) | - |
-| description | see below | 3047 / 4000 |
+| description | see below | 2909 / 4000 |
 | whats_new | see below | 138 / 4000 |
 
-### Description (3047 / 4000)
+### Description (2909 / 4000)
 
-Invitation Maker turns an illustrated template into a personal invitation image. Bring your event details, lettering and photos together in a card you can save and share.
+Write your invitation in two language versions, style the details, then create a named card for every guest. Bring your wording, photo cutouts and reusable designs together as shareable images.
 
-Start with your occasion
-Find a visual starting point for the gathering you have in mind.
-• Browse birthday, wedding, baby shower, dinner and holiday templates.
-• Open a full sample card to compare the artwork and the space given to the title before choosing a design.
+Write for both audiences
+Keep two sets of wording in one design for different audiences.
+• Write the second language version yourself, then switch previews to review each card.
+• Choose the first language, second language or both for output as separate images.
 
-Put the plans into words
-Give guests the practical details and a welcome in your own voice.
-• Enter the event title, names, date, time, venue and address; make the arrival time clear.
-• Add a personal message and keep it focused on your guests.
+Make each guest feel welcome
+Personalize a batch without rebuilding the invitation for every person.
+• Paste guest names, one per line, and edit the greeting around the name placeholder. Your original invitation message stays in place.
+• Preview named cards and export a separate PNG for each guest in the selected language versions. Create batches of up to 100 guests.
 
-Shape the lettering
-Edit individual text blocks to give the card a clear visual hierarchy.
-• Choose a decorative font for a heading and a simpler face for the event details.
-• Change the selected text's color and style. Compare the letters against the background so the artwork complements your words.
+Give your words a clear hierarchy
+Treat the heading, names and practical details individually so guests can find what matters.
+• Adjust text size and alignment to balance a prominent title with readable event information.
+• Set letter spacing, line spacing and rotation for the selected text element, giving crowded lines more room or a heading its own angle.
 
-Explore the look and format
-Try a different composition while keeping the invitation's wording.
-• Switch between compatible template styles and explore color schemes to suit the mood of the celebration.
-• Use the available portrait, landscape or square layouts.
+Try a new look with the same wording
+Explore compatible themes without entering your event text again.
+• Switch template styles while retaining your words, then review how they fit the new composition. Theme switching is unavailable when a photo background is in use.
+• Change the color scheme to bring the artwork into line with the mood of your gathering.
 
-Bring in a personal photo
-Use a photo cutout to add a familiar face or meaningful object to the design.
-• Open the cutout tool and select a photo from your library or use its camera option.
-• Turn a person, pet or object into an invitation element: choose a subject connected to the occasion.
+Compose with photo cutouts
+Make a familiar person, pet or object part of the invitation layout.
+• Select a photo and extract its subject as a separate element. If a subject cannot be separated, try a clearer photo.
+• Move, resize and rotate cutouts to arrange them around the text, keeping faces and event details visible.
 
-Prepare versions for your guests
-Adapt the greeting or write a second language version for the people you invite.
-• Enter guest names one per line, adjust the greeting and preview each personalized card before exporting.
-• Write the second-language text yourself and switch between the two previews. The app interface is available in English and Simplified Chinese.
+Reuse the work you have done
+Keep a useful design ready for the next occasion.
+• Return to saved local drafts in Designs and rename them to distinguish your projects.
+• Duplicate a design to retain its content, photos and styling in a new draft, then update the event details in that copy.
 
-Keep a design to use again
-Saved local drafts let you return to work and reuse a favorite starting point.
-• Continue editing in Designs and rename drafts so you can distinguish your projects.
-• Duplicate a design for another gathering, then replace the previous event's content in the new copy.
-
-Preview, save and share
-See the complete invitation before turning it into an image for others.
-• Read the finished card once, checking spelling, line breaks and the final arrangement.
-• Share the invitation image or save it to Photos. After later edits, export and share a new image yourself.
+Export an image to share
+Turn the finished layout into a file for your chosen sharing app.
+• Export a PNG invitation, share it or save it to Photos. If you revise the design later, export and share the updated image yourself.
 
 Subscription information
-• If you choose an auto-renewing subscription, payment is charged to your Apple Account when the purchase is confirmed.
-• It renews automatically unless you cancel at least 24 hours before the current period ends.
-• Renewal is charged within the 24 hours before that period ends, at the applicable displayed renewal price.
-• You can manage or cancel that subscription in your Apple Account subscription settings.
+If an auto-renewing subscription is offered and you purchase it, payment is charged to your Apple Account at confirmation. It renews automatically unless canceled at least 24 hours before the current period ends. Your account is charged for renewal within the 24 hours before that period ends, at the displayed renewal price. Manage or cancel it in your Apple Account subscription settings.
 
 Privacy Policy: https://xhycapps.com/pp/6824400361/
 Terms of Use: https://xhycapps.com/tou/6824400361/
@@ -812,4 +803,4 @@ Terms of Use: https://xhycapps.com/tou/6824400361/
 
 ## Rationale
 
-Targeted v6 revision: only ko.description and this top-level rationale change from the supplied v5 PREVIOUS_DRAFT.json. Remove the entire R1-ko template-start recap without restatement; replace generic photo mood advice with distinct frozen-source controls for transforms, opacity, layer order and center snapping, and add practical text spacing/alignment. Preserve all nine other localizations, every short field, captions, category and whats_new exactly. Retain eight feature sections, conditional subscription information and the exact owner-confirmed legal footer. Frozen BRIEF and v8 audit establish scope; frozen Swift controls were also compared with the read-only original app. Reports supply context only, not implementation evidence. See ASO_RATIONALE.md for evidence, counts and keyword documentation discrepancy.
+English-only v7 revision from approved PREVIOUS_DRAFT.json v6. Uses the exact approved name and leads with manually authored language versions plus guest-name PNG batches. Precise typography, compatible themes retaining wording, photo cutout composition, draft reuse and actual image export provide source-backed supporting benefits. Saved Apple research informs positioning without borrowing competitor slogans or inferring exclusivity. Subscription disclosure remains conditional because the product ID is empty. All nine other localizations, screenshot captions, category, whats_new and every other key remain unchanged. See POSITIONING_SUMMARY.md for evidence and naming limits.

@@ -1,0 +1,39 @@
+{
+  "executionId": "invitation-metadata-v7-f3b78bd3-d2c5-4e40-b12e-ea2b57552dd4",
+  "requestedStep": "validate-revision",
+  "requestedState": null,
+  "effectiveStep": "validate-revision",
+  "movedBack": false,
+  "degradedStep": null,
+  "missingPaths": [],
+  "blockedReason": null,
+  "latestStep": "verify-review",
+  "clearedSteps": [
+    {
+      "stepName": "validate-revision",
+      "status": "COMPLETED",
+      "fileCount": 0,
+      "bytes": 0,
+      "laterThanTarget": false
+    },
+    {
+      "stepName": "independent-review",
+      "status": "COMPLETED",
+      "fileCount": 0,
+      "bytes": 0,
+      "laterThanTarget": true
+    },
+    {
+      "stepName": "verify-review",
+      "status": "FAILED",
+      "fileCount": 0,
+      "bytes": 0,
+      "laterThanTarget": true
+    }
+  ],
+  "fileCount": 0,
+  "totalBytes": 0,
+  "archivableFileCount": 0,
+  "archivableBytes": 0,
+  "localWorkspace": false
+}
